@@ -1,1 +1,25 @@
-{"generated_at": null, "sources": []}
+{
+  "generated_at": "2026-08-24T20:30:40+00:00",
+  "sources": [
+    {
+      "source": "Seattle",
+      "status": "healthy",
+      "technical_status": "ok",
+      "freshness_status": "fresh",
+      "volume_status": "normal",
+      "records_seen": 2121,
+      "qualifying_records": 2016,
+      "newest_permit_date": "2026-08-21",
+      "oldest_permit_date": "2004-05-19",
+      "days_since_newest_permit": 3,
+      "freshness_threshold_days": 10,
+      "previous_records_seen": null,
+      "record_count_change_pct": null,
+      "last_attempt_at": "2026-08-24T20:30:40+00:00",
+      "last_success_at": "2026-08-24T20:30:40+00:00",
+      "cached_data_available": true,
+      "source_url": "https://data.seattle.gov/Permitting/Issued-Building-Permits/8tqq-u7ib",
+      "note": "Official City of Seattle SDCI Issued Building Permits open-data feed"
+    }
+  ]
+}
