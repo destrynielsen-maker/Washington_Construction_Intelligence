@@ -9,7 +9,9 @@ EXCLUDE = re.compile(
 )
 MULTI = re.compile(
     r"\b(multi[ -]?family|apartment|apartments|townhome|townhouse|duplex|triplex|"
-    r"fourplex|condo|minium|\d+\s*[- ]?unit|\d+\s*[- ]?plex|middle housing)\b", re.I
+    r"fourplex|condo|minium|\d+\s*[- ]?unit|\d+\s*[- ]?plex|middle housing|"
+    r"two[- ]family dwelling|two[- ]family dwellings|stacked dwelling units|"
+    r"attached dwelling units)\b", re.I
 )
 SINGLE = re.compile(
     r"\b(single[- ]family|one family dwelling|one-family dwelling|new residence|"
@@ -37,10 +39,10 @@ def classify_permit(p: Permit) -> Permit:
     if permit_class.lower().startswith("multifamily"):
         p.classification = "MULTIFAMILY"
     elif permit_class.lower().startswith("single family"):
-        # Seattle groups single-family and duplex together. Use the narrative
-        # to promote true duplex/townhome/multifamily work without treating the
-        # class label itself as multifamily.
-        if re.search(r"\bduplex|townhome|townhouse|triplex|fourplex|apartment\b", description, re.I):
+        # Seattle groups one-family and duplex/two-family permits under the same
+        # class. Promote true two-family/townhome/middle-housing records from
+        # the project narrative while leaving actual one-family dwellings as SFR.
+        if MULTI.search(description):
             p.classification = "MULTIFAMILY"
         else:
             p.classification = "SINGLE_FAMILY"
