@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7113167-cn</guid>
+      <title>[Seattle] Establish use as housing for two stacked dwelling units  per land use code  per land use code.  Construct two-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7113167-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7113167-CN
+Issued: 2026-08-24
+Address: 2117 NE 82ND ST
+Contractor: 
+Valuation: 718340.0
+Units: 2</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7124084-cn</guid>
       <title>[Seattle] Construct new West two family dwelling (duplex 2)  per plan. (Establish use as townhouse  per land use code.  Construct (2) two family dwellings  per plan.  Review and processing for two records under 7104927-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7124084-CN</link>
@@ -1983,11 +1997,11 @@ Units: 3</description>
       <title>[Seattle] Construct new apartment building  occupy per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6837439-CN</link>
       <description>Category: MULTIFAMILY
-Score: 70
+Score: 75
 Permit: 6837439-CN
 Issued: 2026-06-03
 Address: 228 11TH AVE E
-Contractor: 
+Contractor: Exxel Pacific
 Valuation: 6071878.0
 Units: 70</description>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
@@ -3485,20 +3499,6 @@ Score: 40
 Permit: 7099500-CN
 Issued: 2026-04-01
 Address: 5035 A FAUNTLEROY WAY SW
-Contractor: 
-Valuation: 266130.0
-Units: 1</description>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7099498-cn</guid>
-      <title>[Seattle] Construct bldg. 9  per plans (Establish use as townhouse and single-family dwellings [28 units/20 buildings] per the land use code. Construct development of one- and two-family dwellings per plans. Reviews and processing for (20) -CN's under 7067546)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7099498-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7099498-CN
-Issued: 2026-04-01
-Address: 5033 FAUNTLEROY WAY SW
 Contractor: 
 Valuation: 266130.0
 Units: 1</description>
