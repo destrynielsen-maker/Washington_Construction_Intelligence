@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T19:18:18+00:00",
+  "generated_at": "2026-08-26T02:14:24+00:00",
   "builders": [
     {
       "contractor": "Alexander Hiebert",
@@ -12,18 +12,6 @@
         "Seattle"
       ],
       "top_score": 25
-    },
-    {
-      "contractor": "Nucon LLC",
-      "permits_90d": 1,
-      "single_family": 1,
-      "multifamily": 0,
-      "commercial": 0,
-      "combined_valuation": 239383.0,
-      "jurisdictions": [
-        "Seattle"
-      ],
-      "top_score": 20
     }
   ]
 }
