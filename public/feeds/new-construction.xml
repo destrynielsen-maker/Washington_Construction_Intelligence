@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7130172-cn</guid>
+      <title>[Seattle] Construct new SE one family dwelling (SFR 4)  per plan.  (Establish use as single family residence per land use code.  Construct (4) one family dwellings  per plan.   Review and processing for (4) records under 7112263-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130172-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7130172-CN
+Issued: 2026-08-25
+Address: 3929 SW SOUTHERN ST
+Contractor: 
+Valuation: 402767.0
+Units: 1</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7130171-cn</guid>
       <title>[Seattle] Construct new SW one family dwelling (SFR 3)  per plan.  (Establish use as single family residence per land use code.  Construct (4) one family dwellings  per plan.   Review and processing for (4) records under 7112263-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130171-CN</link>
@@ -47,20 +61,6 @@ Units: 1</description>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7130172-cn</guid>
-      <title>[Seattle] Construct new SE one family dwelling (SFR 4)  per plan.  (Establish use as single family residence per land use code.  Construct (4) one family dwellings  per plan.   Review and processing for (4) records under 7112263-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130172-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7130172-CN
-Issued: 2026-08-25
-Address: 3929 SW SOUTHERN ST
-Contractor: 
-Valuation: 402767.0
-Units: 1</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7113167-cn</guid>
       <title>[Seattle] Establish use as housing for two stacked dwelling units  per land use code  per land use code.  Construct two-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7113167-CN</link>
@@ -89,34 +89,6 @@ Units: 1</description>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7137276-cn</guid>
-      <title>[Seattle] Construct east one-family dwelling  per plan (Allow housing for two new detached dwelling units  per land use code. Existing detached dwelling to remain. Construct (2) one-family dwellings  per plan. Review &amp; process for (2) records under 7120935-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137276-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7137276-CN
-Issued: 2026-08-24
-Address: 3814 24TH AVE W
-Contractor: 
-Valuation: 418548.0
-Units: 1</description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7120935-cn</guid>
-      <title>[Seattle] Construct middle one-family dwelling  per plan (Allow housing for two new detached dwelling units  per land use code. Existing detached dwelling to remain. Construct (2) one-family dwellings  per plan.  Review &amp; process for (2) records under 7120935-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7120935-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7120935-CN
-Issued: 2026-08-24
-Address: 3812 24TH AVE W
-Contractor: 
-Valuation: 417432.0
-Units: 1</description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7148653-cn</guid>
       <title>[Seattle] Construct detached garage to replace existing  accessory to one-family dwelling  subject to field inspection [STFI].</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7148653-CN</link>
@@ -131,6 +103,20 @@ Units: </description>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7137276-cn</guid>
+      <title>[Seattle] Construct east one-family dwelling  per plan (Allow housing for two new detached dwelling units  per land use code. Existing detached dwelling to remain. Construct (2) one-family dwellings  per plan. Review &amp; process for (2) records under 7120935-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137276-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7137276-CN
+Issued: 2026-08-24
+Address: 3814 24TH AVE W
+Contractor: 
+Valuation: 418548.0
+Units: 1</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7131223-cn</guid>
       <title>[Seattle] Construct new South one family dwelling  per plan. ([LU STATEMENT].  Construct (2) new one family dwellings  per plan. Review and processing for two records under 7122730-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131223-CN</link>
@@ -141,6 +127,20 @@ Issued: 2026-08-24
 Address: 9425 23RD AVE NE
 Contractor: 
 Valuation: 271623.0
+Units: 1</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7120935-cn</guid>
+      <title>[Seattle] Construct middle one-family dwelling  per plan (Allow housing for two new detached dwelling units  per land use code. Existing detached dwelling to remain. Construct (2) one-family dwellings  per plan.  Review &amp; process for (2) records under 7120935-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7120935-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7120935-CN
+Issued: 2026-08-24
+Address: 3812 24TH AVE W
+Contractor: 
+Valuation: 417432.0
 Units: 1</description>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
