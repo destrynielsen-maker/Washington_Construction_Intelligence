@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|6795369-cn</guid>
+      <title>[Seattle] Establish use as and construct new multi-family building and occupy  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6795369-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 50
+Permit: 6795369-CN
+Issued: 2026-08-26
+Address: 1320 26TH AVE S
+Contractor: 
+Valuation: 698494.0
+Units: 5</description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7130172-cn</guid>
       <title>[Seattle] Construct new SE one family dwelling (SFR 4)  per plan.  (Establish use as single family residence per land use code.  Construct (4) one family dwellings  per plan.   Review and processing for (4) records under 7112263-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130172-CN</link>
@@ -3488,20 +3502,6 @@ Address: 8321 14TH AVE NW
 Contractor: 
 Valuation: 845400.0
 Units: 2</description>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7041201-cn</guid>
-      <title>[Seattle] Construct west building  per plans (Establish use as townhouses per the land use code. Construct two multi-family buildings  occupy per plan. Reviews and processing for two -CN's under 7041201)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7041201-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7041201-CN
-Issued: 2026-06-16
-Address: 8324 MARY AVE NW
-Contractor: 
-Valuation: 800691.0
-Units: 3</description>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
