@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|6804522-cn</guid>
+      <title>[Seattle] Establish use as apartment and construct new multifamily building  occupy per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6804522-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 55
+Permit: 6804522-CN
+Issued: 2026-08-27
+Address: 9038 21ST AVE SW
+Contractor: 
+Valuation: 1945048.0
+Units: 16</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7150657-cn</guid>
+      <title>[Seattle] Construct detached accessory building to existing one-family dwelling  subject to field inspection (STFI)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7150657-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7150657-CN
+Issued: 2026-08-27
+Address: 7302 FREMONT AVE N
+Contractor: 
+Valuation: 220000.0
+Units: </description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|6795369-cn</guid>
       <title>[Seattle] Establish use as and construct new multi-family building and occupy  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6795369-CN</link>
@@ -3475,34 +3503,6 @@ Contractor:
 Valuation: 163190.0
 Units: 1</description>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7104413-cn</guid>
-      <title>[Seattle] Establish use as two attached dwelling units  per Land Use Code. Construct new two family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7104413-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7104413-CN
-Issued: 2026-06-16
-Address: 506 20TH AVE
-Contractor: 
-Valuation: 512878.0
-Units: 2</description>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7049101-cn</guid>
-      <title>[Seattle] Construct new east townhouse  per plan. (Establish use as two rowhouses and one duplex  per land use code. Construct two new townhouse buildings and one two-family dwelling  per plan. Review and processing for three records under 7033583)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7049101-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7049101-CN
-Issued: 2026-06-16
-Address: 8321 14TH AVE NW
-Contractor: 
-Valuation: 845400.0
-Units: 2</description>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

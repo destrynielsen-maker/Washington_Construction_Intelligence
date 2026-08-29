@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|6804522-cn</guid>
+      <title>[Seattle] Establish use as apartment and construct new multifamily building  occupy per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6804522-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 55
+Permit: 6804522-CN
+Issued: 2026-08-27
+Address: 9038 21ST AVE SW
+Contractor: 
+Valuation: 1945048.0
+Units: 16</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|6795369-cn</guid>
       <title>[Seattle] Establish use as and construct new multi-family building and occupy  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6795369-CN</link>
@@ -3485,20 +3499,6 @@ Score: 45
 Permit: 7099488-CN
 Issued: 2026-04-01
 Address: 5021 FAUNTLEROY WAY SW
-Contractor: 
-Valuation: 532260.0
-Units: 2</description>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7067546-cn</guid>
-      <title>[Seattle] Construct bldg. 1  per plans (Establish use as townhouse and single-family dwellings [28 units/20 buildings] per the land use code. Construct development of one- and two-family dwellings per plans. Reviews and processing for (20) -CN's under 7067546)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7067546-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7067546-CN
-Issued: 2026-04-01
-Address: 5023 FAUNTLEROY WAY SW
 Contractor: 
 Valuation: 532260.0
 Units: 2</description>
