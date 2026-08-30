@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|6848602-cn</guid>
+      <title>[Seattle] Construct North townhouse (units 19-23)  per plan. (Establish use as rowhouse per land use code. Construct 2 new townhouse buildings  per plan.  Review &amp; process for 2 records under 6848602-CN).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6848602-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 55
+Permit: 6848602-CN
+Issued: 2026-08-28
+Address: 6715 42ND AVE S
+Contractor: 
+Valuation: 1311792.0
+Units: 5</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|6937778-cn</guid>
+      <title>[Seattle] Construct South townhouse (units 24-25)  per plan. (Establish use as rowhouse per land use code. Construct 2 new townhouse buildings  per plan.  Review &amp; process for 2 records under 6848602-CN).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6937778-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 6937778-CN
+Issued: 2026-08-28
+Address: 6717 42ND AVE S
+Contractor: 
+Valuation: 497990.0
+Units: 2</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|6804522-cn</guid>
       <title>[Seattle] Establish use as apartment and construct new multifamily building  occupy per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6804522-CN</link>
@@ -16,6 +44,20 @@ Address: 9038 21ST AVE SW
 Contractor: 
 Valuation: 1945048.0
 Units: 16</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|6939524-cn</guid>
+      <title>[Seattle] Establish use as single family residence with attached accessory dwelling unit per land use code. Construct new two family dwelling with attached parking  per plan. Shoring is included.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6939524-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 6939524-CN
+Issued: 2026-08-27
+Address: 5610 BEACH DR SW
+Contractor: 
+Valuation: 776174.0
+Units: 2</description>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1280,7 +1322,7 @@ Units: 4</description>
     </item>
     <item>
       <guid isPermaLink="false">WA|seattle|7102495-cn</guid>
-      <title>[Seattle] [Land use description.] Construct new two-family dwelling  per plan.</title>
+      <title>[Seattle] Establish use as housing for one detached dwelling unit and one attached dwelling unit  per land use code. Construct new two-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7102495-CN</link>
       <description>Category: MULTIFAMILY
 Score: 45
@@ -3457,48 +3499,6 @@ Score: 45
 Permit: 7099496-CN
 Issued: 2026-04-01
 Address: 5029 C FAUNTLEROY WAY SW
-Contractor: 
-Valuation: 532260.0
-Units: 2</description>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7099494-cn</guid>
-      <title>[Seattle] Construct bldg. 5  per plans (Establish use as townhouse and single-family dwellings [28 units/20 buildings] per the land use code. Construct development of one- and two-family dwellings per plans. Reviews and processing for (20) -CN's under 7067546)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7099494-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7099494-CN
-Issued: 2026-04-01
-Address: 5027 C FAUNTLEROY WAY SW
-Contractor: 
-Valuation: 532260.0
-Units: 2</description>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7099490-cn</guid>
-      <title>[Seattle] Construct bldg. 4  per plans (Establish use as townhouse and single-family dwellings [28 units/20 buildings] per the land use code. Construct development of one- and two-family dwellings per plans. Reviews and processing for (20) -CN's under 7067546)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7099490-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7099490-CN
-Issued: 2026-04-01
-Address: 5027 A FAUNTLEROY WAY SW
-Contractor: 
-Valuation: 532260.0
-Units: 2</description>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7099488-cn</guid>
-      <title>[Seattle] Construct bldg. 2  per plans (Establish use as townhouse and single-family dwellings [28 units/20 buildings] per the land use code. Construct development of one- and two-family dwellings per plans. Reviews and processing for (20) -CN's under 7067546)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7099488-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7099488-CN
-Issued: 2026-04-01
-Address: 5021 FAUNTLEROY WAY SW
 Contractor: 
 Valuation: 532260.0
 Units: 2</description>

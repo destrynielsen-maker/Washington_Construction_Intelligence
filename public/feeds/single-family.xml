@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7119246-cn</guid>
+      <title>[Seattle] Construct MIDDLE SFD  per plan  [Allow additional single family dwelling unit with detached accessory dwelling units  per land use code.  Construct as middle  NW and NE single family dwellings (SFD); review and process for three (3) records under 7119246-CN].</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7119246-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7119246-CN
+Issued: 2026-08-28
+Address: 2642 S MORGAN ST
+Contractor: 
+Valuation: 490442.0
+Units: 1</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7150657-cn</guid>
       <title>[Seattle] Construct detached accessory building to existing one-family dwelling  subject to field inspection (STFI)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7150657-CN</link>
@@ -3489,20 +3503,6 @@ Contractor:
 Valuation: 455260.0
 Units: 2</description>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7111669-cn</guid>
-      <title>[Seattle] Construct new north one family dwelling  per plan (Construct two new one family dwellings  per plan.  Existing SFR to remain. Review and processing for two records under 7111669-CN.)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7111669-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7111669-CN
-Issued: 2026-04-18
-Address: 3006 SW ELMGROVE ST
-Contractor: 
-Valuation: 398487.0
-Units: 1</description>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
