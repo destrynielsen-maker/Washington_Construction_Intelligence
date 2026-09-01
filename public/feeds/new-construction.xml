@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">WA|seattle|6848602-cn</guid>
-      <title>[Seattle] Construct North townhouse (units 19-23)  per plan. (Establish use as rowhouse per land use code. Construct 2 new townhouse buildings  per plan.  Review &amp; process for 2 records under 6848602-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6848602-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 55
-Permit: 6848602-CN
-Issued: 2026-08-28
-Address: 6715 42ND AVE S
-Contractor: 
-Valuation: 1311792.0
-Units: 5</description>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7065494-cn</guid>
       <title>[Seattle] Establish use as housing for (6) attached units per land use code. Construct a multifamily building  occupy per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7065494-CN</link>
@@ -33,17 +19,17 @@ Units: 6</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|6937778-cn</guid>
-      <title>[Seattle] Construct South townhouse (units 24-25)  per plan. (Establish use as rowhouse per land use code. Construct 2 new townhouse buildings  per plan.  Review &amp; process for 2 records under 6848602-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6937778-CN</link>
+      <guid isPermaLink="false">WA|seattle|6848602-cn</guid>
+      <title>[Seattle] Construct North townhouse (units 19-23)  per plan. (Establish use as rowhouse per land use code. Construct 2 new townhouse buildings  per plan.  Review &amp; process for 2 records under 6848602-CN).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6848602-CN</link>
       <description>Category: MULTIFAMILY
-Score: 40
-Permit: 6937778-CN
+Score: 55
+Permit: 6848602-CN
 Issued: 2026-08-28
-Address: 6717 42ND AVE S
+Address: 6715 42ND AVE S
 Contractor: 
-Valuation: 497990.0
-Units: 2</description>
+Valuation: 1311792.0
+Units: 5</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -61,17 +47,17 @@ Units: 1</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7119246-cn</guid>
-      <title>[Seattle] Construct MIDDLE SFD  per plan  [Allow additional single family dwelling unit with detached accessory dwelling units  per land use code.  Construct as middle  NW and NE single family dwellings (SFD); review and process for three (3) records under 7119246-CN].</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7119246-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7119246-CN
+      <guid isPermaLink="false">WA|seattle|6937778-cn</guid>
+      <title>[Seattle] Construct South townhouse (units 24-25)  per plan. (Establish use as rowhouse per land use code. Construct 2 new townhouse buildings  per plan.  Review &amp; process for 2 records under 6848602-CN).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6937778-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 6937778-CN
 Issued: 2026-08-28
-Address: 2642 S MORGAN ST
+Address: 6717 42ND AVE S
 Contractor: 
-Valuation: 490442.0
-Units: 1</description>
+Valuation: 497990.0
+Units: 2</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -99,6 +85,20 @@ Issued: 2026-08-28
 Address: 2646 S MORGAN ST
 Contractor: 
 Valuation: 219636.0
+Units: 1</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7119246-cn</guid>
+      <title>[Seattle] Construct MIDDLE SFD  per plan  [Allow additional single family dwelling unit with detached accessory dwelling units  per land use code.  Construct as middle  NW and NE single family dwellings (SFD); review and process for three (3) records under 7119246-CN].</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7119246-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7119246-CN
+Issued: 2026-08-28
+Address: 2642 S MORGAN ST
+Contractor: 
+Valuation: 490442.0
 Units: 1</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
