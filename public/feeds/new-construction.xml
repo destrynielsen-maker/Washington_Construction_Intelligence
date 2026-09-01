@@ -19,6 +19,20 @@ Units: 5</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7065494-cn</guid>
+      <title>[Seattle] Establish use as housing for (6) attached units per land use code. Construct a multifamily building  occupy per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7065494-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 55
+Permit: 7065494-CN
+Issued: 2026-08-28
+Address: 300 11TH AVE E
+Contractor: 
+Valuation: 1922032.0
+Units: 6</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|6937778-cn</guid>
       <title>[Seattle] Construct South townhouse (units 24-25)  per plan. (Establish use as rowhouse per land use code. Construct 2 new townhouse buildings  per plan.  Review &amp; process for 2 records under 6848602-CN).</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6937778-CN</link>
@@ -33,6 +47,20 @@ Units: 2</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7123527-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (North Bldg 1)  per plan. (Establish use as housing for two attached dwelling units and two detached dwelling units  per land use code.  Construct (2) new one family dwelling and (1) new two-family dwellings  per plan. Review and processing for three records under 7123527-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123527-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7123527-CN
+Issued: 2026-08-28
+Address: 3237 NE 91ST ST
+Contractor: 
+Valuation: 409049.0
+Units: 1</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7119246-cn</guid>
       <title>[Seattle] Construct MIDDLE SFD  per plan  [Allow additional single family dwelling unit with detached accessory dwelling units  per land use code.  Construct as middle  NW and NE single family dwellings (SFD); review and process for three (3) records under 7119246-CN].</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7119246-CN</link>
@@ -43,6 +71,34 @@ Issued: 2026-08-28
 Address: 2642 S MORGAN ST
 Contractor: 
 Valuation: 490442.0
+Units: 1</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7128593-cn</guid>
+      <title>[Seattle] Construct NW SFD  per plan  [Allow additional single family dwelling unit with detached accessory dwelling units  per land use code.  Construct as middle  NW and NE single family dwellings (SFD); review and process for three (3) records under 7119246-CN].</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128593-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7128593-CN
+Issued: 2026-08-28
+Address: 2644 S MORGAN ST
+Contractor: 
+Valuation: 219636.0
+Units: 1</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7128592-cn</guid>
+      <title>[Seattle] Construct NE SFD  per plan  [Allow additional single family dwelling unit with detached accessory dwelling units  per land use code.  Construct as middle  NW and NE single family dwellings (SFD); review and process for three (3) records under 7119246-CN].</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128592-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7128592-CN
+Issued: 2026-08-28
+Address: 2646 S MORGAN ST
+Contractor: 
+Valuation: 219636.0
 Units: 1</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
@@ -3447,62 +3503,6 @@ Contractor:
 Valuation: 663362.0
 Units: 8</description>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7114992-cn</guid>
-      <title>[Seattle] Construct new two family dwelling  per plan. (Establish use as townhouse per land use code. Construct new one and two family dwellings  per plans. Review and processing for two records under 7114992-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7114992-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7114992-CN
-Issued: 2026-06-18
-Address: 10727 A PALATINE AVE N
-Contractor: 
-Valuation: 656741.0
-Units: 3</description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7130001-cn</guid>
-      <title>[Seattle] Construct new one family dwelling  per plan. (Establish use as townhouse per land use code. Construct new one and two family dwelling  per plans. Review and processing for two records under 7114992-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130001-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7130001-CN
-Issued: 2026-06-18
-Address: 10727 C PALATINE AVE N
-Contractor: 
-Valuation: 324563.0
-Units: </description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7082198-cn</guid>
-      <title>[Seattle] Construct west two-family dwelling (Establish use as single-family residence &amp; allow attached accessory dwelling unit (AADU)  convert existing single-family residence to detached accessory dwelling unit (DADU)  per land use code.  Construct (1) two-family dwelling &amp; alterations to (e) one-family dwelling  per plan.  Review &amp; process for (2) records under 7082198-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7082198-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7082198-CN
-Issued: 2026-06-17
-Address: 10042 37TH AVE SW
-Contractor: 
-Valuation: 598010.0
-Units: 2</description>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7094496-cn</guid>
-      <title>[Seattle] Construct alterations to east one-family dwelling (Establish use as single-family residence &amp; allow attached accessory dwelling unit (AADU)  convert existing single-family residence to detached accessory dwelling unit (DADU)  per land use code. Construct (1) two-family dwelling &amp; alterations to (e) one-family dwelling  per plan. Review &amp; process for (2) records under 7082198-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7094496-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7094496-CN
-Issued: 2026-06-17
-Address: 10044 37TH AVE SW
-Contractor: 
-Valuation: 55514.0
-Units: </description>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

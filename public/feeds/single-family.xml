@@ -19,6 +19,34 @@ Units: 1</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7128593-cn</guid>
+      <title>[Seattle] Construct NW SFD  per plan  [Allow additional single family dwelling unit with detached accessory dwelling units  per land use code.  Construct as middle  NW and NE single family dwellings (SFD); review and process for three (3) records under 7119246-CN].</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128593-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7128593-CN
+Issued: 2026-08-28
+Address: 2644 S MORGAN ST
+Contractor: 
+Valuation: 219636.0
+Units: 1</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7128592-cn</guid>
+      <title>[Seattle] Construct NE SFD  per plan  [Allow additional single family dwelling unit with detached accessory dwelling units  per land use code.  Construct as middle  NW and NE single family dwellings (SFD); review and process for three (3) records under 7119246-CN].</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128592-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7128592-CN
+Issued: 2026-08-28
+Address: 2646 S MORGAN ST
+Contractor: 
+Valuation: 219636.0
+Units: 1</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7150657-cn</guid>
       <title>[Seattle] Construct detached accessory building to existing one-family dwelling  subject to field inspection (STFI)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7150657-CN</link>
@@ -2511,6 +2539,20 @@ Units: 4</description>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7098140-cn</guid>
+      <title>[Seattle] Establish detached single-family dwelling unit  per Land Use Code. Construct new one family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7098140-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7098140-CN
+Issued: 2026-05-26
+Address: 126 NE 133RD ST
+Contractor: 425 Remodel LLC
+Valuation: 381401.0
+Units: 1</description>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7131942-cn</guid>
       <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one family dwelling with shared storage for both dwelling units  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131942-CN</link>
@@ -2521,20 +2563,6 @@ Issued: 2026-05-26
 Address: 149 NE 51ST ST
 Contractor: 
 Valuation: 312040.0
-Units: 1</description>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7098140-cn</guid>
-      <title>[Seattle] Establish detached single-family dwelling unit  per Land Use Code. Construct new one family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7098140-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7098140-CN
-Issued: 2026-05-26
-Address: 126 NE 133RD ST
-Contractor: 
-Valuation: 381401.0
 Units: 1</description>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
@@ -3474,34 +3502,6 @@ Address: 11707 SAND POINT WAY NE
 Contractor: 
 Valuation: 235923.0
 Units: </description>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7097885-cn</guid>
-      <title>[Seattle] Construct new East one family dwelling  per plan. (Establish use as single family residence with two detached accessory dwelling units per land use code.   Construct 3 one family dwellings  per plan.  Review and process for 3 records under 7097885-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7097885-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7097885-CN
-Issued: 2026-04-22
-Address: 11703 SAND POINT WAY NE
-Contractor: 
-Valuation: 451733.0
-Units: 3</description>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7097768-cn</guid>
-      <title>[Seattle] Construct new East one family dwelling  per plan. (Establish use as single family residence with two detached accessory dwelling units per land use code.   Construct 3 one family dwellings  per plan.  Review and process for 3 records under 7097768-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7097768-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7097768-CN
-Issued: 2026-04-22
-Address: 11705 SAND POINT WAY NE
-Contractor: 
-Valuation: 455260.0
-Units: 2</description>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
