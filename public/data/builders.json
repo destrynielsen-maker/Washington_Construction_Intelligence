@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-01T21:21:56+00:00",
+  "generated_at": "2026-09-02T05:06:57+00:00",
   "builders": [
-    {
-      "contractor": "Exxel Pacific",
-      "permits_90d": 1,
-      "single_family": 0,
-      "multifamily": 1,
-      "commercial": 0,
-      "combined_valuation": 6071878.0,
-      "jurisdictions": [
-        "Seattle"
-      ],
-      "top_score": 75
-    },
     {
       "contractor": "Alexander Hiebert",
       "permits_90d": 1,
