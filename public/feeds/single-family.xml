@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7079230-cn</guid>
+      <title>[Seattle] Construct one-family floating home at slip #6 of commercial marina [THOMPSON BUILDING]  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7079230-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7079230-CN
+Issued: 2026-09-02
+Address: 2466 WESTLAKE AVE N
+Contractor: 
+Valuation: 509019.0
+Units: </description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7082422-cn</guid>
+      <title>[Seattle] Allow new detached accessory dwelling to existing single family use per land use code. Construct new one family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7082422-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7082422-CN
+Issued: 2026-09-02
+Address: 533 NE 92ND ST
+Contractor: 
+Valuation: 225220.0
+Units: 1</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7115582-cn</guid>
       <title>[Seattle] Construct west one-family dwellings  per plan. (Establish use as housing for two detached dwelling units  per land use code. Construct (2) one-family dwellings  per plan. Review and processing for two records under 7115582-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7115582-CN</link>
@@ -156,6 +184,20 @@ Address: 333 NE 120TH ST
 Contractor: 
 Valuation: 219040.0
 Units: 2</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7116656-cn</guid>
+      <title>[Seattle] Allow housing for one detached dwelling unit  per land use code. Existing detached dwelling to remain.  Construct new south one-family dwelling  per plan</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7116656-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7116656-CN
+Issued: 2026-09-01
+Address: 1703 N 137TH ST
+Contractor: 
+Valuation: 308032.0
+Units: 1</description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3457,48 +3499,6 @@ Score: 15
 Permit: 7121892-CN
 Issued: 2026-05-04
 Address: 3039 D 63RD AVE SW
-Contractor: 
-Valuation: 370490.0
-Units: 1</description>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7102950-cn</guid>
-      <title>[Seattle] Construct new northeast one-family dwelling (Unit 1)  per plan. (Establish use as two (2) single family residences  per land use code. Construct two (2) new one-family dwellings  per plan. Review and processing for two records under 7100976. Existing dwelling to remain)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7102950-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7102950-CN
-Issued: 2026-05-04
-Address: 3944 S ANGELINE ST
-Contractor: 
-Valuation: 258164.0
-Units: 1</description>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7100976-cn</guid>
-      <title>[Seattle] Construct new northwest one-family dwelling (Unit 1)  per plan. (Establish use as two (2) detached dwelling units  per land use code. Construct two (2) new detached accessory dwelling units  per plan. Review and processing for two records under 7100976. Existing dwelling to remain)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7100976-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7100976-CN
-Issued: 2026-05-04
-Address: 3944 S ANGELINE ST
-Contractor: 
-Valuation: 258164.0
-Units: 1</description>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7087866-cn</guid>
-      <title>[Seattle] Construct NE SFR  per plans (Establish use as single-family residential per the land use code. Construct (4) one-family dwellings per plans. Reviews and processing for (4) -CN's under 7087866)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7087866-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7087866-CN
-Issued: 2026-05-04
-Address: 3039 A 63RD AVE SW
 Contractor: 
 Valuation: 370490.0
 Units: 1</description>
