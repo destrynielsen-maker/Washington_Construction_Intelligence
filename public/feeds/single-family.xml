@@ -5,6 +5,76 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7142326-cn</guid>
+      <title>[Seattle] Establish a standard plan for a one-family dwelling (no construction)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7142326-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7142326-CN
+Issued: 2026-09-03
+Address: 700 5TH AVE
+Contractor: 
+Valuation: 266935.0
+Units: </description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7141400-cn</guid>
+      <title>[Seattle] Construct north single family dwelling  per plan. (Allow housing for two new detached dwelling units  per land use code. Construct two single family dwellings  per plan. Existing single family dwelling to remain. Review and processing for two records under 7124360-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7141400-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7141400-CN
+Issued: 2026-09-03
+Address: 1018 NE 94TH ST
+Contractor: 
+Valuation: 261514.0
+Units: 1</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7122730-cn</guid>
+      <title>[Seattle] Construct new North one family dwelling  per plan. (Allow two detached housing units  per land use code. Existing residence to remain.  Construct (2) new one family dwellings  per plan. Review and processing for two records under 7122730-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7122730-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7122730-CN
+Issued: 2026-09-03
+Address: 9427 23RD AVE NE
+Contractor: 
+Valuation: 271623.0
+Units: 1</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7124360-cn</guid>
+      <title>[Seattle] Construct middle single family dwelling  per plan. (Allow housing for two new detached dwelling units  per land use code. Construct two single family dwellings  per plan. Existing single family dwelling to remain. Review and processing for two records under 7124360-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7124360-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7124360-CN
+Issued: 2026-09-03
+Address: 1020 NE 94TH ST
+Contractor: 
+Valuation: 350225.0
+Units: 1</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7132429-cn</guid>
+      <title>[Seattle] Allow housing for (1) detached dwelling unit  per land use code. Existing detached dwelling unit to remain. Construct one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7132429-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7132429-CN
+Issued: 2026-09-03
+Address: 4873 24TH AVE S
+Contractor: 
+Valuation: 221758.0
+Units: </description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7079230-cn</guid>
       <title>[Seattle] Construct one-family floating home at slip #6 of commercial marina [THOMPSON BUILDING]  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7079230-CN</link>
@@ -3433,76 +3503,6 @@ Contractor:
 Valuation: 282684.0
 Units: 1</description>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7124326-cn</guid>
-      <title>[Seattle] Construct west one-family dwelling (SFR3)  per plan. (Establish use as single-family residence per land use code. Construct (2) one-family dwellings  per plan. Review and processing for two records under 7102933-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7124326-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7124326-CN
-Issued: 2026-05-05
-Address: 3524 NE 125TH ST
-Contractor: 
-Valuation: 245903.0
-Units: </description>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7118553-cn</guid>
-      <title>[Seattle] Establish use as single-family dwelling unit  per land use code.  Construct new one family dwelling  per plan.  Existing dwelling units to remain.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7118553-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7118553-CN
-Issued: 2026-05-05
-Address: 2620 37TH AVE W
-Contractor: 
-Valuation: 239248.0
-Units: 1</description>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7121901-cn</guid>
-      <title>[Seattle] Construct SW SFR  per plans (Establish use as single-family residential per the land use code. Construct (4) one-family dwellings per plans. Reviews and processing for (4) -CN's under 7087866)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7121901-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7121901-CN
-Issued: 2026-05-04
-Address: 3039 C 63RD AVE SW
-Contractor: 
-Valuation: 344685.0
-Units: 1</description>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7121893-cn</guid>
-      <title>[Seattle] Construct NW SFR  per plans (Establish use as single-family residential per the land use code. Construct (4) one-family dwellings per plans. Reviews and processing for (4) -CN's under 7087866)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7121893-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7121893-CN
-Issued: 2026-05-04
-Address: 3039 B 63RD AVE SW
-Contractor: 
-Valuation: 344685.0
-Units: 1</description>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7121892-cn</guid>
-      <title>[Seattle] Construct SE SFR  per plans (Establish use as single-family residential per the land use code. Construct (4) one-family dwellings per plans. Reviews and processing for (4) -CN's under 7087866)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7121892-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7121892-CN
-Issued: 2026-05-04
-Address: 3039 D 63RD AVE SW
-Contractor: 
-Valuation: 370490.0
-Units: 1</description>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
