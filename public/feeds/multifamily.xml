@@ -5,48 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">WA|seattle|7091691-cn</guid>
-      <title>[Seattle] Construct west two family dwelling  per plan. (Construct (2) two family dwellings  per plan. Review and processing for 2 records under 7078155-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7091691-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7091691-CN
-Issued: 2026-09-03
-Address: 7703 15TH AVE NW
-Contractor: 
-Valuation: 644323.0
-Units: 2</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7122550-cn</guid>
-      <title>[Seattle] Construct new west two family dwelling (SFR1 + AADU)  per plan. (Establish use as 3 single family residences with 1 attached dwelling unit per land use code. Construct new one and two family dwellings  per plan. Review and processing of 3 records under 7122550-CN.)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7122550-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7122550-CN
-Issued: 2026-09-03
-Address: 4054 48TH AVE SW
-Contractor: 
-Valuation: 580959.0
-Units: 2</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7078155-cn</guid>
-      <title>[Seattle] Construct east two family dwelling  per plan. (Construct (2) two family dwellings  per plan. Review and processing for 2 records under 7078155-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7078155-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7078155-CN
-Issued: 2026-09-03
-Address: 7705 15TH AVE NW
-Contractor: 
-Valuation: 605090.0
-Units: 2</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7129992-cn</guid>
       <title>[Seattle] Construct new east one family dwelling (SFR3)  per plan. (Establish use as 3 single family residences with 1 attached dwelling unit per land use code. Construct new one and two family dwellings  per plan. Review and processing of 3 records under 7122550-CN.)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7129992-CN</link>
@@ -72,6 +30,48 @@ Address: 4714 SW DAKOTA ST
 Contractor: 
 Valuation: 517499.0
 Units: 1</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7122550-cn</guid>
+      <title>[Seattle] Construct new west two family dwelling (SFR1 + AADU)  per plan. (Establish use as 3 single family residences with 1 attached dwelling unit per land use code. Construct new one and two family dwellings  per plan. Review and processing of 3 records under 7122550-CN.)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7122550-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7122550-CN
+Issued: 2026-09-03
+Address: 4054 48TH AVE SW
+Contractor: 
+Valuation: 580959.0
+Units: 2</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7091691-cn</guid>
+      <title>[Seattle] Construct west two family dwelling  per plan. (Construct (2) two family dwellings  per plan. Review and processing for 2 records under 7078155-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7091691-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7091691-CN
+Issued: 2026-09-03
+Address: 7703 15TH AVE NW
+Contractor: 
+Valuation: 644323.0
+Units: 2</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7078155-cn</guid>
+      <title>[Seattle] Construct east two family dwelling  per plan. (Construct (2) two family dwellings  per plan. Review and processing for 2 records under 7078155-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7078155-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7078155-CN
+Issued: 2026-09-03
+Address: 7705 15TH AVE NW
+Contractor: 
+Valuation: 605090.0
+Units: 2</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
