@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7123239-cn</guid>
+      <title>[Seattle] Construct west two-family dwelling (Establish use as single-family residence &amp; allow attached accessory dwelling unit (AADU)  per land use code. Construct (2) two-family dwellings  per plan. Review &amp; process for (2) records under 7115881-CN))</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123239-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7123239-CN
+Issued: 2026-09-04
+Address: 8619 17TH AVE NE
+Contractor: 
+Valuation: 539475.0
+Units: 4</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7115881-cn</guid>
       <title>[Seattle] Construct east two-family dwelling (Establish use as single-family residence &amp; allow attached accessory dwelling unit (AADU)  per land use code.  Construct (2) two-family dwellings  per plan.  Review &amp; process for (2) records under 7115881-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7115881-CN</link>
@@ -33,18 +47,18 @@ Units: 2</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7123239-cn</guid>
-      <title>[Seattle] Construct west two-family dwelling (Establish use as single-family residence &amp; allow attached accessory dwelling unit (AADU)  per land use code. Construct (2) two-family dwellings  per plan. Review &amp; process for (2) records under 7115881-CN))</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123239-CN</link>
+      <guid isPermaLink="false">WA|seattle|7137474-cn</guid>
+      <title>[Seattle] Construct new two-family dwelling (South Bldg 3)  per plan. (Establish use as housing for two attached dwelling units and two detached dwelling units  per land use code.  Construct (2) new one family dwelling and (1) new two-family dwellings  per plan. Review and processing for three records under 7123527-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137474-CN</link>
       <description>Category: MULTIFAMILY
 Score: 45
-Permit: 7123239-CN
-Issued: 2026-09-04
-Address: 8619 17TH AVE NE
+Permit: 7137474-CN
+Issued: 2026-09-03
+Address: 3241 NE 91ST ST
 Contractor: 
-Valuation: 539475.0
-Units: 4</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+Valuation: 908178.0
+Units: 2</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <guid isPermaLink="false">WA|seattle|7129992-cn</guid>
@@ -117,17 +131,17 @@ Units: 2</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7137474-cn</guid>
-      <title>[Seattle] Construct new two-family dwelling (South Bldg 3)  per plan. (Establish use as housing for two attached dwelling units and two detached dwelling units  per land use code.  Construct (2) new one family dwelling and (1) new two-family dwellings  per plan. Review and processing for three records under 7123527-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137474-CN</link>
+      <guid isPermaLink="false">WA|seattle|7137472-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (Center Bldg 2)  per plan. (Establish use as housing for two attached dwelling units and two detached dwelling units  per land use code.  Construct (2) new one family dwelling and (1) new two-family dwellings  per plan. Review and processing for three records under 7123527-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137472-CN</link>
       <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7137474-CN
+Score: 40
+Permit: 7137472-CN
 Issued: 2026-09-03
-Address: 3241 NE 91ST ST
+Address: 3239 NE 91ST ST
 Contractor: 
-Valuation: 908178.0
-Units: 2</description>
+Valuation: 418543.0
+Units: 1</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -141,20 +155,6 @@ Issued: 2026-09-03
 Address: 12223 C 4TH AVE NW
 Contractor: 
 Valuation: 333053.0
-Units: 1</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7137472-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling (Center Bldg 2)  per plan. (Establish use as housing for two attached dwelling units and two detached dwelling units  per land use code.  Construct (2) new one family dwelling and (1) new two-family dwellings  per plan. Review and processing for three records under 7123527-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137472-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7137472-CN
-Issued: 2026-09-03
-Address: 3239 NE 91ST ST
-Contractor: 
-Valuation: 418543.0
 Units: 1</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
