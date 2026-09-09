@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">WA|seattle|7102931-cn</guid>
-      <title>[Seattle] Construct new West one family dwelling (unit 1)  per plan.   (Establish use as single-family dwelling units  per Land Use Code.  Construct 3 one family dwellings  per plan.  Review and processing for 3 records under 7102931-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7102931-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7102931-CN
-Issued: 2026-09-08
-Address: 5946 A 47TH AVE SW
-Contractor: 
-Valuation: 480732.0
-Units: 1</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7121925-cn</guid>
       <title>[Seattle] Allow new detached accessory dwelling unit to existing single family use per land use code. Construct new one family dwelling and remove existing detached garage  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7121925-CN</link>
@@ -29,6 +15,20 @@ Issued: 2026-09-08
 Address: 5029 45TH AVE S
 Contractor: 
 Valuation: 165191.0
+Units: 1</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7102931-cn</guid>
+      <title>[Seattle] Construct new West one family dwelling (unit 1)  per plan.   (Establish use as single-family dwelling units  per Land Use Code.  Construct 3 one family dwellings  per plan.  Review and processing for 3 records under 7102931-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7102931-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7102931-CN
+Issued: 2026-09-08
+Address: 5946 A 47TH AVE SW
+Contractor: 
+Valuation: 480732.0
 Units: 1</description>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
