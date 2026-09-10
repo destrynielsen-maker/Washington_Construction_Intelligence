@@ -19,6 +19,20 @@ Units: 1</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7149680-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct as one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7149680-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7149680-CN
+Issued: 2026-09-09
+Address: 7926 13TH AVE SW
+Contractor: 
+Valuation: 265582.0
+Units: 1</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7140240-cn</guid>
       <title>[Seattle] Construct a one family dwelling  per plan. (Allow (2) new detached dwelling units  per the land use code. Construct (2) one-family dwellings and alterations to an existing one-family dwelling  per plan. Review and processing for three records under 7106793-CN).</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7140240-CN</link>
@@ -30,62 +44,6 @@ Address: 2813 SW ELMGROVE ST
 Contractor: 
 Valuation: 261903.0
 Units: 1</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7111168-cn</guid>
-      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7111168-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7111168-CN
-Issued: 2026-09-09
-Address: 3310 S OTHELLO ST
-Contractor: 
-Valuation: 223237.0
-Units: 1</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7119817-cn</guid>
-      <title>[Seattle] Construct new middle one family dwelling (unit 2)  per plan.   (Establish use as single family residence with accessory dwelling units per land use code.  Construct 3 one family dwellings  per plan.  Review and processing for 3 records under 7102931-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7119817-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7119817-CN
-Issued: 2026-09-09
-Address: 5946 B 47TH AVE SW
-Contractor: 
-Valuation: 292457.0
-Units: 1</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7106793-cn</guid>
-      <title>[Seattle] Construct a one family dwelling  per plan. (Allow (2) new detached dwelling units  per the land use code. Construct (2) one-family dwellings and alterations to an existing one-family dwelling  per plan. Review and processing for three records under 7106793-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7106793-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7106793-CN
-Issued: 2026-09-09
-Address: 2815 SW ELMGROVE ST
-Contractor: 
-Valuation: 240128.0
-Units: 1</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7038619-cn</guid>
-      <title>[Seattle] Construct new one family dwelling (House A)  per plan.  (Construct three new detached housing units  per Land Use Code.  Construct (3) new one family dwellings.  Review &amp; processing for 3 records under 7038619-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7038619-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7038619-CN
-Issued: 2026-09-09
-Address: 2518 28TH AVE W
-Contractor: 
-Valuation: 396630.0
-Units: 3</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -131,17 +89,59 @@ Units: 1</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7149680-cn</guid>
-      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct as one-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7149680-CN</link>
+      <guid isPermaLink="false">WA|seattle|7119817-cn</guid>
+      <title>[Seattle] Construct new middle one family dwelling (unit 2)  per plan.   (Establish use as single family residence with accessory dwelling units per land use code.  Construct 3 one family dwellings  per plan.  Review and processing for 3 records under 7102931-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7119817-CN</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 7149680-CN
+Permit: 7119817-CN
 Issued: 2026-09-09
-Address: 7926 13TH AVE SW
+Address: 5946 B 47TH AVE SW
 Contractor: 
-Valuation: 265582.0
+Valuation: 292457.0
 Units: 1</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7111168-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7111168-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7111168-CN
+Issued: 2026-09-09
+Address: 3310 S OTHELLO ST
+Contractor: 
+Valuation: 223237.0
+Units: 1</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7106793-cn</guid>
+      <title>[Seattle] Construct a one family dwelling  per plan. (Allow (2) new detached dwelling units  per the land use code. Construct (2) one-family dwellings and alterations to an existing one-family dwelling  per plan. Review and processing for three records under 7106793-CN).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7106793-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7106793-CN
+Issued: 2026-09-09
+Address: 2815 SW ELMGROVE ST
+Contractor: 
+Valuation: 240128.0
+Units: 1</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7038619-cn</guid>
+      <title>[Seattle] Construct new one family dwelling (House A)  per plan.  (Construct three new detached housing units  per Land Use Code.  Construct (3) new one family dwellings.  Review &amp; processing for 3 records under 7038619-CN).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7038619-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7038619-CN
+Issued: 2026-09-09
+Address: 2518 28TH AVE W
+Contractor: 
+Valuation: 396630.0
+Units: 3</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
