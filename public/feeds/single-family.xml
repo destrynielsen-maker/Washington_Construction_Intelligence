@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7123517-cn</guid>
+      <title>[Seattle] Establish use as housing for one detached dwelling unit  per land use code.  Construct new one family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123517-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 25
+Permit: 7123517-CN
+Issued: 2026-09-10
+Address: 4220 NE 123RD ST
+Contractor: 
+Valuation: 1036765.0
+Units: 1</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|6700444-cn</guid>
       <title>[Seattle] Construct east new one-family dwelling  per plan. (Establish use as single-family dwelling unit with a detached accessory dwelling unit  per land use code.  Construct two new one-family dwellings  per plan.  Review and processing for two records under 6700444-CN).</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6700444-CN</link>
@@ -3487,20 +3501,6 @@ Issued: 2026-05-13
 Address: 1713 N 105TH ST
 Contractor: 
 Valuation: 373687.0
-Units: </description>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7115228-cn</guid>
-      <title>[Seattle] Construct new center one family dwelling  per plan. (Construct (3) new one family dwellings  per plan. Review and processing for three records under 7099411-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7115228-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7115228-CN
-Issued: 2026-05-13
-Address: 1711 N 105TH ST
-Contractor: 
-Valuation: 379699.0
 Units: </description>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>

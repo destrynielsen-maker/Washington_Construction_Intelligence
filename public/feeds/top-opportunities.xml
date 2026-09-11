@@ -5,6 +5,48 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7131129-cn</guid>
+      <title>[Seattle] Establish use as housing for two attached dwelling units  per land use code. Existing detached dwelling to remain. Construct new two-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131129-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7131129-CN
+Issued: 2026-09-10
+Address: 3824 A 35TH AVE W
+Contractor: 
+Valuation: 592110.0
+Units: 2</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7115375-cn</guid>
+      <title>[Seattle] Construct EAST two-family dwelling  per plan. [Establish use as townhouse per land use code.. Construct two-family dwellings  per plan. Review and processing for (2) construction records under 7099413-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7115375-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7115375-CN
+Issued: 2026-09-10
+Address: 6710 14TH AVE NW
+Contractor: 
+Valuation: 629266.0
+Units: 2</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7068094-cn</guid>
+      <title>[Seattle] Construct west two-family dwelling (Establish use as duplex  per land use code.  Construct (2) two-family dwellings  per plan.  Review &amp; process for (2) records under 7068094-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7068094-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7068094-CN
+Issued: 2026-09-10
+Address: 4742 7TH AVE NE
+Contractor: 
+Valuation: 495013.0
+Units: 2</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7123731-cn</guid>
       <title>[Seattle] Allow housing for two attached dwelling units  per land use code. Existing two-unit dwelling to remain. Construct as two-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123731-CN</link>
@@ -3461,48 +3503,6 @@ Contractor:
 Valuation: 303070.0
 Units: 1</description>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7092876-cn</guid>
-      <title>[Seattle] Construct new Northeast #2 single family dwelling  per plan. (Establish use as single-family residence (5 SFRs) per land use code.  Construct (5) new one family dwellings  per plan. Review and processing for five records under 7079058-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7092876-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7092876-CN
-Issued: 2026-04-13
-Address: 31 A W DRAVUS ST
-Contractor: 
-Valuation: 303054.0
-Units: 1</description>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7113165-cn</guid>
-      <title>[Seattle] Establish use as single family residence with attached accessory dwelling unit per Land Use Code. Construct new two-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7113165-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7113165-CN
-Issued: 2026-04-10
-Address: 3807 DENSMORE AVE N
-Contractor: 
-Valuation: 860189.0
-Units: 2</description>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7112424-cn</guid>
-      <title>[Seattle] Construct east two-family dwelling  per plan. (Establish use as townhouse per land use code. Construct (2) two-family dwellings  per plan. Review and processing for two records under 7099407-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7112424-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7112424-CN
-Issued: 2026-04-10
-Address: 7746 25TH AVE NW
-Contractor: 
-Valuation: 769712.0
-Units: 2</description>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
