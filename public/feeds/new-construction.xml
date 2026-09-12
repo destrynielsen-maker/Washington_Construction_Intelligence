@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7135184-cn</guid>
+      <title>[Seattle] Construct NORTH one-family dwelling  per plan. [Allow housing for new detached dwelling units  per land use code. Construct one-family dwellings  per plan. Shoring included. Existing one-family dwelling to remain. Review and processing for (2) construction records under 7086167-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135184-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7135184-CN
+Issued: 2026-09-11
+Address: 1738 NE 90TH ST
+Contractor: 
+Valuation: 303050.0
+Units: 1</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7086167-cn</guid>
+      <title>[Seattle] Construct MIDDLE one-family dwelling  per plan. Shoring included. [Allow housing for new detached dwelling units  per land use code. Construct one-family dwellings  per plan. Shoring included. Existing one-family dwelling to remain. Review and processing for (2) construction records under 7086167-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7086167-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7086167-CN
+Issued: 2026-09-11
+Address: 1736 NE 90TH ST
+Contractor: 
+Valuation: 356789.0
+Units: 1</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7131129-cn</guid>
       <title>[Seattle] Establish use as housing for two attached dwelling units  per land use code. Existing detached dwelling to remain. Construct new two-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131129-CN</link>
@@ -3475,34 +3503,6 @@ Contractor:
 Valuation: 1.0
 Units: </description>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7100545-cn</guid>
-      <title>[Seattle] Construct east one family dwelling  per plan. [Establish use as single family residence with detached attached accessory dwelling unit (DADU)  per land use code. Construct new one family dwelling and alterations to existing one family dwelling to convert it into a DADU. Review and processing for two records under 7100545-CN.]</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7100545-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 20
-Permit: 7100545-CN
-Issued: 2026-07-10
-Address: 3049 22ND AVE W
-Contractor: 
-Valuation: 705560.0
-Units: 2</description>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7094225-cn</guid>
-      <title>[Seattle] Construct south townhouse  per plan. (Establish use as townhouses per land use code. Construct two 4-unit townhouse structures per plan. Review and processing for two records under 6989023-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7094225-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 50
-Permit: 7094225-CN
-Issued: 2026-07-09
-Address: 7908 M L KING JR WAY S
-Contractor: 
-Valuation: 1191490.0
-Units: 4</description>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

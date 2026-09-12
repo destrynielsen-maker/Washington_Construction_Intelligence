@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7135184-cn</guid>
+      <title>[Seattle] Construct NORTH one-family dwelling  per plan. [Allow housing for new detached dwelling units  per land use code. Construct one-family dwellings  per plan. Shoring included. Existing one-family dwelling to remain. Review and processing for (2) construction records under 7086167-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135184-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7135184-CN
+Issued: 2026-09-11
+Address: 1738 NE 90TH ST
+Contractor: 
+Valuation: 303050.0
+Units: 1</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7086167-cn</guid>
+      <title>[Seattle] Construct MIDDLE one-family dwelling  per plan. Shoring included. [Allow housing for new detached dwelling units  per land use code. Construct one-family dwellings  per plan. Shoring included. Existing one-family dwelling to remain. Review and processing for (2) construction records under 7086167-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7086167-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7086167-CN
+Issued: 2026-09-11
+Address: 1736 NE 90TH ST
+Contractor: 
+Valuation: 356789.0
+Units: 1</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7123517-cn</guid>
       <title>[Seattle] Establish use as housing for one detached dwelling unit  per land use code.  Construct new one family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123517-CN</link>
@@ -3475,34 +3503,6 @@ Contractor:
 Valuation: 365873.0
 Units: 1</description>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7098502-cn</guid>
-      <title>[Seattle] Construct northwest one-family dwelling (SFR1)  per plan.  (Establish use as single family residences  per Land Use Code. Construct (4) one-family dwellings  per plan.  Review and processing for 4 records under 7098502-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7098502-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7098502-CN
-Issued: 2026-05-14
-Address: 4024 32ND AVE W
-Contractor: 
-Valuation: 365873.0
-Units: 1</description>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7115230-cn</guid>
-      <title>[Seattle] Construct new east one family dwelling  per plan. (Construct (3) new one family dwellings  per plan. Review and processing for three records under 7099411-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7115230-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7115230-CN
-Issued: 2026-05-13
-Address: 1713 N 105TH ST
-Contractor: 
-Valuation: 373687.0
-Units: </description>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
