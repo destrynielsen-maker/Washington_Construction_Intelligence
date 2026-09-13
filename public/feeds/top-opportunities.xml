@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7124300-cn</guid>
+      <title>[Seattle] Establish use as housing for single family residence and attached accessory dwelling unit  per land use code. Construct new two-family dwelling on partially existing foundation  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7124300-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7124300-CN
+Issued: 2026-09-11
+Address: 13726 41ST AVE NE
+Contractor: 
+Valuation: 543004.0
+Units: </description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7131129-cn</guid>
       <title>[Seattle] Establish use as housing for two attached dwelling units  per land use code. Existing detached dwelling to remain. Construct new two-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131129-CN</link>
@@ -3487,20 +3501,6 @@ Issued: 2026-04-13
 Address: 29 B W DRAVUS ST
 Contractor: 
 Valuation: 285586.0
-Units: 1</description>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7092877-cn</guid>
-      <title>[Seattle] Construct new Middle #3 single family dwelling  per plan. (Establish use as single-family residence (5 SFRs) per land use code.  Construct (5) new one family dwellings  per plan. Review and processing for five records under 7079058-CN))</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7092877-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7092877-CN
-Issued: 2026-04-13
-Address: 29 C W DRAVUS ST
-Contractor: 
-Valuation: 303070.0
 Units: 1</description>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
     </item>

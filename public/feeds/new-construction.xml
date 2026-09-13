@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7123838-cn</guid>
+      <title>[Seattle] Allow housing for (1) detached dwelling  per land use code. Existing detached dwelling to remain. Construct one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123838-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7123838-CN
+Issued: 2026-09-12
+Address: 3202 SW 97TH ST
+Contractor: 
+Valuation: 203615.0
+Units: 1</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7124300-cn</guid>
+      <title>[Seattle] Establish use as housing for single family residence and attached accessory dwelling unit  per land use code. Construct new two-family dwelling on partially existing foundation  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7124300-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7124300-CN
+Issued: 2026-09-11
+Address: 13726 41ST AVE NE
+Contractor: 
+Valuation: 543004.0
+Units: </description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7135184-cn</guid>
       <title>[Seattle] Construct NORTH one-family dwelling  per plan. [Allow housing for new detached dwelling units  per land use code. Construct one-family dwellings  per plan. Shoring included. Existing one-family dwelling to remain. Review and processing for (2) construction records under 7086167-CN.]</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135184-CN</link>
@@ -3473,34 +3501,6 @@ Issued: 2026-07-13
 Address: 7802 ROOSEVELT WAY NE
 Contractor: 
 Valuation: 1000.0
-Units: </description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7133441-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling  per plan (Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain  with alterations. Construct new one-family dwelling  review and process for two records under 7133441-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7133441-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7133441-CN
-Issued: 2026-07-13
-Address: 1010 NE 78TH ST
-Contractor: 
-Valuation: 261153.0
-Units: 1</description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7127794-cn</guid>
-      <title>[Seattle] Construct alterations to existing (1) family dwelling (Allow (1) single-family residence &amp; (2) detached accessory dwelling units (DADU) to existing single-family residence  per land use code. Construct (3) one-family dwellings &amp; alterations to existing (1) family dwelling  per plan. Review &amp; process for (4) records under 7093693-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7127794-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7127794-CN
-Issued: 2026-07-13
-Address: 11538 16TH AVE NE
-Contractor: 
-Valuation: 1.0
 Units: </description>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
