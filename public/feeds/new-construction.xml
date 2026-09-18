@@ -5,6 +5,62 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7099617-cn</guid>
+      <title>[Seattle] Construct northeast new one family dwelling  per plan. (Allow one new detached accessory dwelling unit and one new accessory structure  per land use code with existing single family to remain). Construct one new one family dwelling  per plan. Review and processing for two records under 7099617-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7099617-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7099617-CN
+Issued: 2026-09-17
+Address: 10236 A 56TH AVE S
+Contractor: 
+Valuation: 338158.0
+Units: 1</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7127600-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (SFR2)  per plan. (Establish use as housing for two detached dwelling units  per land use code. Existing detached dwelling to remain (SFR1). Construct two new one-family dwellings  per plan. Review and processing for 2 records under 7127600-CN.)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7127600-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7127600-CN
+Issued: 2026-09-17
+Address: 9715 EVANSTON AVE N
+Contractor: 
+Valuation: 273116.0
+Units: 1</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7118478-cn</guid>
+      <title>[Seattle] Construct southwest detached garage and accessory structure per plan. (Allow one new detached accessory dwelling unit and accessory structure  per land use code with existing single family to remain). Construct one new one-family dwelling and accessory structure  per plan. Review and processing for two records under 7099617-CN.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7118478-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7118478-CN
+Issued: 2026-09-17
+Address: 10236 B 56TH AVE S
+Contractor: 
+Valuation: 193796.0
+Units: </description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7136333-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (SFR3)  per plan. (Establish use as housing for two detached dwelling units  per land use code. Existing detached dwelling to remain (SFR1). Construct two new one-family dwellings  per plan. Review and processing for 2 records under 7127600-CN.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7136333-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7136333-CN
+Issued: 2026-09-17
+Address: 9715 A EVANSTON AVE N
+Contractor: 
+Valuation: 284270.0
+Units: 1</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7148933-cn</guid>
       <title>[Seattle] Install minor communication "small cell node" utility pole (Verizon)  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7148933-CN</link>
@@ -3447,62 +3503,6 @@ Contractor:
 Valuation: 477039.0
 Units: 1</description>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7131746-cn</guid>
-      <title>[Seattle] Construct NE two-family dwelling BLDG2  per plan. (Establish use as single-family residence with or without attached accessory dwelling units  per land use code. Construct (3) one-family dwellings and (1) two-family dwelling  per plan. Review and processing for four records under 7116067-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131746-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7131746-CN
-Issued: 2026-07-16
-Address: 9606 MARY AVE NW
-Contractor: 
-Valuation: 460570.0
-Units: 2</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7116067-cn</guid>
-      <title>[Seattle] Construct NW one-family dwelling BLDG1  per plan. (Establish use as single-family residence with or without attached accessory dwelling units  per land use code. Construct (3) one-family dwellings and (1) two-family dwelling  per plan. Review and processing for four records under 7116067-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7116067-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7116067-CN
-Issued: 2026-07-16
-Address: 9608 MARY AVE NW
-Contractor: 
-Valuation: 473219.0
-Units: 1</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7116657-cn</guid>
-      <title>[Seattle] Construct new one family dwelling  per plan.  (Allow housing for new detached dwelling unit  per land use code.   Existing detached dwelling to remain.  Construct new one family dwelling and construct alterations to existing one family dwelling  per plan.  Review and processing for 2 records under 7116657-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7116657-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7116657-CN
-Issued: 2026-07-16
-Address: 2111 S WAITE ST
-Contractor: 
-Valuation: 276641.0
-Units: 1</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7126787-cn</guid>
-      <title>[Seattle] Construct west #2 two family dwelling  per plan. (Establish use as townhouse  per land use code. Construct (2) new two-family dwellings  per plan. Review and processing for two records under 7119240-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7126787-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7126787-CN
-Issued: 2026-07-15
-Address: 4901 A ERSKINE WAY SW
-Contractor: 
-Valuation: 709168.0
-Units: 2</description>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
