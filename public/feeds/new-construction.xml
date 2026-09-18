@@ -61,6 +61,20 @@ Units: 2</description>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7141840-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct one-family dwelling  per plan</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7141840-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7141840-CN
+Issued: 2026-09-15
+Address: 9305 38TH AVE NE
+Contractor: 
+Valuation: 315822.0
+Units: 1</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7139664-cn</guid>
       <title>[Seattle] Construct East one family dwelling (unit 2)  per plan.   (Allow housing for detached dwelling units  per land use code. Existing detached dwelling to remain.  Construct 2 one family dwellings  per plan.  Project includes removal of detached garage.  Review and processing for 2 records under 7121805-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7139664-CN</link>
@@ -85,20 +99,6 @@ Issued: 2026-09-15
 Address: 3825 SW 106TH ST
 Contractor: 
 Valuation: 307937.0
-Units: 1</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7141840-cn</guid>
-      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct one-family dwelling  per plan</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7141840-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7141840-CN
-Issued: 2026-09-15
-Address: 9305 38TH AVE NE
-Contractor: 
-Valuation: 315822.0
 Units: 1</description>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -159,20 +159,6 @@ Units: 1</description>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7128365-cn</guid>
-      <title>[Seattle] Construct NE one-family dwelling  per plan. (Establish use as housing for four (4) detached dwelling units  per land use code. Construct four (4) new one-family dwellings  per plan. Review and processing for four records under 7106889-CN.)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128365-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7128365-CN
-Issued: 2026-09-14
-Address: 4115 SW ELMGROVE ST
-Contractor: 
-Valuation: 429757.0
-Units: 1</description>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7128366-cn</guid>
       <title>[Seattle] Construct SW one-family dwelling  per plan. (Establish use as housing for four (4) detached dwelling units  per land use code. Construct four (4) new one-family dwellings  per plan. Review and processing for four records under 7106889-CN.)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128366-CN</link>
@@ -183,6 +169,20 @@ Issued: 2026-09-14
 Address: 4119 SW ELMGROVE ST
 Contractor: 
 Valuation: 442716.0
+Units: 1</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7128365-cn</guid>
+      <title>[Seattle] Construct NE one-family dwelling  per plan. (Establish use as housing for four (4) detached dwelling units  per land use code. Construct four (4) new one-family dwellings  per plan. Review and processing for four records under 7106889-CN.)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128365-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7128365-CN
+Issued: 2026-09-14
+Address: 4115 SW ELMGROVE ST
+Contractor: 
+Valuation: 429757.0
 Units: 1</description>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -1755,6 +1755,20 @@ Units: 1</description>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7129709-cn</guid>
+      <title>[Seattle] Construct west two-family dwelling (Establish use as single-family residence &amp; allow attached accessory dwelling unit (AADU)  per land use code. Construct (2) two-family dwellings  per plan. Review &amp; process for (2) records under 7117020-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7129709-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7129709-CN
+Issued: 2026-08-17
+Address: 2146 NW 95TH ST
+Contractor: 
+Valuation: 936533.0
+Units: 1</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7124151-cn</guid>
       <title>[Seattle] Construct West two family dwelling (TH 1/2)  per plan. (Establish use as townhouse and single-family residence per land use code.  Construct (2) one family dwellings and (1) two family dwelling  per plan.  Review and processing for 3 records under 7098397-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7124151-CN</link>
@@ -1780,20 +1794,6 @@ Address: 9743 8TH AVE NW
 Contractor: 
 Valuation: 534839.0
 Units: 2</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7129709-cn</guid>
-      <title>[Seattle] Construct west two-family dwelling (Establish use as single-family residence &amp; allow attached accessory dwelling unit (AADU)  per land use code. Construct (2) two-family dwellings  per plan. Review &amp; process for (2) records under 7117020-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7129709-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7129709-CN
-Issued: 2026-08-17
-Address: 2146 NW 95TH ST
-Contractor: 
-Valuation: 936533.0
-Units: 1</description>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
