@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-09-19T16:05:26+00:00",
+  "generated_at": "2026-09-19T21:03:40+00:00",
   "sources": [
     {
       "source": "Seattle",
-      "status": "healthy",
-      "technical_status": "ok",
+      "status": "degraded",
+      "technical_status": "error",
       "freshness_status": "fresh",
-      "volume_status": "normal",
-      "records_seen": 2133,
-      "qualifying_records": 2030,
+      "volume_status": "unknown",
+      "records_seen": 0,
+      "qualifying_records": 0,
+      "cached_records": 2241,
+      "cached_qualifying_records": 2132,
       "newest_permit_date": "2026-09-17",
       "oldest_permit_date": "2004-05-19",
       "days_since_newest_permit": 2,
       "freshness_threshold_days": 10,
       "previous_records_seen": 2133,
-      "record_count_change_pct": 0.0,
-      "last_attempt_at": "2026-09-19T16:05:26+00:00",
+      "record_count_change_pct": null,
+      "last_attempt_at": "2026-09-19T21:03:40+00:00",
       "last_success_at": "2026-09-19T16:05:26+00:00",
       "cached_data_available": true,
       "source_url": "https://data.seattle.gov/Permitting/Issued-Building-Permits/8tqq-u7ib",
-      "note": "Official City of Seattle SDCI Issued Building Permits open-data feed"
+      "note": "Live collection failed; cached permits retained. RetryError: HTTPSConnectionPool(host='data.seattle.gov', port=443): Max retries exceeded with url: /resource/8tqq-u7ib.json?%24limit=50000&%24order=issueddate+DESC&%24where=issueddate+IS+NOT+NULL (Caused by ResponseError('too many 503 error responses'))"
     }
   ]
 }
