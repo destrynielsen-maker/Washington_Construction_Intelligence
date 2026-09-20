@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">WA|seattle|7131442-cn</guid>
-      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one-family dwelling  per plan. Remove existing detached garage.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131442-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7131442-CN
-Issued: 2026-09-18
-Address: 7029 7TH AVE NW
-Contractor: 
-Valuation: 228193.0
-Units: 1</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7134217-cn</guid>
       <title>[Seattle] Construct detached garage accessory to existing one family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7134217-CN</link>
@@ -30,6 +16,20 @@ Address: 7915 9TH AVE SW
 Contractor: 
 Valuation: 21654.0
 Units: </description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7131442-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one-family dwelling  per plan. Remove existing detached garage.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131442-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7131442-CN
+Issued: 2026-09-18
+Address: 7029 7TH AVE NW
+Contractor: 
+Valuation: 228193.0
+Units: 1</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
