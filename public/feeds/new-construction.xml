@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7131442-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one-family dwelling  per plan. Remove existing detached garage.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131442-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7131442-CN
+Issued: 2026-09-18
+Address: 7029 7TH AVE NW
+Contractor: 
+Valuation: 228193.0
+Units: 1</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7134217-cn</guid>
+      <title>[Seattle] Construct detached garage accessory to existing one family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7134217-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7134217-CN
+Issued: 2026-09-18
+Address: 7915 9TH AVE SW
+Contractor: 
+Valuation: 21654.0
+Units: </description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7136333-cn</guid>
       <title>[Seattle] Construct new one-family dwelling (SFR3)  per plan. (Establish use as housing for two detached dwelling units  per land use code. Existing detached dwelling to remain (SFR1). Construct two new one-family dwellings  per plan. Review and processing for 2 records under 7127600-CN.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7136333-CN</link>
@@ -3475,34 +3503,6 @@ Contractor:
 Valuation: 1391623.0
 Units: 5</description>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7131748-cn</guid>
-      <title>[Seattle] Construct SE one-family dwelling BLDG4  per plan. (Establish use as single-family residence with or without attached accessory dwelling units  per land use code. Construct (3) one-family dwellings and (1) two-family dwelling  per plan. Review and processing for four records under 7116067-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131748-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7131748-CN
-Issued: 2026-07-16
-Address: 9604 MARY AVE NW
-Contractor: 
-Valuation: 477039.0
-Units: 1</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7131747-cn</guid>
-      <title>[Seattle] Construct SW one-family dwelling BLDG3  per plan. (Establish use as single-family residence with or without attached accessory dwelling units  per land use code. Construct (3) one-family dwellings and (1) two-family dwelling  per plan. Review and processing for four records under 7116067-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131747-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7131747-CN
-Issued: 2026-07-16
-Address: 9602 MARY AVE NW
-Contractor: 
-Valuation: 477039.0
-Units: 1</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
