@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7116522-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Construct one-family dwelling  per plan. Existing one-family dwelling to remain.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7116522-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7116522-CN
+Issued: 2026-09-21
+Address: 1742 NE 90TH ST
+Contractor: 
+Valuation: 402573.0
+Units: 1</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7134217-cn</guid>
       <title>[Seattle] Construct detached garage accessory to existing one family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7134217-CN</link>
@@ -3489,20 +3503,6 @@ Contractor:
 Valuation: 425220.0
 Units: 1</description>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|6874585-cn</guid>
-      <title>[Seattle] Establish use as townhouse per land use code. Construct west townhouse building  per plan. (Establish use as a new 5 unit rowhouse per land use code.  Construct two new townhouse buildings  per plan. Review and processing for two records under 6874585-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6874585-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 55
-Permit: 6874585-CN
-Issued: 2026-07-17
-Address: 6711 42ND AVE S
-Contractor: 
-Valuation: 1391623.0
-Units: 5</description>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
