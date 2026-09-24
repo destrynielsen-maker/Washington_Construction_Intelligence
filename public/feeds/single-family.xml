@@ -5,6 +5,48 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7126105-cn</guid>
+      <title>[Seattle] Construct   NORTH one-family-dwelling  per plan; (Allow housing for two new detached dwelling units  per land use code. Existing detached dwelling to remain. Remove existing detached garage and construct as north and south one-family-dwellings; review and process for two records under 7126105-CN  using 6794017-SP).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7126105-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7126105-CN
+Issued: 2026-09-23
+Address: 3040 A 48TH AVE SW
+Contractor: 
+Valuation: 202684.0
+Units: 1</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7135854-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling unit to remain. Construct new one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135854-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7135854-CN
+Issued: 2026-09-23
+Address: 1414 S BENNETT ST
+Contractor: 
+Valuation: 287134.0
+Units: 1</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7123339-cn</guid>
+      <title>[Seattle] Construct west one-family dwelling  per plan. (Establish use as single-family dwelling unit with detached accessory dwelling unit  per land use code. Construct (2) one-family dwellings  per plan. Review and processing for two records under 7112234-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123339-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7123339-CN
+Issued: 2026-09-22
+Address: 4829 49TH AVE SW
+Contractor: 
+Valuation: 121795.0
+Units: 1</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7116522-cn</guid>
       <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Construct one-family dwelling  per plan. Existing one-family dwelling to remain.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7116522-CN</link>
@@ -3460,48 +3502,6 @@ Address: 2519 B S JUNEAU ST
 Contractor: 
 Valuation: 335562.0
 Units: 3</description>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7123730-cn</guid>
-      <title>[Seattle] Construct new one family dwelling (Unit 1) per plan. (Establish use as housing for three detached dwelling units  per land use code. Construct three new one-family dwellings  per plan. Review and processing for three records under 7123730-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123730-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7123730-CN
-Issued: 2026-05-20
-Address: 2519 A S JUNEAU ST
-Contractor: 
-Valuation: 335562.0
-Units: 3</description>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7119816-cn</guid>
-      <title>[Seattle] Construct SOUTH one-family dwelling (DADU1)  per plan. (Allow housing for two new detached dwelling units  per land use code. Existing detached dwelling to remain. Construct (2) new one-family dwellings  per plan. Review and processing for (2) records under 7119816-CN.)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7119816-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7119816-CN
-Issued: 2026-05-20
-Address: 10709 15TH AVE NE
-Contractor: 
-Valuation: 262807.0
-Units: 2</description>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7104424-cn</guid>
-      <title>[Seattle] Construct west one-family dwelling SFR3  per plan. (Establish single-family use per Land Use Code. Construct 3 one-family dwellings per plan. Review and process for 3 records under 7088096-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7104424-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7104424-CN
-Issued: 2026-05-20
-Address: 5210 S WILLOW ST
-Contractor: 
-Valuation: 317484.0
-Units: 1</description>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
