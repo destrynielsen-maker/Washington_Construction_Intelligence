@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">WA|seattle|7126105-cn</guid>
-      <title>[Seattle] Construct   NORTH one-family-dwelling  per plan; (Allow housing for two new detached dwelling units  per land use code. Existing detached dwelling to remain. Remove existing detached garage and construct as north and south one-family-dwellings; review and process for two records under 7126105-CN  using 6794017-SP).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7126105-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7126105-CN
-Issued: 2026-09-23
-Address: 3040 A 48TH AVE SW
-Contractor: 
-Valuation: 202684.0
-Units: 1</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7135854-cn</guid>
       <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling unit to remain. Construct new one-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135854-CN</link>
@@ -33,18 +19,18 @@ Units: 1</description>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7030161-cn</guid>
-      <title>[Seattle] Construct new West Bldg C townhouse  per plan. (Establish use as townhouse per land use code. Construct (2) new townhouse buildings  per plan. Review and processing for two records under 7030161-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7030161-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7030161-CN
-Issued: 2026-09-22
-Address: 4908 31ST AVE S
+      <guid isPermaLink="false">WA|seattle|7126105-cn</guid>
+      <title>[Seattle] Construct   NORTH one-family-dwelling  per plan; (Allow housing for two new detached dwelling units  per land use code. Existing detached dwelling to remain. Remove existing detached garage and construct as north and south one-family-dwellings; review and process for two records under 7126105-CN  using 6794017-SP).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7126105-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7126105-CN
+Issued: 2026-09-23
+Address: 3040 A 48TH AVE SW
 Contractor: 
-Valuation: 706577.0
-Units: 3</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+Valuation: 202684.0
+Units: 1</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <guid isPermaLink="false">WA|seattle|7128603-cn</guid>
@@ -61,16 +47,16 @@ Units: 2</description>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7030795-cn</guid>
-      <title>[Seattle] Construct west bldg. per plans (Establish use as townhouses per the land use code. Construct (2) townhouse buildings per plans. Reviews and processing for (2) -CN's under 7030795)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7030795-CN</link>
+      <guid isPermaLink="false">WA|seattle|7076145-cn</guid>
+      <title>[Seattle] Construct new East Bldg D townhouse  per plan. (Establish use as townhouse per land use code. Construct (2) new townhouse buildings  per plan. Review and processing for two records under 7030161-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7076145-CN</link>
       <description>Category: MULTIFAMILY
 Score: 45
-Permit: 7030795-CN
+Permit: 7076145-CN
 Issued: 2026-09-22
-Address: 3101 S FERDINAND ST
+Address: 4910 31ST AVE S
 Contractor: 
-Valuation: 759816.0
+Valuation: 702359.0
 Units: 3</description>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -89,16 +75,30 @@ Units: 3</description>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7076145-cn</guid>
-      <title>[Seattle] Construct new East Bldg D townhouse  per plan. (Establish use as townhouse per land use code. Construct (2) new townhouse buildings  per plan. Review and processing for two records under 7030161-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7076145-CN</link>
+      <guid isPermaLink="false">WA|seattle|7030795-cn</guid>
+      <title>[Seattle] Construct west bldg. per plans (Establish use as townhouses per the land use code. Construct (2) townhouse buildings per plans. Reviews and processing for (2) -CN's under 7030795)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7030795-CN</link>
       <description>Category: MULTIFAMILY
 Score: 45
-Permit: 7076145-CN
+Permit: 7030795-CN
 Issued: 2026-09-22
-Address: 4910 31ST AVE S
+Address: 3101 S FERDINAND ST
 Contractor: 
-Valuation: 702359.0
+Valuation: 759816.0
+Units: 3</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7030161-cn</guid>
+      <title>[Seattle] Construct new West Bldg C townhouse  per plan. (Establish use as townhouse per land use code. Construct (2) new townhouse buildings  per plan. Review and processing for two records under 7030161-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7030161-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7030161-CN
+Issued: 2026-09-22
+Address: 4908 31ST AVE S
+Contractor: 
+Valuation: 706577.0
 Units: 3</description>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>

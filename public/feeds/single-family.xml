@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">WA|seattle|7126105-cn</guid>
-      <title>[Seattle] Construct   NORTH one-family-dwelling  per plan; (Allow housing for two new detached dwelling units  per land use code. Existing detached dwelling to remain. Remove existing detached garage and construct as north and south one-family-dwellings; review and process for two records under 7126105-CN  using 6794017-SP).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7126105-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7126105-CN
-Issued: 2026-09-23
-Address: 3040 A 48TH AVE SW
-Contractor: 
-Valuation: 202684.0
-Units: 1</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7135854-cn</guid>
       <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling unit to remain. Construct new one-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135854-CN</link>
@@ -29,6 +15,20 @@ Issued: 2026-09-23
 Address: 1414 S BENNETT ST
 Contractor: 
 Valuation: 287134.0
+Units: 1</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7126105-cn</guid>
+      <title>[Seattle] Construct   NORTH one-family-dwelling  per plan; (Allow housing for two new detached dwelling units  per land use code. Existing detached dwelling to remain. Remove existing detached garage and construct as north and south one-family-dwellings; review and process for two records under 7126105-CN  using 6794017-SP).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7126105-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7126105-CN
+Issued: 2026-09-23
+Address: 3040 A 48TH AVE SW
+Contractor: 
+Valuation: 202684.0
 Units: 1</description>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
     </item>
