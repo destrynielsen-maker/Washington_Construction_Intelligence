@@ -1279,20 +1279,6 @@ Units: 1</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7130865-cn</guid>
-      <title>[Seattle] Construct new SE one family dwelling  per plan. (Establish use as housing for two attached dwelling units  per land use code.  Construct (3) new one family dwellings and (1) two family dwelling  per plan. Review and processing for two records under 7121127-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130865-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7130865-CN
-Issued: 2026-08-03
-Address: 2623 25TH AVE W
-Contractor: 
-Valuation: 366705.0
-Units: 1</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7130868-cn</guid>
       <title>[Seattle] Construct new SW one family dwelling  per plan. (Establish use as housing for two attached dwelling units  per land use code.  Construct (3) new one family dwellings and (1) two family dwelling  per plan. Review and processing for two records under 7121127-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130868-CN</link>
@@ -1317,6 +1303,20 @@ Issued: 2026-08-03
 Address: 2627 25TH AVE W
 Contractor: 
 Valuation: 422591.0
+Units: 1</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7130865-cn</guid>
+      <title>[Seattle] Construct new SE one family dwelling  per plan. (Establish use as housing for two attached dwelling units  per land use code.  Construct (3) new one family dwellings and (1) two family dwelling  per plan. Review and processing for two records under 7121127-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130865-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7130865-CN
+Issued: 2026-08-03
+Address: 2623 25TH AVE W
+Contractor: 
+Valuation: 366705.0
 Units: 1</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
