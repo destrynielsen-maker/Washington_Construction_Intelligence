@@ -1307,6 +1307,48 @@ Units: 1</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7130865-cn</guid>
+      <title>[Seattle] Construct new SE one family dwelling  per plan. (Establish use as housing for two attached dwelling units  per land use code.  Construct (3) new one family dwellings and (1) two family dwelling  per plan. Review and processing for two records under 7121127-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130865-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7130865-CN
+Issued: 2026-08-03
+Address: 2623 25TH AVE W
+Contractor: 
+Valuation: 366705.0
+Units: 1</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7130868-cn</guid>
+      <title>[Seattle] Construct new SW one family dwelling  per plan. (Establish use as housing for two attached dwelling units  per land use code.  Construct (3) new one family dwellings and (1) two family dwelling  per plan. Review and processing for two records under 7121127-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130868-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7130868-CN
+Issued: 2026-08-03
+Address: 2625 25TH AVE W
+Contractor: 
+Valuation: 422591.0
+Units: 1</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7130867-cn</guid>
+      <title>[Seattle] Construct new NW one family dwelling  per plan. (Establish use as housing for two attached dwelling units  per land use code.  Construct (3) new one family dwellings and (1) two family dwelling  per plan. Review and processing for two records under 7121127-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130867-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7130867-CN
+Issued: 2026-08-03
+Address: 2627 25TH AVE W
+Contractor: 
+Valuation: 422591.0
+Units: 1</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7065729-cn</guid>
       <title>[Seattle] Construct 5-unit townhouse structure  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7065729-CN</link>
@@ -3461,48 +3503,6 @@ Contractor:
 Valuation: 541170.0
 Units: 2</description>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7117774-cn</guid>
-      <title>[Seattle] Construct new Middle one family dwelling (unit 3)  per plan. (Allow new attached and detached accessory dwelling units to existing single family use per land use code.  Construct three new principal dwelling units: west two-family dwelling unit (units 1 and 2) and one detached dwelling unit (unit 3)  per plan.  Review and process for 3 records under 7100085-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7117774-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7117774-CN
-Issued: 2026-04-17
-Address: 5445 48TH AVE SW
-Contractor: 
-Valuation: 240870.0
-Units: 1</description>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7123962-cn</guid>
-      <title>[Seattle] Construct west two-family dwelling  per plan. (Establish use as townhouses per the land use code. Construct (2) two-family dwellings per plan. Reviews and processing for two records under 7118320-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123962-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7123962-CN
-Issued: 2026-04-16
-Address: 9011 8TH AVE NE
-Contractor: 
-Valuation: 507586.0
-Units: 2</description>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7118320-cn</guid>
-      <title>[Seattle] Construct east two-family dwelling  per plan. (Establish use as townhouses per the land use code. Construct (2) two-family dwellings per plan. Reviews and processing for two records under 7118320-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7118320-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7118320-CN
-Issued: 2026-04-16
-Address: 9013 8TH AVE NE
-Contractor: 
-Valuation: 573500.0
-Units: 2</description>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

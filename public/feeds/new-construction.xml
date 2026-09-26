@@ -2791,6 +2791,48 @@ Units: 1</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7130865-cn</guid>
+      <title>[Seattle] Construct new SE one family dwelling  per plan. (Establish use as housing for two attached dwelling units  per land use code.  Construct (3) new one family dwellings and (1) two family dwelling  per plan. Review and processing for two records under 7121127-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130865-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7130865-CN
+Issued: 2026-08-03
+Address: 2623 25TH AVE W
+Contractor: 
+Valuation: 366705.0
+Units: 1</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7130868-cn</guid>
+      <title>[Seattle] Construct new SW one family dwelling  per plan. (Establish use as housing for two attached dwelling units  per land use code.  Construct (3) new one family dwellings and (1) two family dwelling  per plan. Review and processing for two records under 7121127-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130868-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7130868-CN
+Issued: 2026-08-03
+Address: 2625 25TH AVE W
+Contractor: 
+Valuation: 422591.0
+Units: 1</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7130867-cn</guid>
+      <title>[Seattle] Construct new NW one family dwelling  per plan. (Establish use as housing for two attached dwelling units  per land use code.  Construct (3) new one family dwellings and (1) two family dwelling  per plan. Review and processing for two records under 7121127-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130867-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7130867-CN
+Issued: 2026-08-03
+Address: 2627 25TH AVE W
+Contractor: 
+Valuation: 422591.0
+Units: 1</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7103412-cn</guid>
       <title>[Seattle] Establish use as housing for one detached dwelling unit  per land use code. Construct one-family dwelling  per plan</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7103412-CN</link>
@@ -3461,48 +3503,6 @@ Contractor:
 Valuation: 349537.0
 Units: 1</description>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7103761-cn</guid>
-      <title>[Seattle] Construct new middle one family dwelling (SFR2)  per plan. (Establish use as single family residence per land use code.  Construct 3 new one family dwellings  per plan.  Review and process for 3 records under 7091211-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7103761-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7103761-CN
-Issued: 2026-07-21
-Address: 2139 B N 128TH ST
-Contractor: 
-Valuation: 349537.0
-Units: 1</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7091211-cn</guid>
-      <title>[Seattle] Construct new West one family dwelling (SFR1)  per plan. (Establish use as single family residence per land use code.  Construct 3 new one family dwellings  per plan.  Review and process for 3 records under 7091211-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7091211-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7091211-CN
-Issued: 2026-07-21
-Address: 2139 A N 128TH ST
-Contractor: 
-Valuation: 355568.0
-Units: 1</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|6947765-cn</guid>
-      <title>[Seattle] Construct east townhouse building  per plan. (Establish use as a new 4 unit townhouse per land use code. Construct two new townhouse buildings  per plan. Review and processing for two records under 6874585)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6947765-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 50
-Permit: 6947765-CN
-Issued: 2026-07-20
-Address: 6713 42ND AVE S
-Contractor: 
-Valuation: 1197352.0
-Units: 4</description>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
