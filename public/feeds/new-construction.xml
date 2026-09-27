@@ -47,20 +47,6 @@ Units: 1</description>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7123347-cn</guid>
-      <title>[Seattle] Construct west two-family dwelling. Establish use as housing for two attached dwelling units  per land use code.  Construct (2) two-family dwellings  per plan.  Review &amp; process for two records under 7123347-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123347-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7123347-CN
-Issued: 2026-09-24
-Address: 8816 38TH AVE SW
-Contractor: 
-Valuation: 709103.0
-Units: 2</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7134965-cn</guid>
       <title>[Seattle] Construct east two-family dwelling.  Establish use as housing for two attached dwelling units  per land use code. Construct (2) two-family dwellings  per plan.  Review &amp; process for two records under 7123347-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7134965-CN</link>
@@ -71,6 +57,20 @@ Issued: 2026-09-24
 Address: 8818 38TH AVE SW
 Contractor: 
 Valuation: 702744.0
+Units: 2</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7123347-cn</guid>
+      <title>[Seattle] Construct west two-family dwelling. Establish use as housing for two attached dwelling units  per land use code.  Construct (2) two-family dwellings  per plan.  Review &amp; process for two records under 7123347-CN).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123347-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7123347-CN
+Issued: 2026-09-24
+Address: 8816 38TH AVE SW
+Contractor: 
+Valuation: 709103.0
 Units: 2</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
