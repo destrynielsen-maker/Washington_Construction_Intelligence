@@ -5,6 +5,76 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7139510-cn</guid>
+      <title>[Seattle] Construct north two-family dwelling (Establish use as housing for 2 attached dwelling units and two detached dwelling units  per land use code.  Construct (2) one-family dwellings &amp; (1) two-family dwellings  per plan.  Review &amp; processing for (3) records under 7123522-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7139510-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7139510-CN
+Issued: 2026-09-25
+Address: 2820 NW 92ND ST
+Contractor: 
+Valuation: 789826.0
+Units: 2</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7139506-cn</guid>
+      <title>[Seattle] Construct southeast one-family dwelling (Establish use as housing for 2 attached dwelling units and two detached dwelling units  per land use code.  Construct (2) one-family dwellings &amp; (1) two-family dwellings  per plan.  Review &amp; processing for (3) records under 7123522-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7139506-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7139506-CN
+Issued: 2026-09-25
+Address: 2818 NW 92ND ST
+Contractor: 
+Valuation: 344290.0
+Units: 1</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7123522-cn</guid>
+      <title>[Seattle] Construct southwest one-family dwelling (Establish use as housing for 2 attached dwelling units and two detached dwelling units  per land use code.  Construct (2) one-family dwellings &amp; (1) two-family dwellings  per plan.  Review &amp; processing for (3) records under 7123522-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123522-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7123522-CN
+Issued: 2026-09-25
+Address: 2822 NW 92ND ST
+Contractor: 
+Valuation: 344290.0
+Units: 1</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7123347-cn</guid>
+      <title>[Seattle] Construct west two-family dwelling. Establish use as housing for two attached dwelling units  per land use code.  Construct (2) two-family dwellings  per plan.  Review &amp; process for two records under 7123347-CN).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123347-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7123347-CN
+Issued: 2026-09-24
+Address: 8816 38TH AVE SW
+Contractor: 
+Valuation: 709103.0
+Units: 2</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7134965-cn</guid>
+      <title>[Seattle] Construct east two-family dwelling.  Establish use as housing for two attached dwelling units  per land use code. Construct (2) two-family dwellings  per plan.  Review &amp; process for two records under 7123347-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7134965-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7134965-CN
+Issued: 2026-09-24
+Address: 8818 38TH AVE SW
+Contractor: 
+Valuation: 702744.0
+Units: 2</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7135854-cn</guid>
       <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling unit to remain. Construct new one-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135854-CN</link>
@@ -3433,76 +3503,6 @@ Contractor:
 Valuation: 344795.0
 Units: </description>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|6947801-cn</guid>
-      <title>[Seattle] Construct east townhouse building  per plan. (Establish use as a new 5 unit townhouse per land use code.  Construct two new townhouse buildings  per plan. Review and processing for two records under 6853386)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6947801-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 55
-Permit: 6947801-CN
-Issued: 2026-07-22
-Address: 6719 42ND AVE S
-Contractor: 
-Valuation: 1544606.0
-Units: 5</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7100720-cn</guid>
-      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one-family dwelling with attached garage  per plan. New concrete driveway.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7100720-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7100720-CN
-Issued: 2026-07-22
-Address: 3519 S AUSTIN ST
-Contractor: 
-Valuation: 224530.0
-Units: 1</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7123524-cn</guid>
-      <title>[Seattle] Establish use as housing for two attached dwelling units  per land use code.  Construct new two-family dwelling  per plan</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123524-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7123524-CN
-Issued: 2026-07-21
-Address: 1208 NW 77TH ST
-Contractor: 
-Valuation: 689600.0
-Units: 1</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|6979213-cn</guid>
-      <title>[Seattle] Establish use as single family residence with attached accessory dwelling unit per land use code. Construct two new two family dwellings  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6979213-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 6979213-CN
-Issued: 2026-07-21
-Address: 2408 S EDDY ST
-Contractor: 
-Valuation: 756894.0
-Units: 2</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7103764-cn</guid>
-      <title>[Seattle] Construct new East one family dwelling (SFR3)  per plan. (Establish use as single family residence per land use code.  Construct 3 new one family dwellings  per plan.  Review and process for 3 records under 7091211-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7103764-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7103764-CN
-Issued: 2026-07-21
-Address: 2139 C N 128TH ST
-Contractor: 
-Valuation: 349537.0
-Units: 1</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
