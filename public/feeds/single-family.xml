@@ -5,17 +5,17 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">WA|seattle|7110308-cn</guid>
-      <title>[Seattle] Construct new Middle one family dwelling  per plan (Establish use as single family residence per land use code.  Construct 3 new one family dwellings per plan.  Review and processing for 3 records under 7085323-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7110308-CN</link>
+      <guid isPermaLink="false">WA|seattle|7138347-cn</guid>
+      <title>[Seattle] Construct west one-family dwelling (SFR3)  per plan. (Establish use as housing for four detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7125130-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7138347-CN</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 7110308-CN
+Permit: 7138347-CN
 Issued: 2026-09-28
-Address: 6806 40TH AVE NE
+Address: 5525 A 35TH AVE NE
 Contractor: 
-Valuation: 328443.0
-Units: </description>
+Valuation: 317386.0
+Units: 1</description>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -29,34 +29,6 @@ Issued: 2026-09-28
 Address: 5525 B 35TH AVE NE
 Contractor: 
 Valuation: 316436.0
-Units: 1</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7085323-cn</guid>
-      <title>[Seattle] Construct new West one family dwelling  per plan (Establish use as single family residence per land use code.  Construct 3 new one family dwellings per plan.  Review and processing for 3 records under 7085323-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7085323-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7085323-CN
-Issued: 2026-09-28
-Address: 6808 40TH AVE NE
-Contractor: 
-Valuation: 348796.0
-Units: 3</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7138347-cn</guid>
-      <title>[Seattle] Construct west one-family dwelling (SFR3)  per plan. (Establish use as housing for four detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7125130-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7138347-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7138347-CN
-Issued: 2026-09-28
-Address: 5525 A 35TH AVE NE
-Contractor: 
-Valuation: 317386.0
 Units: 1</description>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -86,6 +58,34 @@ Address: 6804 40TH AVE NE
 Contractor: 
 Valuation: 322218.0
 Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7110308-cn</guid>
+      <title>[Seattle] Construct new Middle one family dwelling  per plan (Establish use as single family residence per land use code.  Construct 3 new one family dwellings per plan.  Review and processing for 3 records under 7085323-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7110308-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7110308-CN
+Issued: 2026-09-28
+Address: 6806 40TH AVE NE
+Contractor: 
+Valuation: 328443.0
+Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7085323-cn</guid>
+      <title>[Seattle] Construct new West one family dwelling  per plan (Establish use as single family residence per land use code.  Construct 3 new one family dwellings per plan.  Review and processing for 3 records under 7085323-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7085323-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7085323-CN
+Issued: 2026-09-28
+Address: 6808 40TH AVE NE
+Contractor: 
+Valuation: 348796.0
+Units: 3</description>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
