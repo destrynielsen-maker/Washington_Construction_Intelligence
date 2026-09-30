@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7135852-cn</guid>
+      <title>[Seattle] Allow housing for attached dwelling units  per land use code.  Existing detached dwelling to remain.   Construct a two-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135852-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7135852-CN
+Issued: 2026-09-28
+Address: 4013 A SW THISTLE ST
+Contractor: 
+Valuation: 504845.0
+Units: 2</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7139510-cn</guid>
       <title>[Seattle] Construct north two-family dwelling (Establish use as housing for 2 attached dwelling units and two detached dwelling units  per land use code.  Construct (2) one-family dwellings &amp; (1) two-family dwellings  per plan.  Review &amp; processing for (3) records under 7123522-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7139510-CN</link>
@@ -3489,20 +3503,6 @@ Contractor:
 Valuation: 458851.0
 Units: 3</description>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7020606-cn</guid>
-      <title>[Seattle] Establish use as single-family residence with attached accessory dwelling unit per land use code. Construct two-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7020606-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7020606-CN
-Issued: 2026-04-22
-Address: 2810 E MARION ST
-Contractor: 
-Valuation: 373738.0
-Units: 2</description>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7135852-cn</guid>
+      <title>[Seattle] Allow housing for attached dwelling units  per land use code.  Existing detached dwelling to remain.   Construct a two-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135852-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7135852-CN
+Issued: 2026-09-28
+Address: 4013 A SW THISTLE ST
+Contractor: 
+Valuation: 504845.0
+Units: 2</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7139510-cn</guid>
       <title>[Seattle] Construct north two-family dwelling (Establish use as housing for 2 attached dwelling units and two detached dwelling units  per land use code.  Construct (2) one-family dwellings &amp; (1) two-family dwellings  per plan.  Review &amp; processing for (3) records under 7123522-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7139510-CN</link>
@@ -3489,20 +3503,6 @@ Contractor:
 Valuation: 195872.0
 Units: </description>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7100085-cn</guid>
-      <title>[Seattle] Construct new West two family dwelling (unit 1 &amp; 2)  per plan. (Allow new attached and detached accessory dwelling units to existing single family use per land use code.  Construct three new principal dwelling units: west two-family dwelling unit (units 1 and 2) and one detached dwelling unit (unit 3)  per plan.  Review and process for 3 records under 7100085-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7100085-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7100085-CN
-Issued: 2026-04-17
-Address: 5443 A 48TH AVE SW
-Contractor: 
-Valuation: 541170.0
-Units: 2</description>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

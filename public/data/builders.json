@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-29T22:39:22+00:00",
+  "generated_at": "2026-09-30T05:59:48+00:00",
   "builders": [
-    {
-      "contractor": "Alexander Hiebert",
-      "permits_90d": 1,
-      "single_family": 1,
-      "multifamily": 0,
-      "commercial": 0,
-      "combined_valuation": 746879.0,
-      "jurisdictions": [
-        "Seattle"
-      ],
-      "top_score": 25
-    },
     {
       "contractor": "D Hill Construction",
       "permits_90d": 1,

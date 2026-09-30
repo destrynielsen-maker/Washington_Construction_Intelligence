@@ -5,6 +5,104 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7135852-cn</guid>
+      <title>[Seattle] Allow housing for attached dwelling units  per land use code.  Existing detached dwelling to remain.   Construct a two-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135852-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7135852-CN
+Issued: 2026-09-28
+Address: 4013 A SW THISTLE ST
+Contractor: 
+Valuation: 504845.0
+Units: 2</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7110308-cn</guid>
+      <title>[Seattle] Construct new Middle one family dwelling  per plan (Establish use as single family residence per land use code.  Construct 3 new one family dwellings per plan.  Review and processing for 3 records under 7085323-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7110308-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7110308-CN
+Issued: 2026-09-28
+Address: 6806 40TH AVE NE
+Contractor: 
+Valuation: 328443.0
+Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7138345-cn</guid>
+      <title>[Seattle] Construct middle one-family dwelling (SFR2)  per plan. (Establish use as housing for four detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7125130-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7138345-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7138345-CN
+Issued: 2026-09-28
+Address: 5525 B 35TH AVE NE
+Contractor: 
+Valuation: 316436.0
+Units: 1</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7085323-cn</guid>
+      <title>[Seattle] Construct new West one family dwelling  per plan (Establish use as single family residence per land use code.  Construct 3 new one family dwellings per plan.  Review and processing for 3 records under 7085323-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7085323-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7085323-CN
+Issued: 2026-09-28
+Address: 6808 40TH AVE NE
+Contractor: 
+Valuation: 348796.0
+Units: 3</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7138347-cn</guid>
+      <title>[Seattle] Construct west one-family dwelling (SFR3)  per plan. (Establish use as housing for four detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7125130-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7138347-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7138347-CN
+Issued: 2026-09-28
+Address: 5525 A 35TH AVE NE
+Contractor: 
+Valuation: 317386.0
+Units: 1</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7125130-cn</guid>
+      <title>[Seattle] Construct east one-family dwelling (SFR1)  per plan. (Establish use as housing for three detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7125130-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7125130-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7125130-CN
+Issued: 2026-09-28
+Address: 5525 C 35TH AVE NE
+Contractor: 
+Valuation: 316436.0
+Units: 1</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7110310-cn</guid>
+      <title>[Seattle] Construct new East one family dwelling  per plan (Establish use as single family residence per land use code.  Construct 3 new one family dwellings per plan.  Review and processing for 3 records under 7085323-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7110310-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7110310-CN
+Issued: 2026-09-28
+Address: 6804 40TH AVE NE
+Contractor: 
+Valuation: 322218.0
+Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7139510-cn</guid>
       <title>[Seattle] Construct north two-family dwelling (Establish use as housing for 2 attached dwelling units and two detached dwelling units  per land use code.  Construct (2) one-family dwellings &amp; (1) two-family dwellings  per plan.  Review &amp; processing for (3) records under 7123522-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7139510-CN</link>
@@ -3405,104 +3503,6 @@ Contractor:
 Valuation: 375243.0
 Units: 1</description>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7133588-cn</guid>
-      <title>[Seattle] Establish use as housing for one detached dwelling unit  per land use code. Construct new one-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7133588-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 20
-Permit: 7133588-CN
-Issued: 2026-07-24
-Address: 3410 NE 80TH ST
-Contractor: 
-Valuation: 630497.0
-Units: 1</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7126584-cn</guid>
-      <title>[Seattle] Establish use as housing for one detached dwelling units  per land use code. Existing one family dwelling to remain. Construct new one family dwelling  per plan. Project includes removal of detached garage.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7126584-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7126584-CN
-Issued: 2026-07-24
-Address: 716 W LEE ST
-Contractor: 
-Valuation: 456591.0
-Units: 1</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7112137-cn</guid>
-      <title>[Seattle] Construct east single family dwelling unit adjacent alley  permitted under 7077917-CN</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7112137-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7112137-CN
-Issued: 2026-07-24
-Address: 2015 NW 80TH ST
-Contractor: 
-Valuation: 242550.0
-Units: 1</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7112136-cn</guid>
-      <title>[Seattle] Construct middle single family dwelling unit permitted under 7077917-CN</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7112136-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7112136-CN
-Issued: 2026-07-24
-Address: 
-Contractor: 
-Valuation: 239569.0
-Units: 1</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7077917-cn</guid>
-      <title>[Seattle] Construct west one-family dwelling (Establish use as single-family residence  per land use code. Construct (3) one-family dwellings  per plan. Review &amp; processing for 3 records under 7077917-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7077917-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7077917-CN
-Issued: 2026-07-24
-Address: 7760 21ST AVE NW
-Contractor: 
-Valuation: 356932.0
-Units: 1</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7119434-cn</guid>
-      <title>[Seattle] Construct MIDDLE one-family dwelling  per plan. [[LAND USE DESCRIPTION] Construct alterations to add garage and convert existing one-family dwelling to two-family dwelling and construct new one-family dwellings  per plan. Review and processing for (3) construction records under 7092853-CN. Existing detached accessory garage to be demolished.]</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7119434-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7119434-CN
-Issued: 2026-07-23
-Address: 12507 PHINNEY AVE N
-Contractor: 
-Valuation: 274536.0
-Units: </description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7119433-cn</guid>
-      <title>[Seattle] Construct NORTH one-family dwelling  per plan. [[LAND USE DESCRIPTION] Construct alterations to add garage and convert existing one-family dwelling to two-family dwelling and construct new one-family dwellings  per plan. Review and processing for (3) construction records under 7092853-CN. Existing detached accessory garage to be demolished.]</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7119433-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7119433-CN
-Issued: 2026-07-23
-Address: 12509 PHINNEY AVE N
-Contractor: 
-Valuation: 344795.0
-Units: </description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
