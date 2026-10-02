@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7136612-cn</guid>
+      <title>[Seattle] Allow a detached housing unit maintaining an existing detached unit (no work) per the land use code. Construct a one-family dwelling  per plans</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7136612-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7136612-CN
+Issued: 2026-09-30
+Address: 5568 22ND AVE S
+Contractor: 
+Valuation: 227646.0
+Units: 1</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7135852-cn</guid>
       <title>[Seattle] Allow housing for attached dwelling units  per land use code.  Existing detached dwelling to remain.   Construct a two-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135852-CN</link>
@@ -3487,20 +3501,6 @@ Issued: 2026-07-24
 Address: 7752 21ST AVE NW
 Contractor: 
 Valuation: 415050.0
-Units: 1</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7081133-cn</guid>
-      <title>[Seattle] Construct west one-family dwelling  per plan (Establish use as Single family dwelling and two unit townhouse  per land use code.  Construct as a two-family and a one-family dwelling; review and process for two records under 7081133-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7081133-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7081133-CN
-Issued: 2026-07-24
-Address: 7754 21ST AVE NW
-Contractor: 
-Valuation: 375243.0
 Units: 1</description>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>

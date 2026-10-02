@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7136612-cn</guid>
+      <title>[Seattle] Allow a detached housing unit maintaining an existing detached unit (no work) per the land use code. Construct a one-family dwelling  per plans</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7136612-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7136612-CN
+Issued: 2026-09-30
+Address: 5568 22ND AVE S
+Contractor: 
+Valuation: 227646.0
+Units: 1</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7138347-cn</guid>
       <title>[Seattle] Construct west one-family dwelling (SFR3)  per plan. (Establish use as housing for four detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7125130-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7138347-CN</link>
@@ -3489,20 +3503,6 @@ Contractor:
 Valuation: 420709.0
 Units: 4</description>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7098140-cn</guid>
-      <title>[Seattle] Establish detached single-family dwelling unit  per Land Use Code. Construct new one family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7098140-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 20
-Permit: 7098140-CN
-Issued: 2026-05-26
-Address: 126 NE 133RD ST
-Contractor: 425 Remodel LLC
-Valuation: 381401.0
-Units: 1</description>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
