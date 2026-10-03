@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7133169-cn</guid>
+      <title>[Seattle] Construct North two family building (Bldg A)  per plan (Establish use as attached housing  per land use code.  Construct (2) two family buildings  per plan.  Review and processing for 2 records under 7109888-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7133169-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7133169-CN
+Issued: 2026-10-01
+Address: 6605 A 30TH AVE NW
+Contractor: 
+Valuation: 779953.0
+Units: 2</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7109888-cn</guid>
+      <title>[Seattle] Construct South two family building (Bldg A)  per plan (Establish use as attached housing  per land use code.  Construct (2) two family buildings  per plan.  Review and processing for 2 records under 7109888-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7109888-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7109888-CN
+Issued: 2026-10-01
+Address: 6603 A 30TH AVE NW
+Contractor: 
+Valuation: 726385.0
+Units: 2</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7136612-cn</guid>
       <title>[Seattle] Allow a detached housing unit maintaining an existing detached unit (no work) per the land use code. Construct a one-family dwelling  per plans</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7136612-CN</link>
@@ -3474,34 +3502,6 @@ Address: 5402 SW DAKOTA ST
 Contractor: 
 Valuation: 434594.0
 Units: </description>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7114380-cn</guid>
-      <title>[Seattle] Construct NE one family dwelling (SFR2)  per plan.  (Establish use as single family residence with detached accessory dwelling units per land use code.  Construct (4) one family dwelling units  per plan.  Review and Processing for 4 records under 7097963-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7114380-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7114380-CN
-Issued: 2026-05-27
-Address: 4055 54TH AVE SW
-Contractor: 
-Valuation: 342594.0
-Units: </description>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7097963-cn</guid>
-      <title>[Seattle] Construct NW one family dwelling (SFR1)  per plan.  (Establish use as single family residence with detached accessory dwelling units per land use code.  Construct (4) one family dwelling units  per plan.  Review and Processing for 4 records under 7097963-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7097963-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7097963-CN
-Issued: 2026-05-27
-Address: 5404 SW DAKOTA ST
-Contractor: 
-Valuation: 420709.0
-Units: 4</description>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

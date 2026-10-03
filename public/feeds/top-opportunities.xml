@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7119850-cn</guid>
+      <title>[Seattle] Construct east two-family dwelling TH1  per plan. (Establish use as townhouse  per land use code.  Construct (2) two-family dwellings  per plan. Review and processing for two records under 7119850-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7119850-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7119850-CN
+Issued: 2026-10-01
+Address: 1301 A 6TH AVE N
+Contractor: 
+Valuation: 749245.0
+Units: 2</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7131774-cn</guid>
+      <title>[Seattle] Construct west two-family dwelling TH2  per plan. (Establish use as townhouse  per land use code.  Construct (2) two-family dwellings  per plan. Review and processing for two records under 7119850-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131774-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7131774-CN
+Issued: 2026-10-01
+Address: 1303 A 6TH AVE N
+Contractor: 
+Valuation: 876517.0
+Units: 2</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7135852-cn</guid>
       <title>[Seattle] Allow housing for attached dwelling units  per land use code.  Existing detached dwelling to remain.   Construct a two-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135852-CN</link>
@@ -2857,7 +2885,7 @@ Issued: 2026-06-02
 Address: 3241 44TH AVE SW
 Contractor: 
 Valuation: 682008.0
-Units: 4</description>
+Units: 2</description>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3475,34 +3503,6 @@ Contractor:
 Valuation: 589942.0
 Units: 2</description>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7093017-cn</guid>
-      <title>[Seattle] Convert existing west one-family dwelling to DADU  per plan. (Establish use as single family residence with attached accessory dwelling units per land use code. Convert existing single family residence to DADU. Construct new one- and two-family dwellings  per plan. Review and processing for three records under 7083541-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7093017-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7093017-CN
-Issued: 2026-04-25
-Address: 9230 B 21ST AVE SW
-Contractor: 
-Valuation: 1.0
-Units: </description>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7112544-cn</guid>
-      <title>[Seattle] Construct west two-family dwelling  per plan. (Establish use as single-family residence with attached accessory dwelling unit  per land use code. Construct new one- and two-family dwellings  per plan. Review and processing for two records under 7112544-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7112544-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7112544-CN
-Issued: 2026-04-23
-Address: 4302 MERIDIAN AVE N
-Contractor: 
-Valuation: 458851.0
-Units: 3</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
