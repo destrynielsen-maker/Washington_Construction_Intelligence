@@ -33,6 +33,34 @@ Units: 2</description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7126184-cn</guid>
+      <title>[Seattle] Construct west duplex  occupy per plans (Establish use as townhouses per the land use code. Construct (2) two-family dwellings  per plan. Reviews &amp; processing for (2) records under 7104606-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7126184-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7126184-CN
+Issued: 2026-10-01
+Address: 1305 A 6TH AVE N
+Contractor: 
+Valuation: 827014.0
+Units: </description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7104606-cn</guid>
+      <title>[Seattle] Construct east duplex  per plans (Establish use as townhouses per the land use code. Construct (2) two-family dwellings  per plan. Reviews &amp; processing for (2) records under 7104606-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7104606-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7104606-CN
+Issued: 2026-10-01
+Address: 1307 A 6TH AVE N
+Contractor: 
+Valuation: 698932.0
+Units: 2</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7135852-cn</guid>
       <title>[Seattle] Allow housing for attached dwelling units  per land use code.  Existing detached dwelling to remain.   Construct a two-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135852-CN</link>
@@ -3475,34 +3503,6 @@ Contractor:
 Valuation: 373738.0
 Units: 2</description>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7125720-cn</guid>
-      <title>[Seattle] Construct west two-family dwelling BLDG B  per plan. (Establish use as townhouse  per land use code. Construct 2 new two-family dwellings  per plan. Review and processing for two records under 7109885-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7125720-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7125720-CN
-Issued: 2026-04-21
-Address: 811 29TH AVE E
-Contractor: 
-Valuation: 624873.0
-Units: 4</description>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7109885-cn</guid>
-      <title>[Seattle] Construct east two-family dwelling Duplex Bldg A  per plan. (Establish use as rowhouse  per land use code. Construct 2 new two-family dwellings  per plan. Review and processing for two records under 7109885-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7109885-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7109885-CN
-Issued: 2026-04-21
-Address: 807 29TH AVE E
-Contractor: 
-Valuation: 665845.0
-Units: 4</description>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
