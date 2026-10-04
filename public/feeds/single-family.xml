@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">WA|seattle|7120280-cn</guid>
-      <title>[Seattle] [Establish use as housing for one detached dwelling unit  per land use code.] Construct one-family dwelling  per plan</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7120280-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 20
-Permit: 7120280-CN
-Issued: 2026-10-02
-Address: 7332 58TH AVE NE
-Contractor: 
-Valuation: 838092.0
-Units: 1</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7148543-cn</guid>
       <title>[Seattle] Establish use as housing for one detached dwelling unit  per land use code. Construct new one-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7148543-CN</link>
@@ -33,16 +19,30 @@ Units: 1</description>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7121274-cn</guid>
-      <title>[Seattle] Construct new NE one family dwelling  per plan. (Establish use as housing for four detached dwelling units  per land use code. Construct (4) new one family dwellings  per plan. Review and processing for four records under 7121274-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7121274-CN</link>
+      <guid isPermaLink="false">WA|seattle|7120280-cn</guid>
+      <title>[Seattle] [Establish use as housing for one detached dwelling unit  per land use code.] Construct one-family dwelling  per plan</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7120280-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7120280-CN
+Issued: 2026-10-02
+Address: 7332 58TH AVE NE
+Contractor: 
+Valuation: 838092.0
+Units: 1</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7141213-cn</guid>
+      <title>[Seattle] Allow housing for (1) new detached dwelling  per land use code. Existing detached dwelling to remain. Construct one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7141213-CN</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 7121274-CN
+Permit: 7141213-CN
 Issued: 2026-10-02
-Address: 7934 34TH AVE SW
+Address: 1512 S HILL ST
 Contractor: 
-Valuation: 368912.0
+Valuation: 208645.0
 Units: 1</description>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -75,16 +75,16 @@ Units: 1</description>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7141213-cn</guid>
-      <title>[Seattle] Allow housing for (1) new detached dwelling  per land use code. Existing detached dwelling to remain. Construct one-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7141213-CN</link>
+      <guid isPermaLink="false">WA|seattle|7121274-cn</guid>
+      <title>[Seattle] Construct new NE one family dwelling  per plan. (Establish use as housing for four detached dwelling units  per land use code. Construct (4) new one family dwellings  per plan. Review and processing for four records under 7121274-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7121274-CN</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 7141213-CN
+Permit: 7121274-CN
 Issued: 2026-10-02
-Address: 1512 S HILL ST
+Address: 7934 34TH AVE SW
 Contractor: 
-Valuation: 208645.0
+Valuation: 368912.0
 Units: 1</description>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
