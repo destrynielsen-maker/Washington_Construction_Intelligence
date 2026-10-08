@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">WA|seattle|7091167-cn</guid>
-      <title>[Seattle] Construct west townhouse structure  per plan. (Construct (2) townhouse structures  per plan. Review and processing for two records under 7091167-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7091167-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7091167-CN
-Issued: 2026-10-06
-Address: 1710 25TH AVE
-Contractor: 
-Valuation: 971689.0
-Units: 3</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7148023-cn</guid>
       <title>[Seattle] Establish use as housing for two (2) stacked dwelling units  per land use code.  Construct new two family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7148023-CN</link>
@@ -30,20 +16,6 @@ Address: 3027 NW 72ND ST
 Contractor: 
 Valuation: 730371.0
 Units: 2</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7031013-cn</guid>
-      <title>[Seattle] Allow housing for two (2) new stacked dwelling units  per land use code.  Existing detached dwelling unit to remain. Construct a two-family dwelling maintaining portions of foundation and structure  per plans.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7031013-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7031013-CN
-Issued: 2026-10-06
-Address: 3318 23RD AVE S
-Contractor: 
-Valuation: 620345.0
-Units: 1</description>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -61,16 +33,30 @@ Units: 3</description>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7117716-cn</guid>
-      <title>[Seattle] Construct new southwest single family dwelling  per plan. (Establish use as single family residences per land use code.  Construct four new one family dwellings  per plan. Review and processing for four records under 7101777-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7117716-CN</link>
+      <guid isPermaLink="false">WA|seattle|7091167-cn</guid>
+      <title>[Seattle] Construct west townhouse structure  per plan. (Construct (2) townhouse structures  per plan. Review and processing for two records under 7091167-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7091167-CN</link>
       <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7117716-CN
+Score: 45
+Permit: 7091167-CN
 Issued: 2026-10-06
-Address: 12223 B 4TH AVE NW
+Address: 1710 25TH AVE
 Contractor: 
-Valuation: 332521.0
+Valuation: 971689.0
+Units: 3</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7031013-cn</guid>
+      <title>[Seattle] Allow housing for two (2) new stacked dwelling units  per land use code.  Existing detached dwelling unit to remain. Construct a two-family dwelling maintaining portions of foundation and structure  per plans.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7031013-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7031013-CN
+Issued: 2026-10-06
+Address: 3318 23RD AVE S
+Contractor: 
+Valuation: 620345.0
 Units: 1</description>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -103,6 +89,20 @@ Units: 1</description>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7117716-cn</guid>
+      <title>[Seattle] Construct new southwest single family dwelling  per plan. (Establish use as single family residences per land use code.  Construct four new one family dwellings  per plan. Review and processing for four records under 7101777-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7117716-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7117716-CN
+Issued: 2026-10-06
+Address: 12223 B 4TH AVE NW
+Contractor: 
+Valuation: 332521.0
+Units: 1</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7152151-cn</guid>
       <title>[Seattle] Construct new one-family dwelling (Unit 2)  per plan. (Establish use as housing for two detached dwelling units  per land use code. Existing detached dwelling to remain. Construct 2 new one-family dwellings  per plan. Review and processing for 2 records under 7137853-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7152151-CN</link>
@@ -117,20 +117,6 @@ Units: 1</description>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7127483-cn</guid>
-      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct as one-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7127483-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7127483-CN
-Issued: 2026-10-06
-Address: 127 NW 103RD ST
-Contractor: 
-Valuation: 266786.0
-Units: 1</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7137853-cn</guid>
       <title>[Seattle] Construct new one-family dwelling (Unit 1) and remove existing accessory structure  per plan. (Establish use as housing for two detached dwelling units  per land use code. Existing detached dwelling to remain. Construct 2 new one-family dwellings  per plan. Review and processing for 2 records under 7137853-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137853-CN</link>
@@ -141,6 +127,20 @@ Issued: 2026-10-06
 Address: 1628 A 25TH AVE
 Contractor: 
 Valuation: 384497.0
+Units: 1</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7127483-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct as one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7127483-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7127483-CN
+Issued: 2026-10-06
+Address: 127 NW 103RD ST
+Contractor: 
+Valuation: 266786.0
 Units: 1</description>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>

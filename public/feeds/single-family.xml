@@ -19,20 +19,6 @@ Units: 1</description>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7127483-cn</guid>
-      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct as one-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7127483-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7127483-CN
-Issued: 2026-10-06
-Address: 127 NW 103RD ST
-Contractor: 
-Valuation: 266786.0
-Units: 1</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7137853-cn</guid>
       <title>[Seattle] Construct new one-family dwelling (Unit 1) and remove existing accessory structure  per plan. (Establish use as housing for two detached dwelling units  per land use code. Existing detached dwelling to remain. Construct 2 new one-family dwellings  per plan. Review and processing for 2 records under 7137853-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137853-CN</link>
@@ -43,6 +29,20 @@ Issued: 2026-10-06
 Address: 1628 A 25TH AVE
 Contractor: 
 Valuation: 384497.0
+Units: 1</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7127483-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct as one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7127483-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7127483-CN
+Issued: 2026-10-06
+Address: 127 NW 103RD ST
+Contractor: 
+Valuation: 266786.0
 Units: 1</description>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
