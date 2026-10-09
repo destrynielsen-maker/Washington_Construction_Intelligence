@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7136974-cn</guid>
+      <title>[Seattle] Establish use as single family residence per land use code. Construct single family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7136974-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7136974-CN
+Issued: 2026-10-07
+Address: 2614 E PIKE ST
+Contractor: 
+Valuation: 622235.0
+Units: 2</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7141583-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain  with detached garage removed. Construct as one-family dwelling  per standard plan 7150191-SP.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7141583-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7141583-CN
+Issued: 2026-10-07
+Address: 729 N 68TH ST
+Contractor: 
+Valuation: 262026.0
+Units: 1</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7152151-cn</guid>
       <title>[Seattle] Construct new one-family dwelling (Unit 2)  per plan. (Establish use as housing for two detached dwelling units  per land use code. Existing detached dwelling to remain. Construct 2 new one-family dwellings  per plan. Review and processing for 2 records under 7137853-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7152151-CN</link>
@@ -3475,34 +3503,6 @@ Contractor:
 Valuation: 335911.0
 Units: 2</description>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7115978-cn</guid>
-      <title>[Seattle] Construct new accessory structure  per STFI</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7115978-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7115978-CN
-Issued: 2026-06-02
-Address: 5075 LAKE WASHINGTON BLVD S
-Contractor: 
-Valuation: 2700.0
-Units: </description>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7119849-cn</guid>
-      <title>[Seattle] Construct one-family dwelling  per plan</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7119849-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7119849-CN
-Issued: 2026-05-30
-Address: 617 NW 48TH ST
-Contractor: 
-Valuation: 292084.0
-Units: 1</description>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
