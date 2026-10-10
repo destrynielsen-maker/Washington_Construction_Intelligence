@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7137855-cn</guid>
+      <title>[Seattle] Construct new two-family dwelling (West)  per plan. (Establish use as housing for two attached dwelling units  per land use code. Existing detached dwelling to remain. Construct new two-family dwelling and alterations to existing one family dwelling unit  per plan. Review and processing for 2 records under 7137855-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137855-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7137855-CN
+Issued: 2026-10-08
+Address: 14041 BURKE AVE N
+Contractor: 
+Valuation: 541024.0
+Units: 1</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7128930-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing south detached dwelling to remain. Construct north one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128930-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7128930-CN
+Issued: 2026-10-08
+Address: 3912 S WARSAW ST
+Contractor: 
+Valuation: 230858.0
+Units: 1</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7118487-cn</guid>
       <title>[Seattle] Establish use as permanent supportive housing for 82 stacked dwelling units and human services facilities  per land use code. Construct new mixed-use building  occupy per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7118487-CN</link>
@@ -72,6 +100,20 @@ Address: 2614 E PIKE ST
 Contractor: 
 Valuation: 622235.0
 Units: 2</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7136366-cn</guid>
+      <title>[Seattle] Construct new East one family dwelling (Unit A)  per plan.   (Establish use as housing for detached dwelling units  per land use code.  Construct 2 one family dwellings  per plan.  Review and processing for 2 records under 7136366-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7136366-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7136366-CN
+Issued: 2026-10-07
+Address: 12017 10TH AVE NW
+Contractor: 
+Valuation: 781487.0
+Units: 1</description>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3461,48 +3503,6 @@ Contractor:
 Valuation: 353749.0
 Units: 1</description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7085507-cn</guid>
-      <title>[Seattle] Construct SW one-family dwelling  per plan. (Establish use as single family residence per land use code. Construct (4) one-family dwelling per plan. Review and processing for four records under 7085507-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7085507-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7085507-CN
-Issued: 2026-07-31
-Address: 11234 DAYTON AVE N
-Contractor: 
-Valuation: 353749.0
-Units: 1</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7065729-cn</guid>
-      <title>[Seattle] Construct 5-unit townhouse structure  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7065729-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 55
-Permit: 7065729-CN
-Issued: 2026-07-30
-Address: 323 W DRAVUS ST
-Contractor: 
-Valuation: 1453247.0
-Units: 5</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7091249-cn</guid>
-      <title>[Seattle] Construct new two-family dwelling  per plan.  (Establish use as townhouse per land use code.  Construct new townhouse building and new two-family dwelling  per plan.  Review and processing for two records under 7065535-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7091249-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 50
-Permit: 7091249-CN
-Issued: 2026-07-30
-Address: 319 W DRAVUS ST
-Contractor: 
-Valuation: 551421.0
-Units: 5</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
