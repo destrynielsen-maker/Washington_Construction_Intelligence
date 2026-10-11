@@ -5,6 +5,62 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7135433-cn</guid>
+      <title>[Seattle] Construct east SFR 4  per plans (Establish use as housing for four detached units per the land use code. Construct (4) one-family dwellings  per plans. Reviews and processing for (4) -CN's under 7123252)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135433-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7135433-CN
+Issued: 2026-10-09
+Address: 209 NE 85TH ST
+Contractor: 
+Valuation: 386842.0
+Units: 1</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7135431-cn</guid>
+      <title>[Seattle] Construct west middle SFR 2  per plans (Establish use as housing for four detached units per the land use code. Construct (4) one-family dwellings  per plans. Reviews and processing for (4) -CN's under 7123252)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135431-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7135431-CN
+Issued: 2026-10-09
+Address: 205 NE 85TH ST
+Contractor: 
+Valuation: 344715.0
+Units: 1</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7123252-cn</guid>
+      <title>[Seattle] Construct west SFR 1  per plans (Establish use as housing for four detached units per the land use code. Construct (4) one-family dwellings  per plans. Reviews and processing for (4) -CN's under 7123252)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123252-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7123252-CN
+Issued: 2026-10-09
+Address: 203 NE 85TH ST
+Contractor: 
+Valuation: 348206.0
+Units: 1</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7135432-cn</guid>
+      <title>[Seattle] Construct east middle SFR 3  per plans (Establish use as housing for four detached units per the land use code. Construct (4) one-family dwellings  per plans. Reviews and processing for (4) -CN's under 7123252)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135432-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7135432-CN
+Issued: 2026-10-09
+Address: 207 NE 85TH ST
+Contractor: 
+Valuation: 344715.0
+Units: 1</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7137855-cn</guid>
       <title>[Seattle] Construct new two-family dwelling (West)  per plan. (Establish use as housing for two attached dwelling units  per land use code. Existing detached dwelling to remain. Construct new two-family dwelling and alterations to existing one family dwelling unit  per plan. Review and processing for 2 records under 7137855-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137855-CN</link>
@@ -3447,62 +3503,6 @@ Contractor:
 Valuation: 366705.0
 Units: 1</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7103412-cn</guid>
-      <title>[Seattle] Establish use as housing for one detached dwelling unit  per land use code. Construct one-family dwelling  per plan</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7103412-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7103412-CN
-Issued: 2026-07-31
-Address: 605 N 122ND ST
-Contractor: 
-Valuation: 280314.0
-Units: 1</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7095877-cn</guid>
-      <title>[Seattle] Construct SE one-family dwelling  per plan. (Establish use as single family residence per land use code. Construct (4) one-family dwelling per plan. Review and processing for four records under 7085507-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7095877-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7095877-CN
-Issued: 2026-07-31
-Address: 11236 DAYTON AVE N
-Contractor: 
-Valuation: 355053.0
-Units: 1</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7095876-cn</guid>
-      <title>[Seattle] Construct NE one-family dwelling  per plan. (Establish use as single family residence per land use code. Construct (4) one-family dwelling per plan. Review and processing for four records under 7085507-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7095876-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7095876-CN
-Issued: 2026-07-31
-Address: 11238 DAYTON AVE N
-Contractor: 
-Valuation: 355053.0
-Units: 1</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7095875-cn</guid>
-      <title>[Seattle] Construct NW one-family dwelling  per plan. (Establish use as single family residence per land use code. Construct (4) one-family dwelling per plan. Review and processing for four records under 7085507-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7095875-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7095875-CN
-Issued: 2026-07-31
-Address: 11240 DAYTON AVE N
-Contractor: 
-Valuation: 353749.0
-Units: 1</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
