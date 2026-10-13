@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7137850-cn</guid>
+      <title>[Seattle] Allow housing for one (1) new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one-family dwellings  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137850-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7137850-CN
+Issued: 2026-10-12
+Address: 8530 4TH AVE NE
+Contractor: 
+Valuation: 180544.0
+Units: 1</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7135433-cn</guid>
       <title>[Seattle] Construct east SFR 4  per plans (Establish use as housing for four detached units per the land use code. Construct (4) one-family dwellings  per plans. Reviews and processing for (4) -CN's under 7123252)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135433-CN</link>
@@ -3489,20 +3503,6 @@ Contractor:
 Valuation: 519486.0
 Units: 1</description>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7120464-cn</guid>
-      <title>[Seattle] Construct north DADU2  per plan. [Establish use as single-family with detached accessory dwelling unit  per land use code. Construct (2) new one-family dwellings  per plan. Existing one-family dwelling to remain. Reviews and processing for two records under 7107714-CN]</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7120464-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7120464-CN
-Issued: 2026-06-04
-Address: 4716 NE 100TH ST
-Contractor: 
-Valuation: 250046.0
-Units: 2</description>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

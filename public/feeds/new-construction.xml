@@ -5,6 +5,90 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7123520-cn</guid>
+      <title>[Seattle] Construct new South two family dwelling  per plan. ([LU Statement]  Construct (2) new two family dwellings  per plan. Review and processing for two records under 7123520-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123520-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7123520-CN
+Issued: 2026-10-12
+Address: 3503 DENSMORE AVE N
+Contractor: 
+Valuation: 807365.0
+Units: 2</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7109151-cn</guid>
+      <title>[Seattle] Construct south one-family dwelling (Unit A)  per plan. (Establish use as housing for two attached dwelling units and one attached dwelling unit within the new structure  per land use code. Existing detached dwelling unit to remain.  Construct (1) one-family dwelling &amp; (1) two-family dwelling  per plan.  Review &amp; process for (2) records under 7109151-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7109151-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7109151-CN
+Issued: 2026-10-12
+Address: 6002 22ND AVE S
+Contractor: 
+Valuation: 506139.0
+Units: 1</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7131817-cn</guid>
+      <title>[Seattle] Construct new North two family dwelling  per plan. ([LU Statement] Construct (2) new two family dwellings  per plan. Review and processing for two records under 7123520-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131817-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7131817-CN
+Issued: 2026-10-12
+Address: 3505 DENSMORE AVE N
+Contractor: 
+Valuation: 794238.0
+Units: 2</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7116062-cn</guid>
+      <title>[Seattle] Construct new two family dwelling  per plan. (Establish use as single family residences  one with an attached accessory dwelling unit per land use code.  Construct (2) new one and (1) new two family dwellings  per plan. Review and processing for three records under 7116062-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7116062-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7116062-CN
+Issued: 2026-10-12
+Address: 1526 M L KING JR WAY
+Contractor: Vivid Development LLC
+Valuation: 447600.0
+Units: 1</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7122007-cn</guid>
+      <title>[Seattle] Construct new middle one family dwelling  per plan. (Establish use as single family residences  one with an attached accessory dwelling unit per land use code.  Construct (2) new one and (1) new two family dwellings  per plan. Review and processing for three records under 7116062-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7122007-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7122007-CN
+Issued: 2026-10-12
+Address: 1524 M L KING JR WAY
+Contractor: 
+Valuation: 365096.0
+Units: 1</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7137850-cn</guid>
+      <title>[Seattle] Allow housing for one (1) new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one-family dwellings  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137850-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7137850-CN
+Issued: 2026-10-12
+Address: 8530 4TH AVE NE
+Contractor: 
+Valuation: 180544.0
+Units: 1</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7135433-cn</guid>
       <title>[Seattle] Construct east SFR 4  per plans (Establish use as housing for four detached units per the land use code. Construct (4) one-family dwellings  per plans. Reviews and processing for (4) -CN's under 7123252)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135433-CN</link>
@@ -3419,90 +3503,6 @@ Contractor:
 Valuation: 456564.0
 Units: 1</description>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7121899-cn</guid>
-      <title>[Seattle] Construct West two family dwelling (SFR A/B)  per plan.   (Establish use as housing for attached and detached dwelling units  per land use code.   Construct  (1) two family dwelling and (2) one family dwellings  per plan.  Review and processing for 3 records under 7121899-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7121899-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7121899-CN
-Issued: 2026-08-03
-Address: 942 A 26TH AVE
-Contractor: 
-Valuation: 716444.0
-Units: 2</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7134241-cn</guid>
-      <title>[Seattle] Construct SE one family dwelling (SFR D)  per plan.   (Establish use as housing for attached and detached dwelling units  per land use code.   Construct  (1) two family dwelling and (2) one family dwellings  per plan.  Review and processing for 3 records under 7121899-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7134241-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7134241-CN
-Issued: 2026-08-03
-Address: 940 B 26TH AVE
-Contractor: 
-Valuation: 411681.0
-Units: 1</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7134240-cn</guid>
-      <title>[Seattle] Construct NE one family dwelling (SFR C)  per plan.   (Establish use as housing for attached and detached dwelling units  per land use code.   Construct  (1) two family dwelling and (2) one family dwellings  per plan.  Review and processing for 3 records under 7121899-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7134240-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7134240-CN
-Issued: 2026-08-03
-Address: 940 A 26TH AVE
-Contractor: 
-Valuation: 411681.0
-Units: 1</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7130868-cn</guid>
-      <title>[Seattle] Construct new SW one family dwelling  per plan. (Establish use as housing for two attached dwelling units  per land use code.  Construct (3) new one family dwellings and (1) two family dwelling  per plan. Review and processing for two records under 7121127-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130868-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7130868-CN
-Issued: 2026-08-03
-Address: 2625 25TH AVE W
-Contractor: 
-Valuation: 422591.0
-Units: 1</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7130867-cn</guid>
-      <title>[Seattle] Construct new NW one family dwelling  per plan. (Establish use as housing for two attached dwelling units  per land use code.  Construct (3) new one family dwellings and (1) two family dwelling  per plan. Review and processing for two records under 7121127-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130867-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7130867-CN
-Issued: 2026-08-03
-Address: 2627 25TH AVE W
-Contractor: 
-Valuation: 422591.0
-Units: 1</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7130865-cn</guid>
-      <title>[Seattle] Construct new SE one family dwelling  per plan. (Establish use as housing for two attached dwelling units  per land use code.  Construct (3) new one family dwellings and (1) two family dwelling  per plan. Review and processing for two records under 7121127-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130865-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7130865-CN
-Issued: 2026-08-03
-Address: 2623 25TH AVE W
-Contractor: 
-Valuation: 366705.0
-Units: 1</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
