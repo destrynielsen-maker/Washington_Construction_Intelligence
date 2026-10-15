@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T12:09:13+00:00",
+  "generated_at": "2026-10-15T17:22:39+00:00",
   "builders": [
     {
       "contractor": "D Hill Construction",
@@ -12,18 +12,6 @@
         "Seattle"
       ],
       "top_score": 50
-    },
-    {
-      "contractor": "Vivid Development LLC",
-      "permits_90d": 1,
-      "single_family": 0,
-      "multifamily": 1,
-      "commercial": 0,
-      "combined_valuation": 447600.0,
-      "jurisdictions": [
-        "Seattle"
-      ],
-      "top_score": 45
     }
   ]
 }

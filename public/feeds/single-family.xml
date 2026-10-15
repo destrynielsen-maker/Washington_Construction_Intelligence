@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7140052-cn</guid>
+      <title>[Seattle] Establish use as housing for one detached dwelling unit  per land use code. Construct new one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7140052-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7140052-CN
+Issued: 2026-10-14
+Address: 3602 38TH AVE W
+Contractor: 
+Valuation: 973463.0
+Units: 2</description>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7116524-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7116524-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7116524-CN
+Issued: 2026-10-13
+Address: 8004 LINDEN AVE N
+Contractor: 
+Valuation: 181633.0
+Units: 1</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7137850-cn</guid>
       <title>[Seattle] Allow housing for one (1) new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one-family dwellings  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137850-CN</link>
@@ -3471,34 +3499,6 @@ Score: 20
 Permit: 7123224-CN
 Issued: 2026-06-05
 Address: 8731 PALATINE AVE N
-Contractor: 
-Valuation: 519486.0
-Units: 1</description>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7102287-cn</guid>
-      <title>[Seattle] Establish use as housing for one detached dwelling unit  per land use code.  Construct as one-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7102287-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 20
-Permit: 7102287-CN
-Issued: 2026-06-05
-Address: 7309 57TH AVE NE
-Contractor: 
-Valuation: 637356.0
-Units: 1</description>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7098924-cn</guid>
-      <title>[Seattle] Construct new south one family dwelling  per plan. (Establish use as single-family dwelling units  per land use code.  Construct (2) new one family dwellings  per plan. Review and processing for two records under7098924-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7098924-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 20
-Permit: 7098924-CN
-Issued: 2026-06-05
-Address: 8729 PALATINE AVE N
 Contractor: 
 Valuation: 519486.0
 Units: 1</description>

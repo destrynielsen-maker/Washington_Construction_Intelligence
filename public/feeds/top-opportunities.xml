@@ -5,6 +5,62 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7124181-cn</guid>
+      <title>[Seattle] Construct east two-family dwelling (Establish use as housing for two attached dwelling units and two detached dwelling units  per land use code.  Construct (2) one-family dwellings &amp; (1) two-family dwelling  per plan.  Review &amp; process for (3) records under 7124181-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7124181-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 50
+Permit: 7124181-CN
+Issued: 2026-10-13
+Address: 5623 A 44TH AVE SW
+Contractor: 
+Valuation: 4664779.0
+Units: 2</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7143988-cn</guid>
+      <title>[Seattle] Establish use for attached dwelling units  per land use code.   Construct new two-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7143988-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7143988-CN
+Issued: 2026-10-13
+Address: 3633 40TH AVE W
+Contractor: 
+Valuation: 730371.0
+Units: 2</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7141650-cn</guid>
+      <title>[Seattle] Construct west one-family dwelling (Establish use as housing for two attached dwelling units and two detached dwelling unit  per land use code. Construct (2) one-family dwellings &amp; (1) two-family dwelling  per plan. Review &amp; process for (3) records under 7124181-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7141650-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7141650-CN
+Issued: 2026-10-13
+Address: 5619 44TH AVE SW
+Contractor: 
+Valuation: 425345.0
+Units: 1</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7141648-cn</guid>
+      <title>[Seattle] Construct middle one-family dwelling (Establish use as housing for two attached dwelling units and two detached dwelling unit  per land use code. Construct (2) one-family dwellings &amp; (1) two-family dwelling  per plan. Review &amp; process for (3) records under 7124181-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7141648-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7141648-CN
+Issued: 2026-10-13
+Address: 5621 44TH AVE SW
+Contractor: 
+Valuation: 425345.0
+Units: 1</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7131817-cn</guid>
       <title>[Seattle] Construct new North two family dwelling  per plan. ([LU Statement] Construct (2) new two family dwellings  per plan. Review and processing for two records under 7123520-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131817-CN</link>
@@ -33,20 +89,6 @@ Units: 2</description>
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7116062-cn</guid>
-      <title>[Seattle] Construct new two family dwelling  per plan. (Establish use as single family residences  one with an attached accessory dwelling unit per land use code.  Construct (2) new one and (1) new two family dwellings  per plan. Review and processing for three records under 7116062-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7116062-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7116062-CN
-Issued: 2026-10-12
-Address: 1526 M L KING JR WAY
-Contractor: Vivid Development LLC
-Valuation: 447600.0
-Units: 1</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7109151-cn</guid>
       <title>[Seattle] Construct south one-family dwelling (Unit A)  per plan. (Establish use as housing for two attached dwelling units and one attached dwelling unit within the new structure  per land use code. Existing detached dwelling unit to remain.  Construct (1) one-family dwelling &amp; (1) two-family dwelling  per plan.  Review &amp; process for (2) records under 7109151-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7109151-CN</link>
@@ -71,6 +113,20 @@ Issued: 2026-10-12
 Address: 1524 M L KING JR WAY
 Contractor: 
 Valuation: 365096.0
+Units: 1</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7116062-cn</guid>
+      <title>[Seattle] Construct new two family dwelling  per plan. (Establish use as single family residences  one with an attached accessory dwelling unit per land use code.  Construct (2) new one and (1) new two family dwellings  per plan. Review and processing for three records under 7116062-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7116062-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7116062-CN
+Issued: 2026-10-12
+Address: 1526 M L KING JR WAY
+Contractor: 
+Valuation: 447600.0
 Units: 1</description>
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -3447,62 +3503,6 @@ Contractor:
 Valuation: 344136.0
 Units: 1</description>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7102493-cn</guid>
-      <title>[Seattle] Construct new one family dwelling (NE - SFR1)  per plan. (Establish use as (2) single-family residences and (1) townhouse  per land use code. Construct (2) new one-family dwellings and (1) new two-family dwelling  per plan. Review and processing for three records under 7102493-CN.)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7102493-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7102493-CN
-Issued: 2026-05-21
-Address: 6027 B 4TH AVE NE
-Contractor: 
-Valuation: 344136.0
-Units: 1</description>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7105556-cn</guid>
-      <title>[Seattle] Construct new public restroom at existing Mt. Baker Park with alterations to pathways connecting to existing tennis courts  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7105556-CN</link>
-      <description>Category: COMMERCIAL
-Score: 30
-Permit: 7105556-CN
-Issued: 2026-05-18
-Address: 2400 LAKE PARK DR S
-Contractor: 
-Valuation: 13714.0
-Units: </description>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7100544-cn</guid>
-      <title>[Seattle] Establish use as single family residence with attached accessory dwelling unit per land use code. Construct new two-family dwelling per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7100544-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7100544-CN
-Issued: 2026-05-14
-Address: 2415 MONTAVISTA PL W
-Contractor: 
-Valuation: 825899.0
-Units: 1</description>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7115668-cn</guid>
-      <title>[Seattle] Construct east duplex  per plans (Establish use as single-family residential per the land-use code. Construct (2) two-family dwellings  per plans. Reviews and processing for (2) -CN's under 7097347)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7115668-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7115668-CN
-Issued: 2026-05-13
-Address: 7737 24TH AVE NE
-Contractor: 
-Valuation: 724855.0
-Units: </description>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
