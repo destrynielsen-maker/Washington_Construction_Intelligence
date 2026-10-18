@@ -5,6 +5,48 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7134721-cn</guid>
+      <title>[Seattle] Construct new East one-family dwelling (SFR)  per plan. (Establish use as housing for three detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7134721-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7134721-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7134721-CN
+Issued: 2026-10-16
+Address: 7507 8TH AVE NW
+Contractor: 
+Valuation: 573030.0
+Units: 1</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7141004-cn</guid>
+      <title>[Seattle] Construct new West one-family dwelling (DADU 2)  per plan. (Establish use as housing for three detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7134721-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7141004-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7141004-CN
+Issued: 2026-10-16
+Address: 7503 8TH AVE NW
+Contractor: 
+Valuation: 268046.0
+Units: 1</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7141003-cn</guid>
+      <title>[Seattle] Construct new middle one-family dwelling (DADU 1)  per plan. (Establish use as housing for three detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7134721-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7141003-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7141003-CN
+Issued: 2026-10-16
+Address: 7505 8TH AVE NW
+Contractor: 
+Valuation: 268046.0
+Units: 1</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7147831-cn</guid>
       <title>[Seattle] Establish use as housing for two attached dwelling units  per land use code. Construct two-family dwelling  per plan</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7147831-CN</link>
@@ -3459,48 +3501,6 @@ Issued: 2026-08-05
 Address: 9715 39TH AVE SW
 Contractor: 
 Valuation: 213497.0
-Units: 1</description>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7112377-cn</guid>
-      <title>[Seattle] Allow housing for two detached dwelling units.  Construct (2) new one-family dwellings  per plan. Existing SFR to remain. Reviews and processing for two records under 7112377-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7112377-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7112377-CN
-Issued: 2026-08-05
-Address: 8422 46TH AVE S
-Contractor: 
-Valuation: 237042.0
-Units: 1</description>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7104749-cn</guid>
-      <title>[Seattle] Construct new north one family dwelling  per plan. Existing south one family dwelling to remain. Remove detached accessory structure. (Allow (2) new detached accessory dwelling units to existing single family use per land use code.  Construct (2) new one family dwellings  per plan. Review and processing for two records under 7104749-CN.).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7104749-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7104749-CN
-Issued: 2026-08-05
-Address: 9713 39TH AVE SW
-Contractor: 
-Valuation: 213497.0
-Units: 1</description>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7100081-cn</guid>
-      <title>[Seattle] Construct middle one-family dwelling Unit 2  per plan. (Establish use for (2) detached dwelling units  maintaining an existing dwelling Unit 1 (no work)  per the land use code. Construct (2) new one-family dwellings  per plan. Review and processing for two records under 7100081-CN.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7100081-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7100081-CN
-Issued: 2026-08-05
-Address: 3199 S WEBSTER ST
-Contractor: 
-Valuation: 285075.0
 Units: 1</description>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>

@@ -5,6 +5,48 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7134721-cn</guid>
+      <title>[Seattle] Construct new East one-family dwelling (SFR)  per plan. (Establish use as housing for three detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7134721-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7134721-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7134721-CN
+Issued: 2026-10-16
+Address: 7507 8TH AVE NW
+Contractor: 
+Valuation: 573030.0
+Units: 1</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7141004-cn</guid>
+      <title>[Seattle] Construct new West one-family dwelling (DADU 2)  per plan. (Establish use as housing for three detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7134721-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7141004-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7141004-CN
+Issued: 2026-10-16
+Address: 7503 8TH AVE NW
+Contractor: 
+Valuation: 268046.0
+Units: 1</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7141003-cn</guid>
+      <title>[Seattle] Construct new middle one-family dwelling (DADU 1)  per plan. (Establish use as housing for three detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7134721-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7141003-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7141003-CN
+Issued: 2026-10-16
+Address: 7505 8TH AVE NW
+Contractor: 
+Valuation: 268046.0
+Units: 1</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7140052-cn</guid>
       <title>[Seattle] Establish use as housing for one detached dwelling unit  per land use code. Construct new one-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7140052-CN</link>
@@ -3461,48 +3503,6 @@ Contractor:
 Valuation: 35000.0
 Units: </description>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7115680-cn</guid>
-      <title>[Seattle] Construct new West one family dwelling (SFR 3)  per plan.  (Establish use as single family residence per land use code.   Construct 3 one family dwellings  per plan.   Review and processing for 3 Records under 7100716-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7115680-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7115680-CN
-Issued: 2026-06-08
-Address: 5023 C 36TH AVE NE
-Contractor: 
-Valuation: 316800.0
-Units: 1</description>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7115679-cn</guid>
-      <title>[Seattle] Construct new middle one family dwelling (SFR 2)  per plan.  (Establish use as single family residence per land use code.   Construct 3 one family dwellings  per plan.   Review and processing for 3 Records under 7100716-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7115679-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7115679-CN
-Issued: 2026-06-08
-Address: 5023 B 36TH AVE NE
-Contractor: 
-Valuation: 310916.0
-Units: 1</description>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7123224-cn</guid>
-      <title>[Seattle] Construct new north one family dwelling  per plan. (Establish use as single family residences per land use code.  Construct (2) new one family dwellings  per plan. Review and processing for two records under7098924-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123224-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 20
-Permit: 7123224-CN
-Issued: 2026-06-05
-Address: 8731 PALATINE AVE N
-Contractor: 
-Valuation: 519486.0
-Units: 1</description>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
