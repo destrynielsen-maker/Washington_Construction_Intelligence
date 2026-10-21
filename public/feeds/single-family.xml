@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">WA|seattle|7118769-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling (SFR 3)  per plan. (Establish use as five single family residences  one with a detached accessory dwelling unit  per land use code. Construct six new one-family dwellings  per plan. Review and processing for six records under 7103408)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7118769-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7118769-CN
-Issued: 2026-10-19
-Address: 3045 4TH AVE W
-Contractor: 
-Valuation: 311112.0
-Units: 1</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7154736-cn</guid>
       <title>[Seattle] Construct new one-family dwelling (East)  per plan. (Establish use as housing for one detached dwelling units  per land use code. Existing detached dwelling to remain. Construct 1 new one-family dwelling and alterations to existing one family dwelling  per plan. Review and processing for 2 records under 7154736-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7154736-CN</link>
@@ -33,30 +19,16 @@ Units: 1</description>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7118768-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling (SFR 2)  per plan. (Establish use as five single family residences  one with a detached accessory dwelling unit  per land use code. Construct six new one-family dwellings  per plan. Review and processing for six records under 7103408)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7118768-CN</link>
+      <guid isPermaLink="false">WA|seattle|7118774-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (DADU)  per plan. (Establish use as five single family residences  one with a detached accessory dwelling unit  per land use code. Construct six new one-family dwellings  per plan. Review and processing for six records under 7103408)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7118774-CN</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 7118768-CN
+Permit: 7118774-CN
 Issued: 2026-10-19
-Address: 403 W DRAVUS ST
+Address: 3041 4TH AVE W
 Contractor: 
-Valuation: 287144.0
-Units: 1</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7118772-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling (SFR 4)  per plan. (Establish use as five single family residences  one with a detached accessory dwelling unit  per land use code. Construct six new one-family dwellings  per plan. Review and processing for six records under 7103408)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7118772-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7118772-CN
-Issued: 2026-10-19
-Address: 3043 4TH AVE W
-Contractor: 
-Valuation: 341311.0
+Valuation: 222445.0
 Units: 1</description>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -75,16 +47,44 @@ Units: 1</description>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7118774-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling (DADU)  per plan. (Establish use as five single family residences  one with a detached accessory dwelling unit  per land use code. Construct six new one-family dwellings  per plan. Review and processing for six records under 7103408)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7118774-CN</link>
+      <guid isPermaLink="false">WA|seattle|7118772-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (SFR 4)  per plan. (Establish use as five single family residences  one with a detached accessory dwelling unit  per land use code. Construct six new one-family dwellings  per plan. Review and processing for six records under 7103408)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7118772-CN</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 7118774-CN
+Permit: 7118772-CN
 Issued: 2026-10-19
-Address: 3041 4TH AVE W
+Address: 3043 4TH AVE W
 Contractor: 
-Valuation: 222445.0
+Valuation: 341311.0
+Units: 1</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7118769-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (SFR 3)  per plan. (Establish use as five single family residences  one with a detached accessory dwelling unit  per land use code. Construct six new one-family dwellings  per plan. Review and processing for six records under 7103408)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7118769-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7118769-CN
+Issued: 2026-10-19
+Address: 3045 4TH AVE W
+Contractor: 
+Valuation: 311112.0
+Units: 1</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7118768-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (SFR 2)  per plan. (Establish use as five single family residences  one with a detached accessory dwelling unit  per land use code. Construct six new one-family dwellings  per plan. Review and processing for six records under 7103408)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7118768-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7118768-CN
+Issued: 2026-10-19
+Address: 403 W DRAVUS ST
+Contractor: 
+Valuation: 287144.0
 Units: 1</description>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -2315,6 +2315,48 @@ Units: 1</description>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7131190-cn</guid>
+      <title>[Seattle] Construct East middle one family dwelling (SFR D)  per plan. (Establish use as detached housing units  per land use code.  Construct 4 one family dwellings  per plan.  Review and processing for 4 records under 7120309-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131190-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7131190-CN
+Issued: 2026-07-24
+Address: 8823 20TH AVE NE
+Contractor: 
+Valuation: 313669.0
+Units: 1</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7131189-cn</guid>
+      <title>[Seattle] Construct West middle one family dwelling (SFR C)  per plan. (Establish use as detached housing units  per land use code.  Construct 4 one family dwellings  per plan.  Review and processing for 4 records under 7120309-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131189-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7131189-CN
+Issued: 2026-07-24
+Address: 1755 NE 89th ST
+Contractor: 
+Valuation: 289079.0
+Units: 1</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7131188-cn</guid>
+      <title>[Seattle] Construct NE one family dwelling (SFR B)  per plan. (Establish use as detached housing units  per land use code.  Construct 4 one family dwellings  per plan.  Review and processing for 4 records under 7120309-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131188-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7131188-CN
+Issued: 2026-07-24
+Address: 8825 20TH AVE NE
+Contractor: 
+Valuation: 286471.0
+Units: 1</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7126584-cn</guid>
       <title>[Seattle] Establish use as housing for one detached dwelling units  per land use code. Existing one family dwelling to remain. Construct new one family dwelling  per plan. Project includes removal of detached garage.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7126584-CN</link>
@@ -2367,48 +2409,6 @@ Issued: 2026-07-24
 Address: 7760 21ST AVE NW
 Contractor: 
 Valuation: 356932.0
-Units: 1</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7131188-cn</guid>
-      <title>[Seattle] Construct NE one family dwelling (SFR B)  per plan. (Establish use as detached housing units  per land use code.  Construct 4 one family dwellings  per plan.  Review and processing for 4 records under 7120309-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131188-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7131188-CN
-Issued: 2026-07-24
-Address: 8825 20TH AVE NE
-Contractor: 
-Valuation: 286471.0
-Units: 1</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7131189-cn</guid>
-      <title>[Seattle] Construct West middle one family dwelling (SFR C)  per plan. (Establish use as detached housing units  per land use code.  Construct 4 one family dwellings  per plan.  Review and processing for 4 records under 7120309-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131189-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7131189-CN
-Issued: 2026-07-24
-Address: 1755 NE 89th ST
-Contractor: 
-Valuation: 289079.0
-Units: 1</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7131190-cn</guid>
-      <title>[Seattle] Construct East middle one family dwelling (SFR D)  per plan. (Establish use as detached housing units  per land use code.  Construct 4 one family dwellings  per plan.  Review and processing for 4 records under 7120309-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7131190-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7131190-CN
-Issued: 2026-07-24
-Address: 8823 20TH AVE NE
-Contractor: 
-Valuation: 313669.0
 Units: 1</description>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
