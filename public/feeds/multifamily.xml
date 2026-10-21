@@ -5,6 +5,48 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7117265-cn</guid>
+      <title>[Seattle] Construct SOUTH two-family dwelling  per plan. [Establish use as housing for one and two attached dwelling units  per land use code. Construct one- and two-family dwellings  per plan. Review and processing for (2) construction records under 7117265-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7117265-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7117265-CN
+Issued: 2026-10-20
+Address: 2222 NE 80TH ST
+Contractor: 
+Valuation: 617735.0
+Units: 2</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7112233-cn</guid>
+      <title>[Seattle] Establish use as stacked housing  per Land Use Code.  Construct new multifamily building on existing foundation  occupy per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7112233-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7112233-CN
+Issued: 2026-10-19
+Address: 5573 22ND AVE S
+Contractor: 
+Valuation: 406374.0
+Units: 3</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7103408-cn</guid>
+      <title>[Seattle] Roll Forward - Construct new one-family dwelling (SFR 1)  per plan. (Establish use as five single family residences  one with a detached accessory dwelling unit  per land use code. Construct six new one- and two-family dwellings  per plan. Review and processing for six records under 7103408)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7103408-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7103408-CN
+Issued: 2026-10-19
+Address: 401 W DRAVUS ST
+Contractor: 
+Valuation: 291128.0
+Units: 1</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7120175-cn</guid>
       <title>[Seattle] Establish use as housing for two attached dwelling units  per land use code. Construct new two-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7120175-CN</link>
@@ -3460,48 +3502,6 @@ Address: 9038 WALLINGFORD AVE N
 Contractor: 
 Valuation: 534285.0
 Units: 5</description>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7129188-cn</guid>
-      <title>[Seattle] Construct new South middle one family dwelling (unit 3)  per plan   (Establish use as single family residence  per land use code.   Construct (3) one family dwellings and (1) two family dwelling  per plan.  Review and processing for 4 records under 7110722-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7129188-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7129188-CN
-Issued: 2026-05-21
-Address: 9040 WALLINGFORD AVE N
-Contractor: 
-Valuation: 283521.0
-Units: 5</description>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7129187-cn</guid>
-      <title>[Seattle] Construct new North middle one family dwelling (unit 2)  per plan   (Establish use as single family residence  per land use code.   Construct (3) one family dwellings and (1) two family dwelling  per plan.  Review and processing for 4 records under 7110722-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7129187-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7129187-CN
-Issued: 2026-05-21
-Address: 9044 WALLINGFORD AVE N
-Contractor: 
-Valuation: 283521.0
-Units: 5</description>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7122658-cn</guid>
-      <title>[Seattle] Construct new two family dwelling (W - SFR3 &amp; SFR4)  per plan. (Establish use as (2) single-family residences and (1) townhouse  per land use code. Construct (2) new one-family dwellings and (1) new two-family dwelling  per plan. Review and processing for three records under 7102493-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7122658-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7122658-CN
-Issued: 2026-05-21
-Address: 6025 A 4TH AVE NE
-Contractor: 
-Valuation: 706107.0
-Units: 2</description>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
