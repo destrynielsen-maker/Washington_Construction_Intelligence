@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7117580-cn</guid>
+      <title>[Seattle] Construct east townhouse (Establish use as principal attached dwelling units  per land use code.  Construct (2) townhouses &amp; (1) two-family dwelling  per plan.  Review &amp; process for (3) records under 7117580-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7117580-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7117580-CN
+Issued: 2026-10-21
+Address: 6609 A CARLETON AVE S
+Contractor: 
+Valuation: 664562.0
+Units: 3</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7165094-cn</guid>
+      <title>[Seattle] Construct a detached carport  accessory to existing one-family dwelling  subject-to-field inspection (STFI).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7165094-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7165094-CN
+Issued: 2026-10-21
+Address: 10031 41ST AVE SW
+Contractor: 
+Valuation: 1000.0
+Units: </description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7117265-cn</guid>
       <title>[Seattle] Construct SOUTH two-family dwelling  per plan. [Establish use as housing for one and two attached dwelling units  per land use code. Construct one- and two-family dwellings  per plan. Review and processing for (2) construction records under 7117265-CN.]</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7117265-CN</link>
@@ -16,6 +44,20 @@ Address: 2222 NE 80TH ST
 Contractor: 
 Valuation: 617735.0
 Units: 2</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7148025-cn</guid>
+      <title>[Seattle] Establish use as housing for a detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct a new one-family dwelling  per plan. Project includes removal of detached garage.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7148025-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7148025-CN
+Issued: 2026-10-20
+Address: 2038 S FERDINAND ST
+Contractor: 
+Valuation: 199330.0
+Units: 1</description>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3459,48 +3501,6 @@ Issued: 2026-08-10
 Address: 7728 44TH AVE NE
 Contractor: 
 Valuation: 320293.0
-Units: 1</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7132163-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling (SFR2)  per plan. (Establish use for 2 attached dwelling units and 2 one-family dwellings  per land use code  Construct (2) one-family and (1) two-family dwellings  per plan. Review and processing for two records under 7120176-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7132163-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7132163-CN
-Issued: 2026-08-10
-Address: 10217 12TH AVE NE
-Contractor: 
-Valuation: 322117.0
-Units: </description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7120176-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling (SFR1)  per plan. (Establish use for 2 attached dwelling units and 2 one-family dwellings  per land use code  Construct (2) one-family and (1) two-family dwellings  per plan. Review and processing for two records under 7120176-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7120176-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7120176-CN
-Issued: 2026-08-10
-Address: 10215 12TH AVE NE
-Contractor: 
-Valuation: 323622.0
-Units: 4</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7118664-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling  per plan. (Establish use as housing for two attached dwelling units and one detached dwelling unit  per land use code. Construct new one- and two-family dwellings  per plan. Review and processing for two records under 7102923-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7118664-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7118664-CN
-Issued: 2026-08-10
-Address: 5805 GREENWOOD AVE N
-Contractor: 
-Valuation: 376793.0
 Units: 1</description>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>

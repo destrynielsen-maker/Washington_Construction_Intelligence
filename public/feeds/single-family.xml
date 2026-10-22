@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7165094-cn</guid>
+      <title>[Seattle] Construct a detached carport  accessory to existing one-family dwelling  subject-to-field inspection (STFI).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7165094-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7165094-CN
+Issued: 2026-10-21
+Address: 10031 41ST AVE SW
+Contractor: 
+Valuation: 1000.0
+Units: </description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7148025-cn</guid>
+      <title>[Seattle] Establish use as housing for a detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct a new one-family dwelling  per plan. Project includes removal of detached garage.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7148025-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7148025-CN
+Issued: 2026-10-20
+Address: 2038 S FERDINAND ST
+Contractor: 
+Valuation: 199330.0
+Units: 1</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7154736-cn</guid>
       <title>[Seattle] Construct new one-family dwelling (East)  per plan. (Establish use as housing for one detached dwelling units  per land use code. Existing detached dwelling to remain. Construct 1 new one-family dwelling and alterations to existing one family dwelling  per plan. Review and processing for 2 records under 7154736-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7154736-CN</link>
@@ -3475,34 +3503,6 @@ Contractor:
 Valuation: 316693.0
 Units: 2</description>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7128200-cn</guid>
-      <title>[Seattle] Construct new middle one family dwelling (SFR 2)  per plan.  (Establish two detached housing units  per land use code.  Construct substantial alterations to existing one family dwelling and Construct 2 one family dwellings  per plan.   Review and process for 3 records under 7100092-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128200-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7128200-CN
-Issued: 2026-06-12
-Address: 1571 S ANGELINE ST
-Contractor: 
-Valuation: 260806.0
-Units: 1</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7100716-cn</guid>
-      <title>[Seattle] Construct new East one family dwelling (SFR 1)  per plan.  (Establish use as single family residence per land use code.   Construct 3 one family dwellings  per plan.   Review and processing for 3 Records under 7100716-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7100716-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7100716-CN
-Issued: 2026-06-11
-Address: 5023 A 36TH AVE NE
-Contractor: 
-Valuation: 326400.0
-Units: 1</description>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

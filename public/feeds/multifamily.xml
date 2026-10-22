@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7117580-cn</guid>
+      <title>[Seattle] Construct east townhouse (Establish use as principal attached dwelling units  per land use code.  Construct (2) townhouses &amp; (1) two-family dwelling  per plan.  Review &amp; process for (3) records under 7117580-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7117580-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7117580-CN
+Issued: 2026-10-21
+Address: 6609 A CARLETON AVE S
+Contractor: 
+Valuation: 664562.0
+Units: 3</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7117265-cn</guid>
       <title>[Seattle] Construct SOUTH two-family dwelling  per plan. [Establish use as housing for one and two attached dwelling units  per land use code. Construct one- and two-family dwellings  per plan. Review and processing for (2) construction records under 7117265-CN.]</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7117265-CN</link>
@@ -3487,20 +3501,6 @@ Issued: 2026-05-21
 Address: 9042 A WALLINGFORD AVE N
 Contractor: 
 Valuation: 567345.0
-Units: 5</description>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7110722-cn</guid>
-      <title>[Seattle] Construct new West one family dwelling (unit 1)  per plan   (Establish use as single family residence  per land use code.   Construct (3) one family dwellings and (1) two family dwelling  per plan.  Review and processing for 4 records under 7110722-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7110722-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 50
-Permit: 7110722-CN
-Issued: 2026-05-21
-Address: 9038 WALLINGFORD AVE N
-Contractor: 
-Valuation: 534285.0
 Units: 5</description>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
