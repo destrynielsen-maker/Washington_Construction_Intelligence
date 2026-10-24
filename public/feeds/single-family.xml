@@ -2861,76 +2861,6 @@ Units: 1</description>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7121105-cn</guid>
-      <title>[Seattle] Construct west one-family dwelling (SFR3)  per plan. (Establish use as single-family residence per land use code. Construct (3) one-family dwellings  per plan. Review and processing for three records under 7101525-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7121105-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7121105-CN
-Issued: 2026-07-07
-Address: 5053 25TH AVE SW
-Contractor: 
-Valuation: 358422.0
-Units: </description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7121104-cn</guid>
-      <title>[Seattle] Construct middle one-family dwelling (SFR2)  per plan. (Establish use as single-family residence per land use code. Construct (3) one-family dwellings  per plan. Review and processing for three records under 7101525-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7121104-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7121104-CN
-Issued: 2026-07-07
-Address: 5053 B 25TH AVE SW
-Contractor: 
-Valuation: 355814.0
-Units: </description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7121088-cn</guid>
-      <title>[Seattle] Construct west one-family dwelling (SFR3)  per plan. (Establish use as single-family residence per land use code. Construct (3) one-family dwellings  per plan. Review and processing for three records under 7102488-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7121088-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7121088-CN
-Issued: 2026-07-07
-Address: 5057 C 25TH AVE SW
-Contractor: 
-Valuation: 380500.0
-Units: 1</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7121087-cn</guid>
-      <title>[Seattle] Construct middle one-family dwelling (SFR2)  per plan. (Establish use as single-family residence per land use code. Construct (3) one-family dwellings  per plan. Review and processing for three records under 7102488-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7121087-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7121087-CN
-Issued: 2026-07-07
-Address: 5057 B 25TH AVE SW
-Contractor: 
-Valuation: 355814.0
-Units: 1</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7102488-cn</guid>
-      <title>[Seattle] Construct east one-family dwelling (SFR1)  per plan. (Establish use as single-family residence per land use code. Construct (3) one-family dwellings  per plan. Review and processing for three records under 7102488-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7102488-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7102488-CN
-Issued: 2026-07-07
-Address: 5057 A 25TH AVE SW
-Contractor: 
-Valuation: 358422.0
-Units: 1</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|6943109-cn</guid>
       <title>[Seattle] Complete and final for permit 6568196-CN (BLDG A) subject to field inspection (STFI)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6943109-CN</link>
@@ -3503,6 +3433,76 @@ Contractor:
 Valuation: 316693.0
 Units: 2</description>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7128200-cn</guid>
+      <title>[Seattle] Construct new middle one family dwelling (SFR 2)  per plan.  (Establish two detached housing units  per land use code.  Construct substantial alterations to existing one family dwelling and Construct 2 one family dwellings  per plan.   Review and process for 3 records under 7100092-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128200-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7128200-CN
+Issued: 2026-06-12
+Address: 1571 S ANGELINE ST
+Contractor: 
+Valuation: 260806.0
+Units: 1</description>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7100716-cn</guid>
+      <title>[Seattle] Construct new East one family dwelling (SFR 1)  per plan.  (Establish use as single family residence per land use code.   Construct 3 one family dwellings  per plan.   Review and processing for 3 Records under 7100716-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7100716-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7100716-CN
+Issued: 2026-06-11
+Address: 5023 A 36TH AVE NE
+Contractor: 
+Valuation: 326400.0
+Units: 1</description>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7125909-cn</guid>
+      <title>[Seattle] Construct new east one-family dwelling (SFR 3)  per plan. (Establish use as single-family residence  per land use code.) Construct three (3) new one-family dwellings  per plan. Review and processing for two records under 7105086.)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7125909-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7125909-CN
+Issued: 2026-06-10
+Address: 7326 27TH AVE NW
+Contractor: 
+Valuation: 591400.0
+Units: </description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7125908-cn</guid>
+      <title>[Seattle] Construct new middle one-family dwelling (SFR 2)  per plan. (Establish use as single-family residence  per land use code.) Construct three (3) new one-family dwellings  per plan. Review and processing for two records under 7105086.)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7125908-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7125908-CN
+Issued: 2026-06-10
+Address: 7324 27TH AVE NW
+Contractor: 
+Valuation: 290132.0
+Units: </description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7105086-cn</guid>
+      <title>[Seattle] Construct new west one-family dwelling (SFR 1)  per plan. (Establish use as single-family residence  per land use code. Construct three (3) new one-family dwellings  per plan. Review and processing for two records under 7105086.)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7105086-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7105086-CN
+Issued: 2026-06-10
+Address: 7322 27TH AVE NW
+Contractor: 
+Valuation: 290132.0
+Units: 3</description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

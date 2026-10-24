@@ -5,6 +5,48 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7129748-cn</guid>
+      <title>[Seattle] Construct middle townhouse (Establish use as townhouse &amp; duplex  per land use code. Construct (2) townhouses &amp; (1) two-family dwelling  per plan. Review &amp; process for (3) records under 7117580-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7129748-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7129748-CN
+Issued: 2026-10-22
+Address: 6607 A CARLETON AVE S
+Contractor: 
+Valuation: 664562.0
+Units: 3</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7138853-cn</guid>
+      <title>[Seattle] Establish use as housing for two attached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new two-family dwellings  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7138853-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7138853-CN
+Issued: 2026-10-22
+Address: 8821 40TH AVE SW
+Contractor: 
+Valuation: 549984.0
+Units: 2</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7129749-cn</guid>
+      <title>[Seattle] Construct west two-family dwelling (Establish use as townhouse &amp; duplex  per land use code. Construct (2) townhouses &amp; (1) two-family dwelling  per plan. Review &amp; process for (3) records under 7117580-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7129749-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7129749-CN
+Issued: 2026-10-22
+Address: 6605 A CARLETON AVE S
+Contractor: 
+Valuation: 559017.0
+Units: 2</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7117580-cn</guid>
       <title>[Seattle] Construct east townhouse (Establish use as principal attached dwelling units  per land use code.  Construct (2) townhouses &amp; (1) two-family dwelling  per plan.  Review &amp; process for (3) records under 7117580-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7117580-CN</link>
@@ -3460,48 +3502,6 @@ Address: 2815 S BRADFORD PL
 Contractor: 
 Valuation: 556178.0
 Units: 2</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|6925943-cn</guid>
-      <title>[Seattle] Establish use for two-unit townhouse per land use code. Construct multifamily building  occupy per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6925943-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 6925943-CN
-Issued: 2026-08-10
-Address: 2357 22ND AVE S
-Contractor: 
-Valuation: 805518.0
-Units: 4</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7137278-cn</guid>
-      <title>[Seattle] Construct new southwest one-family dwelling (SFR 2)  per plan. (Establish use as housing for two attached dwelling units and two detached dwelling units  per land use code.  Construct 2 new one-family dwellings and 1 new two-family dwelling  per plan.  Review and processing for 3 records under 7132615-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137278-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7137278-CN
-Issued: 2026-08-10
-Address: 7724 44TH AVE NE
-Contractor: 
-Valuation: 319662.0
-Units: 1</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7132615-cn</guid>
-      <title>[Seattle] Construct new northwest one-family dwelling (SFR 1)  per plan. (Establish use as housing for two attached dwelling units and two detached dwelling units  per land use code.  Construct 2 new one-family dwellings and 1 new two-family dwelling  per plan.  Review and processing for 3 records under 7132615-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7132615-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7132615-CN
-Issued: 2026-08-10
-Address: 7728 44TH AVE NE
-Contractor: 
-Valuation: 320293.0
-Units: 1</description>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
