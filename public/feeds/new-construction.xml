@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7088950-cn</guid>
+      <title>[Seattle] Establish use as single-family residence per the land use code. Construct a one-family dwelling including paving  site work and maintaining portions of existing foundation  per plans</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7088950-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 25
+Permit: 7088950-CN
+Issued: 2026-10-23
+Address: 8560 SAND POINT WAY NE
+Contractor: 
+Valuation: 1418022.0
+Units: 1</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7105157-cn</guid>
+      <title>[Seattle] Construct new one family dwelling  per plan</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7105157-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7105157-CN
+Issued: 2026-10-23
+Address: 6522 48TH AVE NE
+Contractor: 
+Valuation: 810118.0
+Units: 1</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7138853-cn</guid>
       <title>[Seattle] Establish use as housing for two attached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new two-family dwellings  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7138853-CN</link>
@@ -44,6 +72,20 @@ Address: 6607 A CARLETON AVE S
 Contractor: 
 Valuation: 664562.0
 Units: 3</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7078157-cn</guid>
+      <title>[Seattle] Establish use as single-family with attached accessory dwelling unit per land use code. Construct two-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7078157-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7078157-CN
+Issued: 2026-10-22
+Address: 6638 EAST GREEN LAKE WAY N
+Contractor: 
+Valuation: 776126.0
+Units: 2</description>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3459,48 +3501,6 @@ Issued: 2026-08-10
 Address: 7726 44TH AVE NE
 Contractor: 
 Valuation: 648995.0
-Units: 2</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7132164-cn</guid>
-      <title>[Seattle] Construct new two-family dwelling (Untis3&amp;4)  per plan. (Establish use for 2 attached dwelling units and 2 one-family dwellings  per land use code  Construct (2) one-family and (1) two-family dwellings  per plan. Review and processing for two records under 7120176-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7132164-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7132164-CN
-Issued: 2026-08-10
-Address: 10219 12TH AVE NE
-Contractor: 
-Valuation: 604667.0
-Units: </description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7102923-cn</guid>
-      <title>[Seattle] Construct new two-family dwelling  per plan. (Establish use as housing for two attached dwelling units and one detached dwelling unit  per land use code. Construct new one- and two-family dwellings  per plan. Review and processing for two records under 7102923-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7102923-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7102923-CN
-Issued: 2026-08-10
-Address: 5801 GREENWOOD AVE N
-Contractor: 
-Valuation: 728733.0
-Units: 2</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7008048-cn</guid>
-      <title>[Seattle] Construct new two-family dwelling  per plan. (Establish use as single family residence with attached and detached accessory dwelling units per land use code. Construct new one- and two-family dwellings  per plan. Review and processing for two records under 7008048)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7008048-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7008048-CN
-Issued: 2026-08-10
-Address: 2815 S BRADFORD PL
-Contractor: 
-Valuation: 556178.0
 Units: 2</description>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>

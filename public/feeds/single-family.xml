@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7088950-cn</guid>
+      <title>[Seattle] Establish use as single-family residence per the land use code. Construct a one-family dwelling including paving  site work and maintaining portions of existing foundation  per plans</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7088950-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 25
+Permit: 7088950-CN
+Issued: 2026-10-23
+Address: 8560 SAND POINT WAY NE
+Contractor: 
+Valuation: 1418022.0
+Units: 1</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7105157-cn</guid>
+      <title>[Seattle] Construct new one family dwelling  per plan</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7105157-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7105157-CN
+Issued: 2026-10-23
+Address: 6522 48TH AVE NE
+Contractor: 
+Valuation: 810118.0
+Units: 1</description>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7165094-cn</guid>
       <title>[Seattle] Construct a detached carport  accessory to existing one-family dwelling  subject-to-field inspection (STFI).</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7165094-CN</link>
@@ -3474,34 +3502,6 @@ Address: 7326 27TH AVE NW
 Contractor: 
 Valuation: 591400.0
 Units: </description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7125908-cn</guid>
-      <title>[Seattle] Construct new middle one-family dwelling (SFR 2)  per plan. (Establish use as single-family residence  per land use code.) Construct three (3) new one-family dwellings  per plan. Review and processing for two records under 7105086.)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7125908-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7125908-CN
-Issued: 2026-06-10
-Address: 7324 27TH AVE NW
-Contractor: 
-Valuation: 290132.0
-Units: </description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7105086-cn</guid>
-      <title>[Seattle] Construct new west one-family dwelling (SFR 1)  per plan. (Establish use as single-family residence  per land use code. Construct three (3) new one-family dwellings  per plan. Review and processing for two records under 7105086.)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7105086-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7105086-CN
-Issued: 2026-06-10
-Address: 7322 27TH AVE NW
-Contractor: 
-Valuation: 290132.0
-Units: 3</description>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
