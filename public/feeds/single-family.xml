@@ -19,20 +19,6 @@ Units: </description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7136282-cn</guid>
-      <title>[Seattle] Establish use as housing for one detached dwelling unit  per land use code. Construct one-family dwelling  per plan</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7136282-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 20
-Permit: 7136282-CN
-Issued: 2026-10-26
-Address: 8257 41ST AVE NE
-Contractor: 
-Valuation: 641522.0
-Units: 1</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7147307-cn</guid>
       <title>[Seattle] Construct SOUTH one-family dwelling  per plan [Establish use as housing for two (2) detached dwelling units  per land use code. Construct as north and south one-family dwellings  review and process for two records under 7133442-CN].</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7147307-CN</link>
@@ -43,6 +29,20 @@ Issued: 2026-10-26
 Address: 3921 43RD AVE S
 Contractor: 
 Valuation: 570665.0
+Units: 1</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7136282-cn</guid>
+      <title>[Seattle] Establish use as housing for one detached dwelling unit  per land use code. Construct one-family dwelling  per plan</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7136282-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7136282-CN
+Issued: 2026-10-26
+Address: 8257 41ST AVE NE
+Contractor: 
+Valuation: 641522.0
 Units: 1</description>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -61,16 +61,16 @@ Units: 2</description>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7150991-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling (Unit 2)  per plan. (Establish use as housing for four detached dwelling units  per land use code. Construct 4 new one-family dwellings  per plan. Review and processing for 4 records under 7128797-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7150991-CN</link>
+      <guid isPermaLink="false">WA|seattle|7150993-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (Unit 4)  per plan. (Establish use as housing for four detached dwelling units  per land use code. Construct 4 new one-family dwellings  per plan. Review and processing for 4 records under 7128797-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7150993-CN</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 7150991-CN
+Permit: 7150993-CN
 Issued: 2026-10-26
-Address: 11726 20TH AVE NE
+Address: 11730 20TH AVE NE
 Contractor: 
-Valuation: 324505.0
+Valuation: 324366.0
 Units: 1</description>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -83,6 +83,20 @@ Score: 15
 Permit: 7150992-CN
 Issued: 2026-10-26
 Address: 11728 20TH AVE NE
+Contractor: 
+Valuation: 324505.0
+Units: 1</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7150991-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (Unit 2)  per plan. (Establish use as housing for four detached dwelling units  per land use code. Construct 4 new one-family dwellings  per plan. Review and processing for 4 records under 7128797-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7150991-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7150991-CN
+Issued: 2026-10-26
+Address: 11726 20TH AVE NE
 Contractor: 
 Valuation: 324505.0
 Units: 1</description>
@@ -111,20 +125,6 @@ Score: 15
 Permit: 7128797-CN
 Issued: 2026-10-26
 Address: 11724 20TH AVE NE
-Contractor: 
-Valuation: 324366.0
-Units: 1</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7150993-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling (Unit 4)  per plan. (Establish use as housing for four detached dwelling units  per land use code. Construct 4 new one-family dwellings  per plan. Review and processing for 4 records under 7128797-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7150993-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7150993-CN
-Issued: 2026-10-26
-Address: 11730 20TH AVE NE
 Contractor: 
 Valuation: 324366.0
 Units: 1</description>
