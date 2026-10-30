@@ -19,6 +19,34 @@ Units: 1</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7145981-cn</guid>
+      <title>[Seattle] Construct WEST two-family dwelling [BLDG B  UNITS 3 &amp; 4]  per plan. [LAND USE. Construct two-family dwellings  per plan. Review and processing for (2) construction records under 7106184-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7145981-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7145981-CN
+Issued: 2026-10-27
+Address: 8209 A DENSMORE AVE N
+Contractor: 
+Valuation: 771268.0
+Units: 2</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7106184-cn</guid>
+      <title>[Seattle] Construct EAST two-family dwelling [BLDG A  UNITS 1 &amp; 2]  per plan. [Establish use as housing for four attached dwelling units in two buildings  per land use code. Construct two-family dwellings  per plan. Review and processing for (2) construction records under 7106184-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7106184-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7106184-CN
+Issued: 2026-10-27
+Address: 8207 A DENSMORE AVE N
+Contractor: 
+Valuation: 771268.0
+Units: 2</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7138853-cn</guid>
       <title>[Seattle] Establish use as housing for two attached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new two-family dwellings  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7138853-CN</link>
@@ -3475,34 +3503,6 @@ Contractor:
 Valuation: 682008.0
 Units: 2</description>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7055331-cn</guid>
-      <title>[Seattle] Construct new East two family dwelling  per plan. (Establish use as single-family with attached accessory dwelling unit and detached accessory dwelling unit per land use code.  Construct new one and two family dwellings  per plan. Review and processing for two records under 7055331-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7055331-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7055331-CN
-Issued: 2026-05-30
-Address: 7732 20TH AVE NE
-Contractor: 
-Valuation: 666546.0
-Units: 2</description>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7055329-cn</guid>
-      <title>[Seattle] Construct east two-family dwelling (Establish use as single-family residence &amp; allow attached accessory dwelling unit (AADU) &amp; detached accessory dwelling unit (DADU)  per land use code.  Construct (1) two-family dwelling &amp; (1) one-family dwelling  per plan.  Review &amp; process for (2) records under 7055329-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7055329-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7055329-CN
-Issued: 2026-05-30
-Address: 7730 20TH AVE NE
-Contractor: 
-Valuation: 665304.0
-Units: 2</description>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

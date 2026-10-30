@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7129922-cn</guid>
+      <title>[Seattle] Construct new one family dwelling (East DADU)  per plan. (Allow new detached accessory dwelling units to existing single family use per land use code. Construct two new one family dwellings  per plan. Project includes removal of detached garage. Review and processing for two records under 7097436-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7129922-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7129922-CN
+Issued: 2026-10-28
+Address: 3212 NE 92ND ST
+Contractor: 
+Valuation: 186290.0
+Units: 1</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7169032-cn</guid>
       <title>[Seattle] Construct carport for one family dwelling  subject to field inspection  STFI.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7169032-CN</link>
@@ -3487,20 +3501,6 @@ Issued: 2026-06-17
 Address: 11236 PALATINE AVE N
 Contractor: 
 Valuation: 204733.0
-Units: 1</description>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7097705-cn</guid>
-      <title>[Seattle] Construct new north single family dwelling  per plan. (Establish use as single family residence with detached accessory dwelling units per land use code.  Construct (2) new single family dwellings  per plan. Review and processing for two records under 7040105-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7097705-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7097705-CN
-Issued: 2026-06-17
-Address: 5010 PUGET BLVD SW
-Contractor: 
-Valuation: 163190.0
 Units: 1</description>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
     </item>

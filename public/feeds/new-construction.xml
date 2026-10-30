@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7129922-cn</guid>
+      <title>[Seattle] Construct new one family dwelling (East DADU)  per plan. (Allow new detached accessory dwelling units to existing single family use per land use code. Construct two new one family dwellings  per plan. Project includes removal of detached garage. Review and processing for two records under 7097436-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7129922-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7129922-CN
+Issued: 2026-10-28
+Address: 3212 NE 92ND ST
+Contractor: 
+Valuation: 186290.0
+Units: 1</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7129705-cn</guid>
       <title>[Seattle] Establish use as housing for two stacked dwelling units  per land use code. Construct new two-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7129705-CN</link>
@@ -16,6 +30,34 @@ Address: 5122 46TH AVE NE
 Contractor: 
 Valuation: 763145.0
 Units: 1</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7145981-cn</guid>
+      <title>[Seattle] Construct WEST two-family dwelling [BLDG B  UNITS 3 &amp; 4]  per plan. [LAND USE. Construct two-family dwellings  per plan. Review and processing for (2) construction records under 7106184-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7145981-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7145981-CN
+Issued: 2026-10-27
+Address: 8209 A DENSMORE AVE N
+Contractor: 
+Valuation: 771268.0
+Units: 2</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7106184-cn</guid>
+      <title>[Seattle] Construct EAST two-family dwelling [BLDG A  UNITS 1 &amp; 2]  per plan. [Establish use as housing for four attached dwelling units in two buildings  per land use code. Construct two-family dwellings  per plan. Review and processing for (2) construction records under 7106184-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7106184-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7106184-CN
+Issued: 2026-10-27
+Address: 8207 A DENSMORE AVE N
+Contractor: 
+Valuation: 771268.0
+Units: 2</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3460,48 +3502,6 @@ Address: 4738 7TH AVE NE
 Contractor: 
 Valuation: 492224.0
 Units: 2</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7144339-cn</guid>
-      <title>[Seattle] Construct new west one family dwelling (unit 1)  per plan.  (Allow (2) new detached dwelling units per the land use code. Construct (2) new one-family dwellings maintaining an existing dwelling (no work)  per plan. Reviews and processing for (2) CN's under 7105614)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7144339-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7144339-CN
-Issued: 2026-08-13
-Address: 13333 30TH AVE NE
-Contractor: 
-Valuation: 227275.0
-Units: </description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7105614-cn</guid>
-      <title>[Seattle] Construct new east one family dwelling (unit 2)  per plan.  (Allow (2) new detached dwelling units per the land use code. Construct (2) new one-family dwellings maintaining an existing dwelling (no work)  per plan. Reviews and processing for (2) CN's under 7105614)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7105614-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7105614-CN
-Issued: 2026-08-13
-Address: 13335 30TH AVE NE
-Contractor: 
-Valuation: 227275.0
-Units: 2</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7068220-cn</guid>
-      <title>[Seattle] Allow housing for (1) detached dwelling unit  per land use code. Existing detached dwelling unit to remain. Construct one-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7068220-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7068220-CN
-Issued: 2026-08-13
-Address: 2334 N 63RD ST
-Contractor: 
-Valuation: 499255.0
-Units: 1</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
