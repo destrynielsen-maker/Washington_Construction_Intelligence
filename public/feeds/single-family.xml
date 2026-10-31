@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7097436-cn</guid>
+      <title>[Seattle] Construct new one family dwelling (West DADU)  per plan. (Allow new detached accessory dwelling units to existing single family use per land use code. Construct two new one family dwellings  per plan. Project includes removal of detached garage. Review and processing for two records under 7097436-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7097436-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7097436-CN
+Issued: 2026-10-29
+Address: 3210 NE 92ND ST
+Contractor: 
+Valuation: 195605.0
+Units: 1</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7153019-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct one-family dwelling  per plan</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7153019-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7153019-CN
+Issued: 2026-10-29
+Address: 918 15TH AVE E
+Contractor: 
+Valuation: 128723.0
+Units: 1</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7129922-cn</guid>
       <title>[Seattle] Construct new one family dwelling (East DADU)  per plan. (Allow new detached accessory dwelling units to existing single family use per land use code. Construct two new one family dwellings  per plan. Project includes removal of detached garage. Review and processing for two records under 7097436-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7129922-CN</link>
@@ -3473,34 +3501,6 @@ Issued: 2026-06-17
 Address: 5010 PUGET BLVD SW
 Contractor: 
 Valuation: 565164.0
-Units: 1</description>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7124005-cn</guid>
-      <title>[Seattle] Construct detached garage accessory to existing one-family dwelling  per plan</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7124005-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7124005-CN
-Issued: 2026-06-17
-Address: 4905 NE 40TH ST
-Contractor: 
-Valuation: 56000.0
-Units: </description>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7101783-cn</guid>
-      <title>[Seattle] Establish use as housing for one detached dwelling unit  per land use code. Existing stacked dwellings to remain. Construct one-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7101783-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7101783-CN
-Issued: 2026-06-17
-Address: 11236 PALATINE AVE N
-Contractor: 
-Valuation: 204733.0
 Units: 1</description>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
     </item>
