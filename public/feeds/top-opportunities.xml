@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7122071-cn</guid>
+      <title>[Seattle] Construct SOUTHWEST one-family dwelling (BLDG 2)  per plan. [Establish use as housing for (3) detached dwelling units and (2) attached dwelling units  per land use code. Construct one- and two-family dwellings per plan. Review and processing for (4) construction records under 7091643-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7122071-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7122071-CN
+Issued: 2026-11-02
+Address: 4800 S BRANDON ST
+Contractor: 
+Valuation: 337973.0
+Units: </description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7122074-cn</guid>
+      <title>[Seattle] Construct NORTHWEST one-family dwelling (BLDG 4)  per plan. [Establish use as housing for (3) detached dwelling units and (2) attached dwelling units  per land use code. Construct one- and two-family dwellings per plan. Review and processing for (4) construction records under 7091643-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7122074-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7122074-CN
+Issued: 2026-11-02
+Address: 5350 48TH AVE S
+Contractor: 
+Valuation: 349303.0
+Units: </description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7125732-cn</guid>
       <title>[Seattle] Construct new East two family dwelling (SFR 3/4)  per plan.  (Establish use as single family residence and townhouse per land use code.  Construct (2) one family dwellings and (1) two family dwelling  per plan.  Review and process for 3 records under 7110427-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7125732-CN</link>
@@ -3475,34 +3503,6 @@ Contractor:
 Valuation: 180031.0
 Units: 1</description>
       <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7021396-cn</guid>
-      <title>[Seattle] Construct EAST RH  per plan [Establish use as rowhouses (RH)  per land use code.  Construct WEST as townhouse under SRC and EAST as two-family dwelling under SBC  review and process for two records under 6986598-CN].</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7021396-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 50
-Permit: 7021396-CN
-Issued: 2026-06-05
-Address: 3408 BEACON AVE S
-Contractor: 
-Valuation: 1083039.0
-Units: </description>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|6986598-cn</guid>
-      <title>[Seattle] Construct WEST RH  per plan [Establish use as rowhouses (RH)  per land use code.  Construct WEST as townhouse under SRC and EAST as two-family dwelling under SBC  review and process for two records under 6986598-CN].</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6986598-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 50
-Permit: 6986598-CN
-Issued: 2026-06-05
-Address: 3408 BEACON AVE S
-Contractor: 
-Valuation: 616656.0
-Units: 6</description>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
