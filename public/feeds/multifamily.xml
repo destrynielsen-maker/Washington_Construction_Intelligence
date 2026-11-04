@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">WA|seattle|7122071-cn</guid>
-      <title>[Seattle] Construct SOUTHWEST one-family dwelling (BLDG 2)  per plan. [Establish use as housing for (3) detached dwelling units and (2) attached dwelling units  per land use code. Construct one- and two-family dwellings per plan. Review and processing for (4) construction records under 7091643-CN.]</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7122071-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7122071-CN
-Issued: 2026-11-02
-Address: 4800 S BRANDON ST
-Contractor: 
-Valuation: 337973.0
-Units: </description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7122074-cn</guid>
       <title>[Seattle] Construct NORTHWEST one-family dwelling (BLDG 4)  per plan. [Establish use as housing for (3) detached dwelling units and (2) attached dwelling units  per land use code. Construct one- and two-family dwellings per plan. Review and processing for (4) construction records under 7091643-CN.]</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7122074-CN</link>
@@ -29,6 +15,20 @@ Issued: 2026-11-02
 Address: 5350 48TH AVE S
 Contractor: 
 Valuation: 349303.0
+Units: </description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7122071-cn</guid>
+      <title>[Seattle] Construct SOUTHWEST one-family dwelling (BLDG 2)  per plan. [Establish use as housing for (3) detached dwelling units and (2) attached dwelling units  per land use code. Construct one- and two-family dwellings per plan. Review and processing for (4) construction records under 7091643-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7122071-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7122071-CN
+Issued: 2026-11-02
+Address: 4800 S BRANDON ST
+Contractor: 
+Valuation: 337973.0
 Units: </description>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>

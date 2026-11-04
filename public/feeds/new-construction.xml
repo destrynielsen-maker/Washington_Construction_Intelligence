@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">WA|seattle|7122071-cn</guid>
-      <title>[Seattle] Construct SOUTHWEST one-family dwelling (BLDG 2)  per plan. [Establish use as housing for (3) detached dwelling units and (2) attached dwelling units  per land use code. Construct one- and two-family dwellings per plan. Review and processing for (4) construction records under 7091643-CN.]</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7122071-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7122071-CN
-Issued: 2026-11-02
-Address: 4800 S BRANDON ST
-Contractor: 
-Valuation: 337973.0
-Units: </description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7122074-cn</guid>
       <title>[Seattle] Construct NORTHWEST one-family dwelling (BLDG 4)  per plan. [Establish use as housing for (3) detached dwelling units and (2) attached dwelling units  per land use code. Construct one- and two-family dwellings per plan. Review and processing for (4) construction records under 7091643-CN.]</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7122074-CN</link>
@@ -33,17 +19,17 @@ Units: </description>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7147229-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling (SFR 2)  per plan. (Establish use as housing for three detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7140053-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7147229-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7147229-CN
+      <guid isPermaLink="false">WA|seattle|7122071-cn</guid>
+      <title>[Seattle] Construct SOUTHWEST one-family dwelling (BLDG 2)  per plan. [Establish use as housing for (3) detached dwelling units and (2) attached dwelling units  per land use code. Construct one- and two-family dwellings per plan. Review and processing for (4) construction records under 7091643-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7122071-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7122071-CN
 Issued: 2026-11-02
-Address: 6051 6TH AVE NE
+Address: 4800 S BRANDON ST
 Contractor: 
-Valuation: 330349.0
-Units: 1</description>
+Valuation: 337973.0
+Units: </description>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -61,16 +47,30 @@ Units: 1</description>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7104215-cn</guid>
-      <title>[Seattle] Construct middle one family dwelling #3  per plan. (Establish single-family use per land use code. Construct 4 one family dwellings. Review and process for 4 records under 7092338-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7104215-CN</link>
+      <guid isPermaLink="false">WA|seattle|7147229-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (SFR 2)  per plan. (Establish use as housing for three detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7140053-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7147229-CN</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 7104215-CN
+Permit: 7147229-CN
 Issued: 2026-11-02
-Address: 9232 B 8TH AVE NW
+Address: 6051 6TH AVE NE
 Contractor: 
-Valuation: 275295.0
+Valuation: 330349.0
+Units: 1</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7140053-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (SFR 1)  per plan. (Establish use as housing for three detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7140053-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7140053-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7140053-CN
+Issued: 2026-11-02
+Address: 6055 6TH AVE NE
+Contractor: 
+Valuation: 330349.0
 Units: 1</description>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
@@ -89,6 +89,20 @@ Units: 1</description>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7104215-cn</guid>
+      <title>[Seattle] Construct middle one family dwelling #3  per plan. (Establish single-family use per land use code. Construct 4 one family dwellings. Review and process for 4 records under 7092338-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7104215-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7104215-CN
+Issued: 2026-11-02
+Address: 9232 B 8TH AVE NW
+Contractor: 
+Valuation: 275295.0
+Units: 1</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7104214-cn</guid>
       <title>[Seattle] Construct middle one family dwelling #2  per plan. (Establish single-family use per land use code. Construct 4 one family dwellings. Review and process for 4 records under 7092338-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7104214-CN</link>
@@ -99,20 +113,6 @@ Issued: 2026-11-02
 Address: 9234 A 8TH AVE NW
 Contractor: 
 Valuation: 275295.0
-Units: 1</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7140053-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling (SFR 1)  per plan. (Establish use as housing for three detached dwelling units  per land use code. Construct 3 new one-family dwellings  per plan. Review and processing for 3 records under 7140053-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7140053-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7140053-CN
-Issued: 2026-11-02
-Address: 6055 6TH AVE NE
-Contractor: 
-Valuation: 330349.0
 Units: 1</description>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
