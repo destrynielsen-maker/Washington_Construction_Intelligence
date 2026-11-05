@@ -5,6 +5,90 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7145059-cn</guid>
+      <title>[Seattle] Construct new south townhouse  per plan. (Establish use as housing for two 3-unit townhouses  per land use code. Construct two new townhouses  per plan. Review and processing for 2 records under 7128543-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7145059-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 50
+Permit: 7145059-CN
+Issued: 2026-11-03
+Address: 3609 SW HOLDEN ST
+Contractor: 
+Valuation: 1097454.0
+Units: 3</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7128543-cn</guid>
+      <title>[Seattle] Construct new north townhouse  per plan. (Establish use as housing for two 3-unit townhouses  per land use code. Construct two new townhouse structures  per plan. Review and processing for 2 records under 7128543-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128543-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 50
+Permit: 7128543-CN
+Issued: 2026-11-03
+Address: 3611 SW HOLDEN ST
+Contractor: 
+Valuation: 1089466.0
+Units: 3</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7091643-cn</guid>
+      <title>[Seattle] Construct SOUTHEAST one-family dwelling (BLDG 1)  per plan. [Establish use as housing for (3) detached dwelling units and (2) attached dwelling units  per land use code. Construct one- and two-family dwellings per plan. Review and processing for (4) construction records under 7091643-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7091643-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7091643-CN
+Issued: 2026-11-03
+Address: 4802 S BRANDON ST
+Contractor: 
+Valuation: 285748.0
+Units: 5</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7137416-cn</guid>
+      <title>[Seattle] Construct EAST two-family dwelling  per plan. [Establish use as housing for (4) attached dwelling units in two structures  per land use code. Construct two-family dwellings  per plan. Review and processing for (2) construction records under 7112646-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137416-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7137416-CN
+Issued: 2026-11-03
+Address: 7512 A 26TH AVE NE
+Contractor: 
+Valuation: 657770.0
+Units: 2</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7122073-cn</guid>
+      <title>[Seattle] Construct NORTHEAST two-family dwelling (BLDG 3)  per plan. [Establish use as housing for (3) detached dwelling units and (2) attached dwelling units  per land use code. Construct one- and two-family dwellings per plan. Review and processing for (4) construction records under 7091643-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7122073-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7122073-CN
+Issued: 2026-11-03
+Address: 5352 48TH AVE S
+Contractor: 
+Valuation: 338955.0
+Units: </description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7112646-cn</guid>
+      <title>[Seattle] Construct WEST two-family dwelling  per plan. [Establish use as housing for (4) attached dwelling units in two structures  per land use code. Construct two-family dwellings  per plan. Review and processing for (2) construction records under 7112646-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7112646-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7112646-CN
+Issued: 2026-11-03
+Address: 7510 26TH AVE NE
+Contractor: 
+Valuation: 480806.0
+Units: 2</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7122074-cn</guid>
       <title>[Seattle] Construct NORTHWEST one-family dwelling (BLDG 4)  per plan. [Establish use as housing for (3) detached dwelling units and (2) attached dwelling units  per land use code. Construct one- and two-family dwellings per plan. Review and processing for (4) construction records under 7091643-CN.]</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7122074-CN</link>
@@ -3419,90 +3503,6 @@ Contractor:
 Valuation: 327870.0
 Units: 1</description>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7022507-cn</guid>
-      <title>[Seattle] Construct east one family dwelling  per plan. (Establish use as single family residence with attached and detached accessory dwelling units per land use code.  Construct new one and two family dwellings  per plan. Review and processing for two records under 6961546-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7022507-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7022507-CN
-Issued: 2026-06-09
-Address: 8630 37TH AVE S
-Contractor: 
-Valuation: 190649.0
-Units: 1</description>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7121039-cn</guid>
-      <title>[Seattle] Construct east two-family dwelling  per plan. (Establish use as townhouse per land use code. Construct (2) two-family dwelling  per plan. Review and processing for two records under 7106885-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7121039-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7121039-CN
-Issued: 2026-06-08
-Address: 4136 A 44TH AVE SW
-Contractor: 
-Valuation: 705384.0
-Units: 2</description>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7106885-cn</guid>
-      <title>[Seattle] Construct west two-family dwelling  per plan. (Establish use as townhouse per land use code. Construct (2) two-family dwelling  per plan. Review and processing for two records under 7106885-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7106885-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7106885-CN
-Issued: 2026-06-08
-Address: 4138 A 44TH AVE SW
-Contractor: 
-Valuation: 671017.0
-Units: 2</description>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7048099-cn</guid>
-      <title>[Seattle] Construct northeast one-family dwelling  per plan. (Establish use as single family residence with attached and detached accessory dwelling units per land use code. Construct one- and two-family dwellings  per plan. Review and processing for two records under 7024529-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7048099-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7048099-CN
-Issued: 2026-06-08
-Address: 5006 S RYAN WAY
-Contractor: 
-Valuation: 205779.0
-Units: </description>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|6955220-cn</guid>
-      <title>[Seattle] Construct new two family dwelling  per plan. (Establish use as single family residence with attached and detached accessory dwelling units per land use code.  Construct new one and two family dwellings  per plan. Review and processing for two records under 6955220-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6955220-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 6955220-CN
-Issued: 2026-06-07
-Address: 8624 37TH AVE S
-Contractor: 
-Valuation: 647478.0
-Units: 2</description>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|6988159-cn</guid>
-      <title>[Seattle] Construct new one family dwelling  per plan. (Establish use as single family residence with attached and detached accessory dwelling units per land use code.  Construct new one and two family dwellings  per plan. Review and processing for two records under 6955220-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6988159-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 6988159-CN
-Issued: 2026-06-07
-Address: 8622 37TH AVE S
-Contractor: 
-Valuation: 180031.0
-Units: 1</description>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
