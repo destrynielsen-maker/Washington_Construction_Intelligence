@@ -33,20 +33,6 @@ Units: 3</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7091643-cn</guid>
-      <title>[Seattle] Construct SOUTHEAST one-family dwelling (BLDG 1)  per plan. [Establish use as housing for (3) detached dwelling units and (2) attached dwelling units  per land use code. Construct one- and two-family dwellings per plan. Review and processing for (4) construction records under 7091643-CN.]</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7091643-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7091643-CN
-Issued: 2026-11-03
-Address: 4802 S BRANDON ST
-Contractor: 
-Valuation: 285748.0
-Units: 5</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7137416-cn</guid>
       <title>[Seattle] Construct EAST two-family dwelling  per plan. [Establish use as housing for (4) attached dwelling units in two structures  per land use code. Construct two-family dwellings  per plan. Review and processing for (2) construction records under 7112646-CN.]</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137416-CN</link>
@@ -58,6 +44,20 @@ Address: 7512 A 26TH AVE NE
 Contractor: 
 Valuation: 657770.0
 Units: 2</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7091643-cn</guid>
+      <title>[Seattle] Construct SOUTHEAST one-family dwelling (BLDG 1)  per plan. [Establish use as housing for (3) detached dwelling units and (2) attached dwelling units  per land use code. Construct one- and two-family dwellings per plan. Review and processing for (4) construction records under 7091643-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7091643-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7091643-CN
+Issued: 2026-11-03
+Address: 4802 S BRANDON ST
+Contractor: 
+Valuation: 285748.0
+Units: 5</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -89,20 +89,6 @@ Units: 2</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7120273-cn</guid>
-      <title>[Seattle] Construct west one-family dwelling (DADU 1)  per plan.  Project includes removal of detached garage. (Establish use as housing for two detached dwelling units  per land use code. Existing detached dwelling to remain. Construct 2 new one-family dwellings  per plan. Review and processing for 2 records under 7120273-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7120273-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7120273-CN
-Issued: 2026-11-03
-Address: 10741 B FREMONT AVE N
-Contractor: 
-Valuation: 238607.0
-Units: 1</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7150353-cn</guid>
       <title>[Seattle] Construct middle one-family dwelling (DADU 2)  per plan. (Establish use as housing for two detached dwelling units  per land use code. Existing detached dwelling to remain. Construct 2 new one-family dwellings  per plan. Review and processing for 2 records under 7120273-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7150353-CN</link>
@@ -113,6 +99,20 @@ Issued: 2026-11-03
 Address: 10741 A FREMONT AVE N
 Contractor: 
 Valuation: 202684.0
+Units: 1</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7120273-cn</guid>
+      <title>[Seattle] Construct west one-family dwelling (DADU 1)  per plan.  Project includes removal of detached garage. (Establish use as housing for two detached dwelling units  per land use code. Existing detached dwelling to remain. Construct 2 new one-family dwellings  per plan. Review and processing for 2 records under 7120273-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7120273-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7120273-CN
+Issued: 2026-11-03
+Address: 10741 B FREMONT AVE N
+Contractor: 
+Valuation: 238607.0
 Units: 1</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
@@ -142,6 +142,20 @@ Address: 4800 S BRANDON ST
 Contractor: 
 Valuation: 337973.0
 Units: </description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7150571-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7150571-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7150571-CN
+Issued: 2026-11-02
+Address: 8516 B WALLINGFORD AVE N
+Contractor: 
+Valuation: 250560.0
+Units: 1</description>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -225,20 +239,6 @@ Issued: 2026-11-02
 Address: 9234 A 8TH AVE NW
 Contractor: 
 Valuation: 275295.0
-Units: 1</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7150571-cn</guid>
-      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7150571-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7150571-CN
-Issued: 2026-11-02
-Address: 8516 B WALLINGFORD AVE N
-Contractor: 
-Valuation: 250560.0
 Units: 1</description>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>

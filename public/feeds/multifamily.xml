@@ -33,20 +33,6 @@ Units: 3</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7091643-cn</guid>
-      <title>[Seattle] Construct SOUTHEAST one-family dwelling (BLDG 1)  per plan. [Establish use as housing for (3) detached dwelling units and (2) attached dwelling units  per land use code. Construct one- and two-family dwellings per plan. Review and processing for (4) construction records under 7091643-CN.]</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7091643-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7091643-CN
-Issued: 2026-11-03
-Address: 4802 S BRANDON ST
-Contractor: 
-Valuation: 285748.0
-Units: 5</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7137416-cn</guid>
       <title>[Seattle] Construct EAST two-family dwelling  per plan. [Establish use as housing for (4) attached dwelling units in two structures  per land use code. Construct two-family dwellings  per plan. Review and processing for (2) construction records under 7112646-CN.]</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137416-CN</link>
@@ -58,6 +44,20 @@ Address: 7512 A 26TH AVE NE
 Contractor: 
 Valuation: 657770.0
 Units: 2</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7091643-cn</guid>
+      <title>[Seattle] Construct SOUTHEAST one-family dwelling (BLDG 1)  per plan. [Establish use as housing for (3) detached dwelling units and (2) attached dwelling units  per land use code. Construct one- and two-family dwellings per plan. Review and processing for (4) construction records under 7091643-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7091643-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7091643-CN
+Issued: 2026-11-03
+Address: 4802 S BRANDON ST
+Contractor: 
+Valuation: 285748.0
+Units: 5</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
