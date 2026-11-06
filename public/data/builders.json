@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-06T07:25:42+00:00",
+  "generated_at": "2026-11-06T19:42:31+00:00",
   "builders": [
+    {
+      "contractor": "Galaxy Partners",
+      "permits_90d": 2,
+      "single_family": 0,
+      "multifamily": 2,
+      "commercial": 0,
+      "combined_valuation": 1466393.0,
+      "jurisdictions": [
+        "Seattle"
+      ],
+      "top_score": 50
+    },
     {
       "contractor": "D Hill Construction",
       "permits_90d": 1,

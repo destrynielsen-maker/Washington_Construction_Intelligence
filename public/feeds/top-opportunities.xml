@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7161092-cn</guid>
+      <title>[Seattle] Construct northeast two-family dwelling DADU2  per plan. (Allow housing for two new detached dwelling units  per land use code. Existing detached dwelling to remain. Construct 2 new one-family dwellings  per plan. Review and processing for two records under 7153311-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7161092-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7161092-CN
+Issued: 2026-11-05
+Address: 8422 10TH AVE SW
+Contractor: 
+Valuation: 253916.0
+Units: </description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7092019-cn</guid>
+      <title>[Seattle] Construct NORTHWEST two-family dwelling  per plan. [Allow single-family residence with attached accessory dwelling unit and new single-family residence to existing single-family use  per Land Use Code. Construct one- and two-family dwellings  per plan. Existing one-family dwelling to remain. Review and processing for (2) construction records under 7092019-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7092019-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7092019-CN
+Issued: 2026-11-04
+Address: 6753 12TH AVE SW
+Contractor: 
+Valuation: 475451.0
+Units: 2</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7145059-cn</guid>
       <title>[Seattle] Construct new south townhouse  per plan. (Establish use as housing for two 3-unit townhouses  per land use code. Construct two new townhouses  per plan. Review and processing for 2 records under 7128543-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7145059-CN</link>
@@ -86,6 +114,20 @@ Address: 7510 26TH AVE NE
 Contractor: 
 Valuation: 480806.0
 Units: 2</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7143052-cn</guid>
+      <title>[Seattle] Allow housing for (1) detached dwelling unit  per land use code. Existing multifamily dwelling to remain. Construct one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7143052-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7143052-CN
+Issued: 2026-11-03
+Address: 412 N 63RD ST
+Contractor: 
+Valuation: 261551.0
+Units: 1</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -887,6 +929,34 @@ Units: 2</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7030795-cn</guid>
+      <title>[Seattle] Construct west bldg. per plans (Establish use as townhouses per the land use code. Construct (2) townhouse buildings per plans. Reviews and processing for (2) -CN's under 7030795)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7030795-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 50
+Permit: 7030795-CN
+Issued: 2026-09-22
+Address: 3101 S FERDINAND ST
+Contractor: Galaxy Partners
+Valuation: 759816.0
+Units: 3</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7030161-cn</guid>
+      <title>[Seattle] Construct new West Bldg C townhouse  per plan. (Establish use as townhouse per land use code. Construct (2) new townhouse buildings  per plan. Review and processing for two records under 7030161-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7030161-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 50
+Permit: 7030161-CN
+Issued: 2026-09-22
+Address: 4908 31ST AVE S
+Contractor: Galaxy Partners
+Valuation: 706577.0
+Units: 3</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7128603-cn</guid>
       <title>[Seattle] Establish use as single family residence with attached accessory dwelling unit per land use code. Construct new two family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128603-CN</link>
@@ -925,34 +995,6 @@ Issued: 2026-09-22
 Address: 3105 S FERDINAND ST
 Contractor: 
 Valuation: 759816.0
-Units: 3</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7030795-cn</guid>
-      <title>[Seattle] Construct west bldg. per plans (Establish use as townhouses per the land use code. Construct (2) townhouse buildings per plans. Reviews and processing for (2) -CN's under 7030795)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7030795-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7030795-CN
-Issued: 2026-09-22
-Address: 3101 S FERDINAND ST
-Contractor: 
-Valuation: 759816.0
-Units: 3</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7030161-cn</guid>
-      <title>[Seattle] Construct new West Bldg C townhouse  per plan. (Establish use as townhouse per land use code. Construct (2) new townhouse buildings  per plan. Review and processing for two records under 7030161-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7030161-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7030161-CN
-Issued: 2026-09-22
-Address: 4908 31ST AVE S
-Contractor: 
-Valuation: 706577.0
 Units: 3</description>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -3460,48 +3502,6 @@ Address: 4718 SW HANFORD ST
 Contractor: 
 Valuation: 670644.0
 Units: 2</description>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|6961546-cn</guid>
-      <title>[Seattle] Construct west two family dwelling  per plan. (Establish use as single family residence with attached and detached accessory dwelling units per land use code.  Construct new one and two family dwellings  per plan. Review and processing for two records under 6961546-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6961546-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 6961546-CN
-Issued: 2026-06-09
-Address: 8632 37TH AVE S
-Contractor: 
-Valuation: 661548.0
-Units: 2</description>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7121979-cn</guid>
-      <title>[Seattle] Construct east one family dwelling (SFR 2)  per plan.  (Establish use as single family residence with attached and detached accessory dwelling units per land use code.   Construct  (2) new one family dwelling and (1) two family dwelling  per plan.  Review and processing for 3 records under 7105904-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7121979-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7121979-CN
-Issued: 2026-06-09
-Address: 4712 SW HANFORD ST
-Contractor: 
-Valuation: 346132.0
-Units: 1</description>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7105904-cn</guid>
-      <title>[Seattle] Construct west one family dwelling (SFR 1)  per plan.  (Establish use as single family residence with attached and detached accessory dwelling units per land use code.   Construct  (2) new one family dwelling and (1) two family dwelling  per plan.  Review and processing for 3 records under 7105904-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7105904-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7105904-CN
-Issued: 2026-06-09
-Address: 4718 SW HANFORD ST
-Contractor: 
-Valuation: 327870.0
-Units: 1</description>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

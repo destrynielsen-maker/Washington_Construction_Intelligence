@@ -5,6 +5,76 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7161092-cn</guid>
+      <title>[Seattle] Construct northeast two-family dwelling DADU2  per plan. (Allow housing for two new detached dwelling units  per land use code. Existing detached dwelling to remain. Construct 2 new one-family dwellings  per plan. Review and processing for two records under 7153311-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7161092-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7161092-CN
+Issued: 2026-11-05
+Address: 8422 10TH AVE SW
+Contractor: 
+Valuation: 253916.0
+Units: </description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7153311-cn</guid>
+      <title>[Seattle] Construct southeast one-family dwelling DADU1  per plan. (Allow housing for two new detached dwelling units  per land use code. Existing detached dwelling to remain. Construct 2 new one-family dwellings  per plan. Review and processing for two records under 7153311-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7153311-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7153311-CN
+Issued: 2026-11-05
+Address: 8424 10TH AVE SW
+Contractor: 
+Valuation: 253976.0
+Units: 2</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7128792-cn</guid>
+      <title>[Seattle] Construct WEST one-family dwelling  per plan. [Allow housing for (1) new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct one-family dwelling and alterations to existing one-family dwelling  per plan. Review and processing for (2) construction records under 7128792-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128792-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7128792-CN
+Issued: 2026-11-05
+Address: 4021 E GARFIELD ST
+Contractor: 
+Valuation: 284795.0
+Units: 1</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7163915-cn</guid>
+      <title>[Seattle] Allow new detached accessory dwelling unit  accessory to existing residential use per land use code. Construct new one family dwelling  per standard plan 6800134-SP.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7163915-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7163915-CN
+Issued: 2026-11-05
+Address: 216 NW 140TH ST
+Contractor: 
+Valuation: 86997.0
+Units: 1</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7092019-cn</guid>
+      <title>[Seattle] Construct NORTHWEST two-family dwelling  per plan. [Allow single-family residence with attached accessory dwelling unit and new single-family residence to existing single-family use  per Land Use Code. Construct one- and two-family dwellings  per plan. Existing one-family dwelling to remain. Review and processing for (2) construction records under 7092019-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7092019-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7092019-CN
+Issued: 2026-11-04
+Address: 6753 12TH AVE SW
+Contractor: 
+Valuation: 475451.0
+Units: 2</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7145059-cn</guid>
       <title>[Seattle] Construct new south townhouse  per plan. (Establish use as housing for two 3-unit townhouses  per land use code. Construct two new townhouses  per plan. Review and processing for 2 records under 7128543-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7145059-CN</link>
@@ -86,6 +156,20 @@ Address: 7510 26TH AVE NE
 Contractor: 
 Valuation: 480806.0
 Units: 2</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7143052-cn</guid>
+      <title>[Seattle] Allow housing for (1) detached dwelling unit  per land use code. Existing multifamily dwelling to remain. Construct one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7143052-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7143052-CN
+Issued: 2026-11-03
+Address: 412 N 63RD ST
+Contractor: 
+Valuation: 261551.0
+Units: 1</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1867,6 +1951,34 @@ Units: 1</description>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">WA|seattle|7030795-cn</guid>
+      <title>[Seattle] Construct west bldg. per plans (Establish use as townhouses per the land use code. Construct (2) townhouse buildings per plans. Reviews and processing for (2) -CN's under 7030795)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7030795-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 50
+Permit: 7030795-CN
+Issued: 2026-09-22
+Address: 3101 S FERDINAND ST
+Contractor: Galaxy Partners
+Valuation: 759816.0
+Units: 3</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7030161-cn</guid>
+      <title>[Seattle] Construct new West Bldg C townhouse  per plan. (Establish use as townhouse per land use code. Construct (2) new townhouse buildings  per plan. Review and processing for two records under 7030161-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7030161-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 50
+Permit: 7030161-CN
+Issued: 2026-09-22
+Address: 4908 31ST AVE S
+Contractor: Galaxy Partners
+Valuation: 706577.0
+Units: 3</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7128603-cn</guid>
       <title>[Seattle] Establish use as single family residence with attached accessory dwelling unit per land use code. Construct new two family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128603-CN</link>
@@ -1905,34 +2017,6 @@ Issued: 2026-09-22
 Address: 3105 S FERDINAND ST
 Contractor: 
 Valuation: 759816.0
-Units: 3</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7030795-cn</guid>
-      <title>[Seattle] Construct west bldg. per plans (Establish use as townhouses per the land use code. Construct (2) townhouse buildings per plans. Reviews and processing for (2) -CN's under 7030795)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7030795-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7030795-CN
-Issued: 2026-09-22
-Address: 3101 S FERDINAND ST
-Contractor: 
-Valuation: 759816.0
-Units: 3</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7030161-cn</guid>
-      <title>[Seattle] Construct new West Bldg C townhouse  per plan. (Establish use as townhouse per land use code. Construct (2) new townhouse buildings  per plan. Review and processing for two records under 7030161-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7030161-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7030161-CN
-Issued: 2026-09-22
-Address: 4908 31ST AVE S
-Contractor: 
-Valuation: 706577.0
 Units: 3</description>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -3419,90 +3503,6 @@ Contractor:
 Valuation: 431487.0
 Units: 1</description>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7130170-cn</guid>
-      <title>[Seattle] Construct new NE one family dwelling (SFR 2)  per plan.  (Establish use as single family residence per land use code.  Construct (4) one family dwellings  per plan.   Review and processing for (4) records under 7112263-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130170-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7130170-CN
-Issued: 2026-08-25
-Address: 3927 SW SOUTHERN ST
-Contractor: 
-Valuation: 402767.0
-Units: </description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7112263-cn</guid>
-      <title>[Seattle] Construct new NW one family dwelling (SFR 1)  per plan.  (Establish use as detached housing units  per land use code.  Construct (4) one family dwellings  per plan.   Review and processing for (4) records under 7112263-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7112263-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7112263-CN
-Issued: 2026-08-25
-Address: 3933 SW SOUTHERN ST
-Contractor: 
-Valuation: 411630.0
-Units: 1</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7113167-cn</guid>
-      <title>[Seattle] Establish use as housing for two stacked dwelling units  per land use code  per land use code.  Construct two-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7113167-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7113167-CN
-Issued: 2026-08-24
-Address: 2117 NE 82ND ST
-Contractor: 
-Valuation: 718340.0
-Units: 2</description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7124129-cn</guid>
-      <title>[Seattle] Establish use as housing for one detached dwelling unit  per the land use code. Construct a new one-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7124129-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 20
-Permit: 7124129-CN
-Issued: 2026-08-24
-Address: 4212 43RD AVE NE
-Contractor: 
-Valuation: 889532.0
-Units: 1</description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7148653-cn</guid>
-      <title>[Seattle] Construct detached garage to replace existing  accessory to one-family dwelling  subject to field inspection [STFI].</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7148653-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7148653-CN
-Issued: 2026-08-24
-Address: 4311 THACKERAY PL NE
-Contractor: 
-Valuation: 50000.0
-Units: </description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7137276-cn</guid>
-      <title>[Seattle] Construct east one-family dwelling  per plan (Allow housing for two new detached dwelling units  per land use code. Existing detached dwelling to remain. Construct (2) one-family dwellings  per plan. Review &amp; process for (2) records under 7120935-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137276-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7137276-CN
-Issued: 2026-08-24
-Address: 3814 24TH AVE W
-Contractor: 
-Valuation: 418548.0
-Units: 1</description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
