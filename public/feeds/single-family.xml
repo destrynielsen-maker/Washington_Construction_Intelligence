@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7163915-cn</guid>
+      <title>[Seattle] Allow new detached accessory dwelling unit  accessory to existing residential use per land use code. Construct new one family dwelling  per standard plan 6800134-SP.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7163915-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7163915-CN
+Issued: 2026-11-05
+Address: 216 NW 140TH ST
+Contractor: 
+Valuation: 86997.0
+Units: 1</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7153311-cn</guid>
       <title>[Seattle] Construct southeast one-family dwelling DADU1  per plan. (Allow housing for two new detached dwelling units  per land use code. Existing detached dwelling to remain. Construct 2 new one-family dwellings  per plan. Review and processing for two records under 7153311-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7153311-CN</link>
@@ -29,20 +43,6 @@ Issued: 2026-11-05
 Address: 4021 E GARFIELD ST
 Contractor: 
 Valuation: 284795.0
-Units: 1</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7163915-cn</guid>
-      <title>[Seattle] Allow new detached accessory dwelling unit  accessory to existing residential use per land use code. Construct new one family dwelling  per standard plan 6800134-SP.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7163915-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7163915-CN
-Issued: 2026-11-05
-Address: 216 NW 140TH ST
-Contractor: 
-Valuation: 86997.0
 Units: 1</description>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
