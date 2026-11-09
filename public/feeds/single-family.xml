@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7128921-cn</guid>
+      <title>[Seattle] Allow housing for (1) new detached dwelling unit  per land use code. Existing one-family dwelling to remain. Construct one-family dwelling  per standard plan #6804831-SP.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128921-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7128921-CN
+Issued: 2026-11-07
+Address: 10431 56TH AVE S
+Contractor: 
+Valuation: 179584.0
+Units: 1</description>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7147489-cn</guid>
       <title>[Seattle] Construct new south middle one-family dwelling (Bldg 3)  per plan. (Establish use as housing for six detached dwelling units  per land use code. Construct 6 new one-family dwellings  per plan. Review and processing for 6 records under 7136280-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7147489-CN</link>
@@ -3489,20 +3503,6 @@ Contractor:
 Valuation: 32129.0
 Units: 1</description>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7100718-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling (North  SFR)  per plan. (Establish use as single-family residence with detached accessory dwelling unit  per Land Use Code. Construct two new one-family dwellings  per plan.  Review and processing for two records under 7100718-CN.)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7100718-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 25
-Permit: 7100718-CN
-Issued: 2026-07-01
-Address: 2719 W ELMORE ST
-Contractor: Alexander Hiebert
-Valuation: 746879.0
-Units: 1</description>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
