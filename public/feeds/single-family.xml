@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7123518-cn</guid>
+      <title>[Seattle] Construct alterations to install soldier pile wall  paving  drainage and slope stabilization measures at existing one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123518-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7123518-CN
+Issued: 2026-11-09
+Address: 11461 MARINE VIEW DR SW
+Contractor: 
+Valuation: 140000.0
+Units: </description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7128921-cn</guid>
       <title>[Seattle] Allow housing for (1) new detached dwelling unit  per land use code. Existing one-family dwelling to remain. Construct one-family dwelling  per standard plan #6804831-SP.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128921-CN</link>
@@ -3487,20 +3501,6 @@ Issued: 2026-07-02
 Address: 3013 NE 103RD ST
 Contractor: 
 Valuation: 372895.0
-Units: 1</description>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|6801780-cn</guid>
-      <title>[Seattle] Complete and final work permitted under 6353540-cn  per STFI</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6801780-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 6801780-CN
-Issued: 2026-07-02
-Address: 4837 S HOLLY ST
-Contractor: 
-Valuation: 32129.0
 Units: 1</description>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
