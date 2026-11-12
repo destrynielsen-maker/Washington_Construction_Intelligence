@@ -5,6 +5,62 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7114892-cn</guid>
+      <title>[Seattle] Construct East (Unit 1) one-family dwelling  per plan [Establish use as housing for three (3) detached dwelling units  per land use code. Construct as  One-family dwellings with attached garages  review and process for three records under 7114892-CN].</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7114892-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7114892-CN
+Issued: 2026-11-10
+Address: 6333 38TH AVE SW
+Contractor: 
+Valuation: 544918.0
+Units: 1</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7149618-cn</guid>
+      <title>[Seattle] Construct West (Unit 3) one-family dwelling  per plan [Establish use as housing for three detached dwelling units  per land use code. Construct as  One-family dwellings with attached garage  review and process for three records under 7114892-CN].</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7149618-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7149618-CN
+Issued: 2026-11-10
+Address: 6329 38TH AVE SW
+Contractor: 
+Valuation: 304824.0
+Units: 1</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7149616-cn</guid>
+      <title>[Seattle] Construct Middle (Unit 2) one-family dwelling  per plan [Establish use as housing for three detached dwelling units  per land use code. Construct as  One-family dwellings with attached garage  review and process for three records under 7114892-CN].</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7149616-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7149616-CN
+Issued: 2026-11-10
+Address: 6331 38TH AVE SW
+Contractor: 
+Valuation: 303562.0
+Units: 1</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7144549-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7144549-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7144549-CN
+Issued: 2026-11-09
+Address: 10036 14TH AVE NW
+Contractor: 
+Valuation: 625365.0
+Units: 1</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7123518-cn</guid>
       <title>[Seattle] Construct alterations to install soldier pile wall  paving  drainage and slope stabilization measures at existing one-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7123518-CN</link>
@@ -3447,62 +3503,6 @@ Contractor:
 Valuation: 249922.0
 Units: 1</description>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|6943109-cn</guid>
-      <title>[Seattle] Complete and final for permit 6568196-CN (BLDG A) subject to field inspection (STFI)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6943109-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 6943109-CN
-Issued: 2026-07-07
-Address: 9045 A 18TH AVE SW
-Contractor: 
-Valuation: 42997.0
-Units: </description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7052763-cn</guid>
-      <title>[Seattle] Construct East one-family dwelling (SFR C)  per plan. (Establish use as single-family residence per land use code and construct 2 one family dwellings  per plan.  Review and processing for 2 records under 7039785-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7052763-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7052763-CN
-Issued: 2026-07-06
-Address: 3015 NE 103RD ST
-Contractor: 
-Valuation: 235006.0
-Units: 3</description>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7137849-cn</guid>
-      <title>[Seattle] Establish use as housing for one detached housing units  per land use code. Existing detached dwelling to remain. Construct new one-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137849-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 20
-Permit: 7137849-CN
-Issued: 2026-07-02
-Address: 2972 S GRAHAM ST
-Contractor: 
-Valuation: 601717.0
-Units: 1</description>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7116461-cn</guid>
-      <title>[Seattle] Establish use as single-family dwelling units  per Land Use Code.  Construct new middle one family dwelling (SFR B)  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7116461-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7116461-CN
-Issued: 2026-07-02
-Address: 3013 NE 103RD ST
-Contractor: 
-Valuation: 372895.0
-Units: 1</description>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

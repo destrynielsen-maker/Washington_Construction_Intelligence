@@ -551,20 +551,6 @@ Units: 1</description>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7124181-cn</guid>
-      <title>[Seattle] Construct east two-family dwelling (Establish use as housing for two attached dwelling units and two detached dwelling units  per land use code.  Construct (2) one-family dwellings &amp; (1) two-family dwelling  per plan.  Review &amp; process for (3) records under 7124181-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7124181-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 50
-Permit: 7124181-CN
-Issued: 2026-10-13
-Address: 5623 A 44TH AVE SW
-Contractor: 
-Valuation: 4664779.0
-Units: 2</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7143988-cn</guid>
       <title>[Seattle] Establish use for attached dwelling units  per land use code.   Construct new two-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7143988-CN</link>
@@ -604,6 +590,20 @@ Address: 5621 44TH AVE SW
 Contractor: 
 Valuation: 425345.0
 Units: 1</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7124181-cn</guid>
+      <title>[Seattle] Construct east two-family dwelling (Establish use as housing for two attached dwelling units and two detached dwelling units  per land use code.  Construct (2) one-family dwellings &amp; (1) two-family dwelling  per plan.  Review &amp; process for (3) records under 7124181-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7124181-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7124181-CN
+Issued: 2026-10-13
+Address: 5623 A 44TH AVE SW
+Contractor: 
+Valuation: 466515.0
+Units: 2</description>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
