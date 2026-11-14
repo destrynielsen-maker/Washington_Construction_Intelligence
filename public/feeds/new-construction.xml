@@ -5,6 +5,62 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7117750-cn</guid>
+      <title>[Seattle] Allow new detached accessory dwelling unit to existing single family use per land use code.  Construct new one family dwelling  per plan (standard plan 6880596-SP).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7117750-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7117750-CN
+Issued: 2026-11-12
+Address: 3318 B 23RD AVE S
+Contractor: 
+Valuation: 252237.0
+Units: 1</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7113998-cn</guid>
+      <title>[Seattle] Establish use as housing for two attached dwelling units  per land use code. Construct two-family dwelling  per plan</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7113998-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7113998-CN
+Issued: 2026-11-11
+Address: 4807 15TH AVE S
+Contractor: 
+Valuation: 571541.0
+Units: 2</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7128800-cn</guid>
+      <title>[Seattle] Construct west one-family dwelling  per plan. (Allow housing for two new detached dwelling units  per land use code. Existing detached east dwelling to remain. Construct 2 new one-family dwellings and accessory detached carport  per plan. Review and processing for 2 records under 7128800-CN.)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128800-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7128800-CN
+Issued: 2026-11-11
+Address: 9255 B 8TH AVE NW
+Contractor: 
+Valuation: 229374.0
+Units: 2</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7148239-cn</guid>
+      <title>[Seattle] Construct middle one-family dwelling and accessory detached carport  per plan. (Allow housing for two new detached dwelling units  per land use code. Existing detached east dwelling to remain. Construct 2 new one-family dwellings and accessory detached carport  per plan. Review and processing for 2 records under 7128800-CN.)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7148239-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7148239-CN
+Issued: 2026-11-11
+Address: 9255 A 8TH AVE NW
+Contractor: 
+Valuation: 229374.0
+Units: 2</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7114892-cn</guid>
       <title>[Seattle] Construct East (Unit 1) one-family dwelling  per plan [Establish use as housing for three (3) detached dwelling units  per land use code. Construct as  One-family dwellings with attached garages  review and process for three records under 7114892-CN].</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7114892-CN</link>
@@ -3447,62 +3503,6 @@ Contractor:
 Valuation: 211813.0
 Units: </description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7052536-cn</guid>
-      <title>[Seattle] Construct new middle one-family dwelling  per plan. (Allow two detached accessory dwelling units to existing single-family use per land use code. Construct (2) one-family dwellings and alterations to existing one-family dwelling  per plan. Review and processing for (3) records under 7052536-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7052536-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7052536-CN
-Issued: 2026-09-01
-Address: 333 NE 120TH ST
-Contractor: 
-Valuation: 219040.0
-Units: 2</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7025065-cn</guid>
-      <title>[Seattle] Construct east multi-family live/work structure and occupy  per plans.  (Establish use as multi-family live/work  per Land Use Code.  Construct same and occupy per plans.  Reviews and processing for two -CN's under 6641818)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7025065-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 55
-Permit: 7025065-CN
-Issued: 2026-08-31
-Address: 3500 NE 94TH ST
-Contractor: 
-Valuation: 1806855.0
-Units: 6</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|6641818-cn</guid>
-      <title>[Seattle] Construct west multi-family live/work structure and occupy  per plans.  (Establish use as multi-family live/work  per Land Use Code.  Construct same and occupy per plans.  Reviews and processing for two -CN's under 6641818)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6641818-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 55
-Permit: 6641818-CN
-Issued: 2026-08-31
-Address: 9400 35TH AVE NE
-Contractor: 
-Valuation: 2268201.0
-Units: 6</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7120664-cn</guid>
-      <title>[Seattle] Establish use as housing for two attached dwelling units  per land use code. Existing detached dwelling to remain. Construct two-family dwelling  per plan. Project includes removal of detached accessory structure (shed).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7120664-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7120664-CN
-Issued: 2026-08-31
-Address: 5563 A 16TH AVE S
-Contractor: 
-Valuation: 546257.0
-Units: 2</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7113998-cn</guid>
+      <title>[Seattle] Establish use as housing for two attached dwelling units  per land use code. Construct two-family dwelling  per plan</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7113998-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7113998-CN
+Issued: 2026-11-11
+Address: 4807 15TH AVE S
+Contractor: 
+Valuation: 571541.0
+Units: 2</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7150669-cn</guid>
       <title>[Seattle] Construct east two-family dwelling (Establish use as housing for 4 attached dwelling units in two structures  per land use code. Construct (2) two-family dwellings  per plan. Review and processing for 2 records under 7139421-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7150669-CN</link>
@@ -3488,20 +3502,6 @@ Address: 1225 NE 96TH ST
 Contractor: 
 Valuation: 529066.0
 Units: 1</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7129179-cn</guid>
-      <title>[Seattle] Construct West two family dwelling  per plan (Establish use as single family residence  per land use code.  Construct (1) one family dwelling and (1) two family dwelling  per plan.  Review and processing for 2 records under 7119457-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7129179-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7129179-CN
-Issued: 2026-06-12
-Address: 1602 41ST AVE E
-Contractor: 
-Valuation: 470039.0
-Units: </description>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
