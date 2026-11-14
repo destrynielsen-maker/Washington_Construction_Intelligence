@@ -19,20 +19,6 @@ Units: 1</description>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7128800-cn</guid>
-      <title>[Seattle] Construct west one-family dwelling  per plan. (Allow housing for two new detached dwelling units  per land use code. Existing detached east dwelling to remain. Construct 2 new one-family dwellings and accessory detached carport  per plan. Review and processing for 2 records under 7128800-CN.)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128800-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7128800-CN
-Issued: 2026-11-11
-Address: 9255 B 8TH AVE NW
-Contractor: 
-Valuation: 229374.0
-Units: 2</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7148239-cn</guid>
       <title>[Seattle] Construct middle one-family dwelling and accessory detached carport  per plan. (Allow housing for two new detached dwelling units  per land use code. Existing detached east dwelling to remain. Construct 2 new one-family dwellings and accessory detached carport  per plan. Review and processing for 2 records under 7128800-CN.)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7148239-CN</link>
@@ -41,6 +27,20 @@ Score: 15
 Permit: 7148239-CN
 Issued: 2026-11-11
 Address: 9255 A 8TH AVE NW
+Contractor: 
+Valuation: 229374.0
+Units: 2</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7128800-cn</guid>
+      <title>[Seattle] Construct west one-family dwelling  per plan. (Allow housing for two new detached dwelling units  per land use code. Existing detached east dwelling to remain. Construct 2 new one-family dwellings and accessory detached carport  per plan. Review and processing for 2 records under 7128800-CN.)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7128800-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7128800-CN
+Issued: 2026-11-11
+Address: 9255 B 8TH AVE NW
 Contractor: 
 Valuation: 229374.0
 Units: 2</description>
