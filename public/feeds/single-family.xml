@@ -5,6 +5,48 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7127952-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (North SFR1)  per plan. [Establish use as housing for three detached dwelling units  per land use code. Construct as three one-family dwellings  per plan. Review and processing for three records under 7127952-CN).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7127952-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7127952-CN
+Issued: 2026-11-13
+Address: 1016 NE 117TH ST
+Contractor: 
+Valuation: 504550.0
+Units: 1</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7160905-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (Middle SFR2)  per plan. [Establish use as housing for three detached dwelling units  per land use code. Construct as three one-family dwellings  per plan. Review and processing for three records under 7127952-CN).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7160905-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7160905-CN
+Issued: 2026-11-13
+Address: 1018 NE 117TH ST
+Contractor: 
+Valuation: 312094.0
+Units: 1</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7160904-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (South SFR3)  per plan. [Establish use as housing for three detached dwelling units  per land use code. Construct as three one-family dwellings  per plan. Review and processing for three records under 7127952-CN).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7160904-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7160904-CN
+Issued: 2026-11-13
+Address: 1020 NE 117TH ST
+Contractor: 
+Valuation: 312094.0
+Units: 1</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7117750-cn</guid>
       <title>[Seattle] Allow new detached accessory dwelling unit to existing single family use per land use code.  Construct new one family dwelling  per plan (standard plan 6880596-SP).</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7117750-CN</link>
@@ -3461,48 +3503,6 @@ Contractor:
 Valuation: 1000.0
 Units: </description>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7133441-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling  per plan (Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain  with alterations. Construct new one-family dwelling  review and process for two records under 7133441-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7133441-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7133441-CN
-Issued: 2026-07-13
-Address: 1010 NE 78TH ST
-Contractor: 
-Valuation: 261153.0
-Units: 1</description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7127794-cn</guid>
-      <title>[Seattle] Construct alterations to existing (1) family dwelling (Allow (1) single-family residence &amp; (2) detached accessory dwelling units (DADU) to existing single-family residence  per land use code. Construct (3) one-family dwellings &amp; alterations to existing (1) family dwelling  per plan. Review &amp; process for (4) records under 7093693-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7127794-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7127794-CN
-Issued: 2026-07-13
-Address: 11538 16TH AVE NE
-Contractor: 
-Valuation: 1.0
-Units: </description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7100545-cn</guid>
-      <title>[Seattle] Construct east one family dwelling  per plan. [Establish use as single family residence with detached attached accessory dwelling unit (DADU)  per land use code. Construct new one family dwelling and alterations to existing one family dwelling to convert it into a DADU. Review and processing for two records under 7100545-CN.]</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7100545-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 20
-Permit: 7100545-CN
-Issued: 2026-07-10
-Address: 3049 22ND AVE W
-Contractor: 
-Valuation: 705560.0
-Units: 2</description>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

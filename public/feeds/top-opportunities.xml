@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7106887-cn</guid>
+      <title>[Seattle] Construct NORTH one-family dwelling (BLDG A)  per plan. [Establish housing for (2) attached dwelling units and (1) detached dwelling unit  per land use code. Construct one- and two-family dwellings  per plan. Review and processing for (2) construction records under 7106887-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7106887-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7106887-CN
+Issued: 2026-11-12
+Address: 5505 1ST AVE NE
+Contractor: 
+Valuation: 418221.0
+Units: 1</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7113998-cn</guid>
       <title>[Seattle] Establish use as housing for two attached dwelling units  per land use code. Construct two-family dwelling  per plan</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7113998-CN</link>
@@ -3488,20 +3502,6 @@ Address: 10054 BEACON AVE S
 Contractor: 
 Valuation: 774918.0
 Units: 2</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|6846056-cn</guid>
-      <title>[Seattle] Establish principal dwelling unit and attached accessory dwelling unit (AADU)  per plan. Construct new two-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6846056-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 6846056-CN
-Issued: 2026-06-12
-Address: 1225 NE 96TH ST
-Contractor: 
-Valuation: 529066.0
-Units: 1</description>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

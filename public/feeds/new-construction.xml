@@ -5,6 +5,62 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7127952-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (North SFR1)  per plan. [Establish use as housing for three detached dwelling units  per land use code. Construct as three one-family dwellings  per plan. Review and processing for three records under 7127952-CN).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7127952-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7127952-CN
+Issued: 2026-11-13
+Address: 1016 NE 117TH ST
+Contractor: 
+Valuation: 504550.0
+Units: 1</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7160905-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (Middle SFR2)  per plan. [Establish use as housing for three detached dwelling units  per land use code. Construct as three one-family dwellings  per plan. Review and processing for three records under 7127952-CN).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7160905-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7160905-CN
+Issued: 2026-11-13
+Address: 1018 NE 117TH ST
+Contractor: 
+Valuation: 312094.0
+Units: 1</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7160904-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (South SFR3)  per plan. [Establish use as housing for three detached dwelling units  per land use code. Construct as three one-family dwellings  per plan. Review and processing for three records under 7127952-CN).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7160904-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7160904-CN
+Issued: 2026-11-13
+Address: 1020 NE 117TH ST
+Contractor: 
+Valuation: 312094.0
+Units: 1</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7106887-cn</guid>
+      <title>[Seattle] Construct NORTH one-family dwelling (BLDG A)  per plan. [Establish housing for (2) attached dwelling units and (1) detached dwelling unit  per land use code. Construct one- and two-family dwellings  per plan. Review and processing for (2) construction records under 7106887-CN.]</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7106887-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7106887-CN
+Issued: 2026-11-12
+Address: 5505 1ST AVE NE
+Contractor: 
+Valuation: 418221.0
+Units: 1</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7117750-cn</guid>
       <title>[Seattle] Allow new detached accessory dwelling unit to existing single family use per land use code.  Construct new one family dwelling  per plan (standard plan 6880596-SP).</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7117750-CN</link>
@@ -3446,62 +3502,6 @@ Address: 737 N 86TH ST
 Contractor: 
 Valuation: 377979.0
 Units: 4</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7110938-cn</guid>
-      <title>[Seattle] Construct new SE one family dwelling (SFR4)  per plan.  (Establish use as single family residence per land use code.  Construct 4 new one family dwellings  per plan.  Review and processing for 4 records under 7097343-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7110938-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7110938-CN
-Issued: 2026-09-01
-Address: 735 N 86TH ST
-Contractor: 
-Valuation: 283870.0
-Units: 4</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7110934-cn</guid>
-      <title>[Seattle] Construct new SW one family dwelling (SFR3)  per plan.  (Establish use as single family residence per land use code.  Construct 4 new one family dwellings  per plan.  Review and processing for 4 records under 7097343-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7110934-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7110934-CN
-Issued: 2026-09-01
-Address: 733 N 86TH ST
-Contractor: 
-Valuation: 254472.0
-Units: 4</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7097343-cn</guid>
-      <title>[Seattle] Construct new NW one family dwelling (SFR1)  per plan.  (Establish use as single family residence per land use code.  Construct 4 new one family dwellings  per plan.  Review and processing for 4 records under 7097343-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7097343-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7097343-CN
-Issued: 2026-09-01
-Address: 731 N 86TH ST
-Contractor: 
-Valuation: 372580.0
-Units: 4</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7097173-cn</guid>
-      <title>[Seattle] Construct new south one-family dwelling  per plan. (Allow two detached accessory dwelling units to existing single-family use per land use code. Construct (2) one-family dwellings and alterations to existing one-family dwelling  per plan. Review and processing for (3) records under 7052536-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7097173-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7097173-CN
-Issued: 2026-09-01
-Address: 335 NE 120TH ST
-Contractor: 
-Valuation: 211813.0
-Units: </description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
