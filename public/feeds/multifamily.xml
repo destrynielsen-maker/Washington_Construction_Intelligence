@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|6620777-cn</guid>
+      <title>[Seattle] Construct mixed-use apartment building with below-grade parking  occupy per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6620777-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 80
+Permit: 6620777-CN
+Issued: 2026-11-16
+Address: 3421 WOODLAND PARK AVE N
+Contractor: 
+Valuation: 11933088.0
+Units: 104</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7106887-cn</guid>
       <title>[Seattle] Construct NORTH one-family dwelling (BLDG A)  per plan. [Establish housing for (2) attached dwelling units and (1) detached dwelling unit  per land use code. Construct one- and two-family dwellings  per plan. Review and processing for (2) construction records under 7106887-CN.]</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7106887-CN</link>
@@ -3489,20 +3503,6 @@ Contractor:
 Valuation: 472618.0
 Units: 2</description>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7103404-cn</guid>
-      <title>[Seattle] Establish use as single family residence with attached accessory dwelling unit per land use code. Construct new two-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7103404-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7103404-CN
-Issued: 2026-06-10
-Address: 7040 53RD AVE NE
-Contractor: 
-Valuation: 963490.0
-Units: 2</description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

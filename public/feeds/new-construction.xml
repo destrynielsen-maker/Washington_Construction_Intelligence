@@ -5,6 +5,48 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|6620777-cn</guid>
+      <title>[Seattle] Construct mixed-use apartment building with below-grade parking  occupy per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6620777-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 80
+Permit: 6620777-CN
+Issued: 2026-11-16
+Address: 3421 WOODLAND PARK AVE N
+Contractor: 
+Valuation: 11933088.0
+Units: 104</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7112541-cn</guid>
+      <title>[Seattle] Establish use as housing for one detached dwelling unit  per land use code. Construct new one-family dwelling  per plan</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7112541-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7112541-CN
+Issued: 2026-11-16
+Address: 12044 10TH AVE NW
+Contractor: 
+Valuation: 608431.0
+Units: 1</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7135481-cn</guid>
+      <title>[Seattle] Allow housing for (1) detached dwelling unit  per land use code. Existing detached dwelling unit to remain. Construct one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135481-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7135481-CN
+Issued: 2026-11-16
+Address: 2517 E MARION ST
+Contractor: 
+Valuation: 186290.0
+Units: 1</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7127952-cn</guid>
       <title>[Seattle] Construct new one-family dwelling (North SFR1)  per plan. [Establish use as housing for three detached dwelling units  per land use code. Construct as three one-family dwellings  per plan. Review and processing for three records under 7127952-CN).</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7127952-CN</link>
@@ -3460,48 +3502,6 @@ Address: 9552 4TH AVE NW
 Contractor: 
 Valuation: 255845.0
 Units: 1</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7121272-cn</guid>
-      <title>[Seattle] Construct new west one family dwelling  per plan. (Establish housing for 3 new detached dwelling units  per land use code).  Construct (3) new one family dwellings  per plan. Review and processing for three records under 7121272-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7121272-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7121272-CN
-Issued: 2026-09-01
-Address: 3119 W GROVER ST
-Contractor: 
-Valuation: 366311.0
-Units: 1</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7116656-cn</guid>
-      <title>[Seattle] Allow housing for one detached dwelling unit  per land use code. Existing detached dwelling to remain.  Construct new south one-family dwelling  per plan</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7116656-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7116656-CN
-Issued: 2026-09-01
-Address: 1703 N 137TH ST
-Contractor: 
-Valuation: 308032.0
-Units: 1</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7114517-cn</guid>
-      <title>[Seattle] Construct new NE one family dwelling (SFR2)  per plan.  (Establish use as single family residence per land use code.  Construct 4 new one family dwellings  per plan.  Review and processing for 4 records under 7097343-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7114517-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7114517-CN
-Issued: 2026-09-01
-Address: 737 N 86TH ST
-Contractor: 
-Valuation: 377979.0
-Units: 4</description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

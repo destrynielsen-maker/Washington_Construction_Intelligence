@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7112541-cn</guid>
+      <title>[Seattle] Establish use as housing for one detached dwelling unit  per land use code. Construct new one-family dwelling  per plan</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7112541-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 20
+Permit: 7112541-CN
+Issued: 2026-11-16
+Address: 12044 10TH AVE NW
+Contractor: 
+Valuation: 608431.0
+Units: 1</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7135481-cn</guid>
+      <title>[Seattle] Allow housing for (1) detached dwelling unit  per land use code. Existing detached dwelling unit to remain. Construct one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7135481-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7135481-CN
+Issued: 2026-11-16
+Address: 2517 E MARION ST
+Contractor: 
+Valuation: 186290.0
+Units: 1</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7127952-cn</guid>
       <title>[Seattle] Construct new one-family dwelling (North SFR1)  per plan. [Establish use as housing for three detached dwelling units  per land use code. Construct as three one-family dwellings  per plan. Review and processing for three records under 7127952-CN).</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7127952-CN</link>
@@ -3475,34 +3503,6 @@ Contractor:
 Valuation: 418810.0
 Units: 1</description>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7098142-cn</guid>
-      <title>[Seattle] Construct NW one-family dwelling  per plan. (Establish use as detached dwelling units (single family residence)  per land use code. Construct (2) new one-family dwellings  per plan. Review and processing for two records under 7098142-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7098142-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7098142-CN
-Issued: 2026-07-14
-Address: 3837 37TH AVE SW
-Contractor: 
-Valuation: 366164.0
-Units: 1</description>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7143973-cn</guid>
-      <title>[Seattle] Construct alterations to existing dwelling  per plan  (Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain  with alterations. Construct  new one-family dwelling; review and process for two records under 7133441-CN).</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7143973-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7143973-CN
-Issued: 2026-07-13
-Address: 7802 ROOSEVELT WAY NE
-Contractor: 
-Valuation: 1000.0
-Units: </description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
