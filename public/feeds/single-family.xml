@@ -5,6 +5,48 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7172466-cn</guid>
+      <title>[Seattle] Demolish existing detached garage and construct a new garage  per STFI</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7172466-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7172466-CN
+Issued: 2026-11-18
+Address: 1421 SHENANDOAH DR E
+Contractor: 
+Valuation: 200000.0
+Units: </description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7159035-cn</guid>
+      <title>[Seattle] Construct heated accessory structure south of existing residence</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7159035-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7159035-CN
+Issued: 2026-11-18
+Address: 641 NW 80TH ST
+Contractor: 
+Valuation: 22355.0
+Units: </description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7137496-cn</guid>
+      <title>[Seattle] Allow housing for one new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7137496-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7137496-CN
+Issued: 2026-11-18
+Address: 10050 INTERLAKE AVE N
+Contractor: 
+Valuation: 205000.0
+Units: 1</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7155300-cn</guid>
       <title>[Seattle] Establish use as housing for one detached dwelling unit  per land use code. Construct as one-family dwelling with attached garage  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7155300-CN</link>
@@ -3459,48 +3501,6 @@ Issued: 2026-07-15
 Address: 4120 49TH AVE S
 Contractor: 
 Valuation: 367855.0
-Units: 1</description>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7125198-cn</guid>
-      <title>[Seattle] Construct new northeast one family dwelling (SFR 3)  per plan. (Establish use as single family residences per land use code.  Construct (4) new one family dwellings  per plan. Review and processing for four records under 7121097-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7125198-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7125198-CN
-Issued: 2026-07-15
-Address: 4118 49TH AVE S
-Contractor: 
-Valuation: 367855.0
-Units: 1</description>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7125197-cn</guid>
-      <title>[Seattle] Construct new southwest one family dwelling (SFR 2)  per plan. (Establish use as single family residences per land use code.  Construct (4) new one family dwellings  per plan. Review and processing for four records under 7121097-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7125197-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7125197-CN
-Issued: 2026-07-15
-Address: 4122 49TH AVE S
-Contractor: 
-Valuation: 372588.0
-Units: 1</description>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7121097-cn</guid>
-      <title>[Seattle] Construct new northwest one family dwelling (SFR 1)  per plan. (Establish use as single family residences per land use code.  Construct (4) new one family dwellings  per plan. Review and processing for four records under 7121097-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7121097-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7121097-CN
-Issued: 2026-07-15
-Address: 4116 49TH AVE S
-Contractor: 
-Valuation: 372588.0
 Units: 1</description>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
     </item>

@@ -5,6 +5,48 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7139418-cn</guid>
+      <title>[Seattle] Establish use as housing for two stacked dwelling units  per land use code. Construct new two-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7139418-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7139418-CN
+Issued: 2026-11-18
+Address: 6251 VASSAR AVE NE
+Contractor: 
+Valuation: 890929.0
+Units: 2</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|6998400-cn</guid>
+      <title>[Seattle] Roll Forward - Construct south two-family dwelling. (Establish use as housing for two (2) stacked dwelling units and one (1) detached dwelling unit  per land use code. Construct one (1) two-family dwelling and one (1) one-family dwelling  per plan. Review and process for two (2) records under 6998400-CN).</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6998400-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 6998400-CN
+Issued: 2026-11-18
+Address: 214 W HOWE ST
+Contractor: 
+Valuation: 678433.0
+Units: 2</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7005157-cn</guid>
+      <title>[Seattle] Construct north one-family dwelling  per plan. (Establish use as housing for two (2) stacked dwelling units and one (1) detached dwelling unit  per land use code. Construct one (1) two-family dwelling and one (1) one-family dwelling  per plan. Review and process for two (2) records under 6998400-CN).)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7005157-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7005157-CN
+Issued: 2026-11-18
+Address: 212 W HOWE ST
+Contractor: 
+Valuation: 93258.0
+Units: 1</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|6620777-cn</guid>
       <title>[Seattle] Construct mixed-use apartment building with below-grade parking  occupy per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6620777-CN</link>
@@ -3460,48 +3502,6 @@ Address: 1225 NE 96TH ST
 Contractor: 
 Valuation: 529066.0
 Units: 1</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7129179-cn</guid>
-      <title>[Seattle] Construct West two family dwelling  per plan (Establish use as single family residence  per land use code.  Construct (1) one family dwelling and (1) two family dwelling  per plan.  Review and processing for 2 records under 7119457-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7129179-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7129179-CN
-Issued: 2026-06-12
-Address: 1602 41ST AVE E
-Contractor: 
-Valuation: 470039.0
-Units: </description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7118558-cn</guid>
-      <title>[Seattle] Construct new south one family dwelling  per plan (Establish use as townhouse/multi-family with existing single family residence to remain per land use code. Construct new two family dwelling and new one family dwelling. Review and processing for 2 records under 7099169-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7118558-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7118558-CN
-Issued: 2026-06-12
-Address: 2724 NE 94TH ST
-Contractor: 
-Valuation: 256576.0
-Units: 3</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7110410-cn</guid>
-      <title>[Seattle] Construct two-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7110410-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7110410-CN
-Issued: 2026-06-12
-Address: 3543 B S BENNETT ST
-Contractor: 
-Valuation: 472618.0
-Units: 2</description>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
