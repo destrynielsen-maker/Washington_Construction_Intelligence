@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7136526-cn</guid>
+      <title>[Seattle] Establish use as office and warehouse (storage)  per land use code.  Construct new commercial building (Building A)  occupy per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7136526-CN</link>
+      <description>Category: COMMERCIAL
+Score: 40
+Permit: 7136526-CN
+Issued: 2026-11-19
+Address: 2805 W COMMODORE WAY
+Contractor: 
+Valuation: 2711178.0
+Units: </description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7139418-cn</guid>
       <title>[Seattle] Establish use as housing for two stacked dwelling units  per land use code. Construct new two-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7139418-CN</link>
@@ -3305,7 +3319,7 @@ Issued: 2026-09-04
 Address: 8621 17TH AVE NE
 Contractor: 
 Valuation: 561981.0
-Units: 4</description>
+Units: 1</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3488,20 +3502,6 @@ Address: 4873 24TH AVE S
 Contractor: 
 Valuation: 221758.0
 Units: </description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7124360-cn</guid>
-      <title>[Seattle] Construct middle single family dwelling  per plan. (Allow housing for two new detached dwelling units  per land use code. Construct two single family dwellings  per plan. Existing single family dwelling to remain. Review and processing for two records under 7124360-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7124360-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7124360-CN
-Issued: 2026-09-03
-Address: 1020 NE 94TH ST
-Contractor: 
-Valuation: 350225.0
-Units: 1</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
