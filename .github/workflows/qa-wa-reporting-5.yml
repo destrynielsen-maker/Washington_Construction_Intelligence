@@ -1,0 +1,31 @@
+name: Washington reporting snapshot QA
+on:
+  push:
+    branches: [scout/qa-wa-reporting-5]
+permissions:
+  contents: read
+
+jobs:
+  snapshot:
+    if: github.ref == 'refs/heads/scout/qa-wa-reporting-5'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          fetch-depth: 4
+          persist-credentials: false
+      - name: Validate exact draft and frozen permit snapshot without collection or publication
+        shell: bash
+        run: |
+          candidate=47182a7ec37c06e71b2f622bf2678eedad4a78e2
+          baseline=8e0697ed67bccc289f48c7e09274e5599982f904
+          test "$(git rev-parse HEAD~2)" = "$candidate"
+          test "$(git rev-parse "$candidate^")" = "$baseline"
+          test "$(git diff --name-only "$baseline" "$candidate")" = public/index.html
+          mkdir -p "$RUNNER_TEMP/baseline" "$RUNNER_TEMP/candidate"
+          git archive "$baseline" public | tar -x -C "$RUNNER_TEMP/baseline"
+          git archive "$candidate" public | tar -x -C "$RUNNER_TEMP/candidate"
+          printf '%s  %s\n' '4442ccb8e89dda7d104744964750dfc68844e090a70c345b312157b49cc82f53' "$RUNNER_TEMP/candidate/public/data/permits.json" | sha256sum -c
+          TZ=UTC node qa-reporting.mjs "$RUNNER_TEMP/baseline/public" "$RUNNER_TEMP/candidate/public"
+          test -z "$(git status --porcelain)"
