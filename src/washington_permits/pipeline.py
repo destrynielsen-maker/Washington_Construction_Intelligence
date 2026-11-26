@@ -7,6 +7,7 @@ from .collectors import COLLECTORS
 from .dashboard import write_public_data
 from .feeds import write_all_feeds
 from .models import Permit
+from .reporting import history_available, source_row, uncovered_rows
 from .storage import load_permits, save_permits
 
 def _site() -> str:
@@ -69,23 +70,27 @@ def _fail(collector, exc: Exception, prev: dict | None, existing: dict[str,Permi
 def run(root: Path) -> dict:
     now=datetime.now(timezone.utc).replace(microsecond=0); generated=now.isoformat()
     store=root/"data"/"permits.json"; public=root/"public"
-    existing=load_permits(store); previous=_previous(public/"data"/"sources.json"); statuses=[]; total=0
+    existing=load_permits(store); previous=_previous(public/"data"/"sources.json"); statuses=[]; reporting_rows=[]; total=0
+    baseline_known=history_available(store,existing)
     for collector in COLLECTORS:
         prev=previous.get(collector.name)
+        new_keys=set()
         try:
             result=collector.collect(); total+=len(result.permits); qualified=0
             for p in result.permits:
                 classify_permit(p); qualified+=int(p.qualifies)
                 old=existing.get(p.key)
+                if old is None and p.jurisdiction == collector.name: new_keys.add(p.key)
                 p.first_seen_at=old.first_seen_at if old and old.first_seen_at else generated
                 p.last_seen_at=generated; existing[p.key]=p
             statuses.append(_success(result,qualified,prev,generated,now.date(),getattr(collector,"freshness_days",30)))
         except Exception as exc:
             statuses.append(_fail(collector,exc,prev,existing,generated,now.date()))
+        reporting_rows.append(source_row(statuses[-1],prev,existing,new_keys,baseline_known,now.date()))
     permits=list(existing.values())
     for p in permits: classify_permit(p)
     save_permits(store,permits,generated)
-    write_public_data(public,permits,statuses,generated)
+    write_public_data(public,permits,statuses,generated,{"schema_version":1,"generated_at":generated,"sources":reporting_rows+uncovered_rows()})
     write_all_feeds(public/"feeds",permits,_site())
     return {"generated_at":generated,"total_collected_this_run":total,"total_stored":len(permits),
             "qualifying_stored":sum(int(p.qualifies) for p in permits),"sources":statuses}
