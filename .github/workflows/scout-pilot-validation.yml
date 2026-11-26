@@ -1,0 +1,31 @@
+name: Scout Kennewick validation (no deployment)
+on:
+  push:
+    branches: [scout/qa-wa-kennewick-3]
+permissions:
+  contents: read
+jobs:
+  validate:
+    if: github.ref == 'refs/heads/scout/qa-wa-kennewick-3' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies and verify PDF engine
+        run: |
+          pip install -r requirements.txt
+          sudo apt-get update -qq && sudo apt-get install -y --no-install-recommends poppler-utils; pdftotext -v
+      - name: Run repository tests
+        env:
+          PYTHONPATH: src
+        run: python -m unittest discover -s tests -v
+      - name: Run opt-in collector with real source and generated-output checks
+        env:
+          PYTHONPATH: src
+          WA_ENABLE_KENNEWICK: "1"
+        run: python scripts/scout_pilot_validate.py
