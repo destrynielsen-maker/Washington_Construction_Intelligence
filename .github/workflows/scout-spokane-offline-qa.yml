@@ -1,0 +1,84 @@
+name: Spokane County offline preview QA
+on:
+  push:
+    branches: [scout/qa-wa-spokane-county-4]
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    if: github.ref == 'refs/heads/scout/qa-wa-spokane-county-4'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: b05ab2db8b60460bc2a90acee03e852991c91704
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065
+        with:
+          python-version: '3.12'
+      - name: Install dependencies and verify Poppler
+        run: |
+          python -m pip install -r requirements.txt
+          if ! command -v pdfinfo || ! command -v pdftotext; then
+            sudo apt-get update && sudo apt-get install -y poppler-utils
+          fi
+          pdfinfo -v
+      - name: Run repository tests against exact draft
+        env:
+          PYTHONPATH: src
+        run: python -m unittest discover -s tests -v
+      - name: Exercise the real offline CLI with a synthetic PDF
+        env:
+          PYTHONPATH: src
+        shell: bash
+        run: |
+          test "$(git rev-parse HEAD)" = b05ab2db8b60460bc2a90acee03e852991c91704
+          fixture="$RUNNER_TEMP/spokane-fictional.pdf"
+          python - "$fixture" <<'PY'
+          import sys
+          from pathlib import Path
+          lines = [
+              "Spokane County SmartGov",
+              "Permits with Values over $100,000",
+              "From Issued Date: 11/23/2026 Thru 11/26/2026",
+              "",
+              "Permit #     Project Description           Issued       Site Address         Total Valuation",
+              "B2600001     SINGLE FAMILY DWELLING        11/24/2026    1 TEST WAY           $230,000.00",
+              "B2600002     REMODEL EXISTING DWELLING      11/24/2026    2 TEST WAY           $230,000.00",
+              "Page 1 of 1",
+          ]
+          stream = ("BT /F1 8 Tf 30 760 Td 14 TL " + " T* ".join(f"({line}) Tj" for line in lines) + " ET").encode()
+          objects = [
+              b"<< /Type /Catalog /Pages 2 0 R >>",
+              b"<< /Type /Pages /Kids [3 0 R] /Count 1 >>",
+              b"<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>",
+              b"<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>",
+              b"<< /Length " + str(len(stream)).encode() + b" >>\nstream\n" + stream + b"\nendstream",
+          ]
+          buffer=bytearray(b"%PDF-1.4\n")
+          offsets=[]
+          for number, obj in enumerate(objects,1):
+              offsets.append(len(buffer))
+              buffer.extend(f"{number} 0 obj\n".encode()+obj+b"\nendobj\n")
+          xref=len(buffer)
+          buffer.extend(f"xref\n0 {len(offsets)+1}\n0000000000 65535 f \n".encode())
+          buffer.extend("".join(f"{n:010d} 00000 n \n" for n in offsets).encode())
+          buffer.extend(f"trailer\n<< /Size {len(offsets)+1} /Root 1 0 R >>\nstartxref\n{xref}\n%%EOF\n".encode())
+          Path(sys.argv[1]).write_bytes(buffer)
+          PY
+          python -m washington_permits.collectors.spokane_county_preview 2026-11-23 2026-11-26 --pdf "$fixture" > "$RUNNER_TEMP/spokane.json"
+          python - "$RUNNER_TEMP/spokane.json" <<'PY'
+          import json,sys
+          from pathlib import Path
+          d=json.loads(Path(sys.argv[1]).read_text())
+          assert (d["observed_unique"],d["excluded"],len(d["permits"]))==(2,1,1)
+          assert d["permits"][0]["contractor"] is None
+          assert d["permits"][0]["jurisdiction"]=="Spokane County"
+          print("Offline CLI confirmed: 2 fictional rows, 1 eligible, no contractor.")
+          PY
+          if python -m washington_permits.collectors.spokane_county_preview 2026-11-23 2026-11-26 --fetch; then
+            echo 'Unexpectedly accepted fetch option'; exit 1
+          fi
+          test -z "$(git status --porcelain)"
