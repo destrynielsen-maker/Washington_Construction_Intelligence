@@ -45,7 +45,7 @@ def source_row(status: dict, previous: dict | None, retained: dict[str, Permit],
             valid.append(parsed)
     latest = max(valid, default=None)
     prev_success = (previous or {}).get("last_success_at")
-    availability = ("partial" if items else "unavailable") if failed else (
+    availability = "unavailable" if failed else (
         "partial" if status["status"] in {"degraded", "warning"} or (status["status"] == "no_data" and items)
         else "reachable"
     )
@@ -59,7 +59,7 @@ def source_row(status: dict, previous: dict | None, retained: dict[str, Permit],
         "latest_authoritative_date": latest.isoformat() if latest else None,
         "latest_date_kind": "issued" if latest else None,
         "source_age_days": (today-latest).days if latest else None,
-        "new_since_previous_success": len(issued_new_keys) if not failed and prev_success and baseline_known else None,
+        "new_since_previous_success": len(issued_new_keys) if not failed and status["status"] not in {"no_data", "degraded", "warning"} and prev_success and baseline_known else None,
         "retained_records": len(items) if items or baseline_known or not failed else None,
         "observed_records": None if failed else status.get("records_seen"),
         "availability": availability,
@@ -76,10 +76,10 @@ def uncovered_rows() -> list[dict]:
         ("eastern-wa", "Other Eastern Washington", "No published issued-permit collector, including Tri-Cities"),
     ]
     return [{
-        "id": key, "label": label, "mode": "uncovered", "coverage": coverage,
+        "id": key, "label": label, "mode": "manual" if key == "spokane-county" else "uncovered", "coverage": coverage,
         "last_attempt_at": None, "last_success_at": None,
         "latest_authoritative_date": None, "latest_date_kind": None, "source_age_days": None,
         "new_since_previous_success": None, "retained_records": None, "observed_records": None,
-        "availability": "not_attempted", "collection_outcome": "unknown", "freshness_status": "unknown",
+        "availability": "not_attempted", "collection_outcome": "manual_only" if key == "spokane-county" else "unknown", "freshness_status": "unknown",
         "date_provenance": None,
     } for key, label, coverage in regions]

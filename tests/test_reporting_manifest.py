@@ -42,7 +42,9 @@ class ManifestTest(unittest.TestCase):
                 self.assertEqual(payload["reporting_v1"]["schema_version"],1)
                 gaps=payload["reporting_v1"]["sources"][1:]
                 self.assertEqual(len(gaps),4)
-                self.assertTrue(all(r["mode"]=="uncovered" and r["retained_records"] is None for r in gaps))
+                self.assertTrue(all(r["retained_records"] is None and r["observed_records"] is None for r in gaps))
+                self.assertEqual([(r["mode"],r["collection_outcome"]) for r in gaps], [
+                    ("uncovered","unknown"),("manual","manual_only"),("uncovered","unknown"),("uncovered","unknown")])
                 return payload["reporting_v1"]["sources"][0]
             raw[:] = [RuntimeError("fixture failure")]
             run(root)
@@ -68,7 +70,7 @@ class ManifestTest(unittest.TestCase):
             failed=read()
             self.assertEqual(failed["last_success_at"], second["last_success_at"])
             self.assertNotEqual(failed["last_attempt_at"],second["last_attempt_at"])
-            self.assertEqual((failed["availability"],failed["collection_outcome"]),("partial","error"))
+            self.assertEqual((failed["availability"],failed["collection_outcome"]),("unavailable","error"))
             self.assertEqual(failed["retained_records"],2)
             self.assertIsNone(failed["new_since_previous_success"])
             self.assertIsNone(failed["observed_records"])
@@ -80,6 +82,6 @@ class ManifestTest(unittest.TestCase):
             raw[:] = []
             run(root)
             empty=read()
-            self.assertEqual((empty["collection_outcome"],empty["observed_records"],empty["retained_records"],empty["new_since_previous_success"]),("no_data",0,3,0))
+            self.assertEqual((empty["collection_outcome"],empty["observed_records"],empty["retained_records"],empty["new_since_previous_success"]),("no_data",0,3,None))
             self.assertEqual(empty["date_provenance"],"retained")
             self.assertEqual(next(p for p in json.loads((root/"data/permits.json").read_bytes())["permits"] if p["permit_number"]=="A")["first_seen_at"],first)
