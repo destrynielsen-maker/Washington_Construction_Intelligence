@@ -33,20 +33,6 @@ Units: 1</description>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WA|seattle|7148722-cn</guid>
-      <title>[Seattle] Construct new one-family dwelling (NE DU#1)  per plan. (Establish use as housing for two attached dwelling units and three detached dwelling unit  per land use code. Construct (3) new one-family dwellings and (1) new two-family dwelling  per plan. Review and processing for four records under 7148722-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7148722-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7148722-CN
-Issued: 2026-11-24
-Address: 9717 12TH AVE NW
-Contractor: 
-Valuation: 389460.0
-Units: 1</description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WA|seattle|7156567-cn</guid>
       <title>[Seattle] Construct new one-family dwelling (SE DU#2)  per plan. (Establish use as housing for two attached dwelling units and three detached dwelling unit  per land use code. Construct (3) new one-family dwellings and (1) new two-family dwelling  per plan. Review and processing for four records under 7148722-CN)</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7156567-CN</link>
@@ -55,6 +41,20 @@ Score: 40
 Permit: 7156567-CN
 Issued: 2026-11-24
 Address: 9711 12TH AVE NW
+Contractor: 
+Valuation: 389460.0
+Units: 1</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7148722-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (NE DU#1)  per plan. (Establish use as housing for two attached dwelling units and three detached dwelling unit  per land use code. Construct (3) new one-family dwellings and (1) new two-family dwelling  per plan. Review and processing for four records under 7148722-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7148722-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7148722-CN
+Issued: 2026-11-24
+Address: 9717 12TH AVE NW
 Contractor: 
 Valuation: 389460.0
 Units: 1</description>
