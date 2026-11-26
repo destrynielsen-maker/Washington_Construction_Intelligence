@@ -1,0 +1,33 @@
+name: Washington final reporting parity QA
+on:
+  push:
+    branches: [scout/qa-wa-reporting-v1-final-5]
+permissions:
+  contents: read
+jobs:
+  parity:
+    if: github.ref == 'refs/heads/scout/qa-wa-reporting-v1-final-5'
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          fetch-depth: 5
+          persist-credentials: false
+      - name: Verify exact reporting draft; replay frozen production snapshot without calling a source
+        shell: bash
+        run: |
+          candidate=fd4ead1efab3e14af670a7084b91c2269284e572
+          baseline=8e0697ed67bccc289f48c7e09274e5599982f904
+          test "$(git rev-parse HEAD^)" = "$candidate"
+          test "$(git rev-parse "$candidate~3")" = "$baseline"
+          diff -u <(printf '%s\n' public/index.html src/washington_permits/dashboard.py src/washington_permits/pipeline.py src/washington_permits/reporting.py tests/test_reporting_manifest.py) <(git diff --name-only "$baseline" "$candidate")
+          mkdir -p "$RUNNER_TEMP/base" "$RUNNER_TEMP/draft"
+          git archive "$baseline" | tar -x -C "$RUNNER_TEMP/base"
+          git archive "$candidate" | tar -x -C "$RUNNER_TEMP/draft"
+          printf '%s  %s\n' '4442ccb8e89dda7d104744964750dfc68844e090a70c345b312157b49cc82f53' "$RUNNER_TEMP/draft/public/data/permits.json" | sha256sum -c
+          if ! python3 -c 'import requests'; then python3 -m pip install -r "$RUNNER_TEMP/draft/requirements.txt"; fi
+          PYTHONPATH="$RUNNER_TEMP/draft/src" python3 -m unittest discover -s "$RUNNER_TEMP/draft/tests" -v
+          SITE_BASE_URL=https://destrynielsen-maker.github.io/Washington_Construction_Intelligence python3 qa/wa-reporting/frozen_proof.py "$RUNNER_TEMP/base" "$RUNNER_TEMP/draft"
+          TZ=UTC node qa/wa-reporting/test_pagination.mjs "$RUNNER_TEMP/base/public" "$RUNNER_TEMP/draft/public"
+          test -z "$(git status --porcelain)"
