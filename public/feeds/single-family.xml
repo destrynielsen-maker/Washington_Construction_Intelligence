@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7151776-cn</guid>
+      <title>[Seattle] Allow housing for new detached dwelling unit  per land use code. Existing detached dwelling to remain. Construct new one-family dwelling  per plan.</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7151776-CN</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 7151776-CN
+Issued: 2026-11-23
+Address: 11732 22ND AVE NE
+Contractor: 
+Valuation: 240189.0
+Units: 1</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7172466-cn</guid>
       <title>[Seattle] Demolish existing detached garage and construct a new garage  per STFI</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7172466-CN</link>
@@ -3488,20 +3502,6 @@ Address: 9601 B 12TH AVE NW
 Contractor: 
 Valuation: 230765.0
 Units: </description>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7125199-cn</guid>
-      <title>[Seattle] Construct new southeast one family dwelling (SFR 4)  per plan. (Establish use as single family residences per land use code.  Construct (4) new one family dwellings  per plan. Review and processing for four records under 7121097-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7125199-CN</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 7125199-CN
-Issued: 2026-07-15
-Address: 4120 49TH AVE S
-Contractor: 
-Valuation: 367855.0
-Units: 1</description>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

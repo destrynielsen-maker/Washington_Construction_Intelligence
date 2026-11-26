@@ -5,6 +5,62 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7156573-cn</guid>
+      <title>[Seattle] Construct new two-family dwelling (SW DU#4)  per plan. (Establish use as housing for two attached dwelling units and three detached dwelling unit  per land use code. Construct (3) new one-family dwellings and (1) new two-family dwelling  per plan. Review and processing for four records under 7148722-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7156573-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7156573-CN
+Issued: 2026-11-24
+Address: 9713 12TH AVE NW
+Contractor: 
+Valuation: 505509.0
+Units: 1</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7156569-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (NW DU#3)  per plan. (Establish use as housing for two attached dwelling units and three detached dwelling unit  per land use code. Construct (3) new one-family dwellings and (1) new two-family dwelling  per plan. Review and processing for four records under 7148722-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7156569-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7156569-CN
+Issued: 2026-11-24
+Address: 9715 12TH AVE NW
+Contractor: 
+Valuation: 505509.0
+Units: 1</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7148722-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (NE DU#1)  per plan. (Establish use as housing for two attached dwelling units and three detached dwelling unit  per land use code. Construct (3) new one-family dwellings and (1) new two-family dwelling  per plan. Review and processing for four records under 7148722-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7148722-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7148722-CN
+Issued: 2026-11-24
+Address: 9717 12TH AVE NW
+Contractor: 
+Valuation: 389460.0
+Units: 1</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7156567-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (SE DU#2)  per plan. (Establish use as housing for two attached dwelling units and three detached dwelling unit  per land use code. Construct (3) new one-family dwellings and (1) new two-family dwelling  per plan. Review and processing for four records under 7148722-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7156567-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7156567-CN
+Issued: 2026-11-24
+Address: 9711 12TH AVE NW
+Contractor: 
+Valuation: 389460.0
+Units: 1</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7139418-cn</guid>
       <title>[Seattle] Establish use as housing for two stacked dwelling units  per land use code. Construct new two-family dwelling  per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7139418-CN</link>
@@ -3447,62 +3503,6 @@ Contractor:
 Valuation: 421166.0
 Units: 2</description>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7130636-cn</guid>
-      <title>[Seattle] Construct east one-family dwelling  per plan. (Establish use as townhouse and one-family dwelling  per Land Use code. Construct (1) two-family dwelling and (1) one-family dwelling. Review and process for two record numbers under 7130636-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7130636-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7130636-CN
-Issued: 2026-06-15
-Address: 4207 42ND AVE S
-Contractor: 
-Valuation: 223005.0
-Units: 1</description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7119457-cn</guid>
-      <title>[Seattle] Construct East one family dwelling  per plan (Establish use as single family residence  per land use code.  Construct (1) one family dwelling and (1) two family dwelling  per plan.  Review and processing for 2 records under 7119457-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7119457-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7119457-CN
-Issued: 2026-06-12
-Address: 1604 A 41ST AVE E
-Contractor: 
-Valuation: 854951.0
-Units: 3</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7024529-cn</guid>
-      <title>[Seattle] Construct south two-family dwelling  per plan. (Establish use as single family residence with attached and detached accessory dwelling units per land use code. Construct one- and two-family dwellings  per plan. Review and processing for two records under 7024529-CN)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7024529-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7024529-CN
-Issued: 2026-06-12
-Address: 10054 BEACON AVE S
-Contractor: 
-Valuation: 774918.0
-Units: 2</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|6846056-cn</guid>
-      <title>[Seattle] Establish principal dwelling unit and attached accessory dwelling unit (AADU)  per plan. Construct new two-family dwelling  per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=6846056-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 6846056-CN
-Issued: 2026-06-12
-Address: 1225 NE 96TH ST
-Contractor: 
-Valuation: 529066.0
-Units: 1</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

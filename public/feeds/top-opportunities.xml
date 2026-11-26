@@ -5,6 +5,62 @@
     <link>https://destrynielsen-maker.github.io/Washington_Construction_Intelligence/</link>
     <description>Washington new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">WA|seattle|7156573-cn</guid>
+      <title>[Seattle] Construct new two-family dwelling (SW DU#4)  per plan. (Establish use as housing for two attached dwelling units and three detached dwelling unit  per land use code. Construct (3) new one-family dwellings and (1) new two-family dwelling  per plan. Review and processing for four records under 7148722-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7156573-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7156573-CN
+Issued: 2026-11-24
+Address: 9713 12TH AVE NW
+Contractor: 
+Valuation: 505509.0
+Units: 1</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7156569-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (NW DU#3)  per plan. (Establish use as housing for two attached dwelling units and three detached dwelling unit  per land use code. Construct (3) new one-family dwellings and (1) new two-family dwelling  per plan. Review and processing for four records under 7148722-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7156569-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 45
+Permit: 7156569-CN
+Issued: 2026-11-24
+Address: 9715 12TH AVE NW
+Contractor: 
+Valuation: 505509.0
+Units: 1</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7148722-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (NE DU#1)  per plan. (Establish use as housing for two attached dwelling units and three detached dwelling unit  per land use code. Construct (3) new one-family dwellings and (1) new two-family dwelling  per plan. Review and processing for four records under 7148722-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7148722-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7148722-CN
+Issued: 2026-11-24
+Address: 9717 12TH AVE NW
+Contractor: 
+Valuation: 389460.0
+Units: 1</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WA|seattle|7156567-cn</guid>
+      <title>[Seattle] Construct new one-family dwelling (SE DU#2)  per plan. (Establish use as housing for two attached dwelling units and three detached dwelling unit  per land use code. Construct (3) new one-family dwellings and (1) new two-family dwelling  per plan. Review and processing for four records under 7148722-CN)</title>
+      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7156567-CN</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 7156567-CN
+Issued: 2026-11-24
+Address: 9711 12TH AVE NW
+Contractor: 
+Valuation: 389460.0
+Units: 1</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">WA|seattle|7136526-cn</guid>
       <title>[Seattle] Establish use as office and warehouse (storage)  per land use code.  Construct new commercial building (Building A)  occupy per plan.</title>
       <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7136526-CN</link>
@@ -3446,62 +3502,6 @@ Address: 8321 14TH AVE NW
 Contractor: 
 Valuation: 845400.0
 Units: 2</description>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7041201-cn</guid>
-      <title>[Seattle] Construct west building  per plans (Establish use as townhouses per the land use code. Construct two multi-family buildings  occupy per plan. Reviews and processing for two -CN's under 7041201)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7041201-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7041201-CN
-Issued: 2026-06-16
-Address: 8324 MARY AVE NW
-Contractor: 
-Valuation: 800691.0
-Units: 3</description>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7033583-cn</guid>
-      <title>[Seattle] Construct new west townhouse  per plan. (Establish use as two rowhouses and one duplex  per land use code. Construct two new townhouse buildings and one two-family dwelling  per plan. Review and processing for three records under 7033583)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7033583-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 45
-Permit: 7033583-CN
-Issued: 2026-06-16
-Address: 8321 14TH AVE NW
-Contractor: 
-Valuation: 659669.0
-Units: 3</description>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7049102-cn</guid>
-      <title>[Seattle] Construct new two-family dwelling  per plan. (Establish use as two rowhouses and one duplex  per land use code. Construct two new townhouse buildings and one two-family dwelling  per plan. Review and processing for three records under 7033583)</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7049102-CN</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 7049102-CN
-Issued: 2026-06-16
-Address: 8321 14TH AVE NW
-Contractor: 
-Valuation: 455687.0
-Units: 4</description>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WA|seattle|7086421-cn</guid>
-      <title>[Seattle] Construct new boat shed at NW end of property  occupy per plan.</title>
-      <link>https://services.seattle.gov/portal/customize/LinkToRecord.aspx?altId=7086421-CN</link>
-      <description>Category: COMMERCIAL
-Score: 30
-Permit: 7086421-CN
-Issued: 2026-06-16
-Address: 4025 13TH AVE W
-Contractor: 
-Valuation: 320220.0
-Units: </description>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
