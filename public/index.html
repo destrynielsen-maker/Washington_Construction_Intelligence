@@ -11,22 +11,22 @@ input,select,button{width:100%;padding:9px 10px;border:1px solid #cfd6e2;border-
 .feeds{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}.feeds a{text-decoration:none;border:1px solid #cfd6e2;border-radius:999px;padding:7px 11px;color:#172033}
 .health-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;margin-top:10px}.health-item{border:1px solid #e1e6ef;border-radius:10px;padding:11px;background:#fbfcfe}.health-item .meta{font-size:12px;color:#667085;line-height:1.45;margin-top:4px}
 .source-healthy{font-weight:700;color:#067647}.source-stale,.source-warning,.source-degraded{font-weight:700;color:#b54708}.source-error,.source-no_data{font-weight:700;color:#b42318}
-.table-wrap{overflow-x:auto}table{width:100%;border-collapse:collapse;font-size:13px}th{padding:0;color:#667085;border-bottom:1px solid #dfe5ee;text-align:left}th button{border:0;border-radius:0;background:transparent;text-align:left;padding:10px 8px;white-space:nowrap}td{padding:10px 8px;border-bottom:1px solid #edf0f5;vertical-align:top}.badge{display:inline-block;padding:3px 7px;border-radius:999px;background:#eef2f7;font-size:11px;font-weight:600}.nowrap{white-space:nowrap}a{color:#175cd3}
+.report-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap}.report-actions button{width:auto}.table-wrap{overflow-x:auto}table{width:100%;border-collapse:collapse;font-size:13px}th{padding:0;color:#667085;border-bottom:1px solid #dfe5ee;text-align:left}th button{border:0;border-radius:0;background:transparent;text-align:left;padding:10px 8px;white-space:nowrap}td{padding:10px 8px;border-bottom:1px solid #edf0f5;vertical-align:top}.badge{display:inline-block;padding:3px 7px;border-radius:999px;background:#eef2f7;font-size:11px;font-weight:600}.nowrap{white-space:nowrap}a{color:#175cd3}
 @media(max-width:1000px){.cards{grid-template-columns:repeat(2,1fr)}.filters,.advanced{grid-template-columns:1fr 1fr}}@media(max-width:560px){.cards,.filters,.advanced{grid-template-columns:1fr}main{padding:12px}}
 </style></head>
 <body><header><h1>Washington Construction Intelligence</h1><p>New single-family, multifamily and commercial building-permit leads</p></header><main>
 <section class="cards"><div class="card"><div class="label">Qualifying permits</div><div class="value" id="total">—</div></div><div class="card"><div class="label">Single family</div><div class="value" id="single">—</div></div><div class="card"><div class="label">Multifamily</div><div class="value" id="multi">—</div></div><div class="card"><div class="label">Commercial</div><div class="value" id="commercial">—</div></div><div class="card"><div class="label">Known valuation</div><div class="value" id="valuation">—</div></div></section>
-<section class="panel"><strong>Source coverage</strong><div class="muted" id="coverage">Loading…</div><div class="health-grid" id="sourceCards"></div></section>
+<section class="panel"><strong>Source coverage</strong><p><strong>Seattle only.</strong> This dashboard and its feeds do not cover Spokane or Eastern Washington. Missing local rows do not mean no permits were issued.</p><div class="muted" id="coverage">Loading…</div><div class="health-grid" id="sourceCards"></div></section>
 <section class="panel"><strong>RSS feeds</strong><div class="feeds"><a href="feeds/new-construction.xml">All new construction</a><a href="feeds/multifamily.xml">Multifamily</a><a href="feeds/single-family.xml">Single family</a><a href="feeds/commercial.xml">Commercial</a><a href="feeds/top-opportunities.xml">Top opportunities</a></div></section>
 <section class="panel"><div class="filters">
-<input id="search" placeholder="Search project, address, builder, permit, type, jurisdiction…">
+<input id="search" placeholder="Search project, address, contractor, permit, type, jurisdiction…">
 <select id="classification"><option value="">All types</option><option>MULTIFAMILY</option><option>SINGLE_FAMILY</option><option>COMMERCIAL</option></select>
 <select id="jurisdiction"><option value="">All jurisdictions</option></select>
 <select id="days"><option value="0">All dates</option><option value="7">Last 7 days</option><option value="30" selected>Last 30 days</option><option value="90">Last 90 days</option><option value="365">Last year</option></select>
 <select id="minScore"><option value="0">Any score</option><option value="20">Score 20+</option><option value="30" selected>Score 30+</option><option value="40">Score 40+</option><option value="50">Score 50+</option></select>
 </div><div class="advanced"><input id="issuedFrom" type="date" aria-label="Issued from"><input id="issuedTo" type="date" aria-label="Issued to"><input id="maxScore" type="number" placeholder="Max score"><input id="minUnits" type="number" placeholder="Min units"><input id="minValuation" type="number" placeholder="Min valuation $"><input id="maxValuation" type="number" placeholder="Max valuation $"><button id="reset">Reset filters</button></div></section>
-<section class="panel"><div style="display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap;margin-bottom:8px"><div><strong>Construction opportunities</strong><div class="muted" id="updated"></div></div><div class="muted" id="count"></div></div><div class="table-wrap"><table><thead><tr>
-<th><button data-sort="score">Score <span></span></button></th><th><button data-sort="issued">Issued <span></span></button></th><th><button data-sort="type">Type <span></span></button></th><th><button data-sort="jurisdiction">Jurisdiction <span></span></button></th><th><button data-sort="project">Project / Address <span></span></button></th><th><button data-sort="contractor">Builder / GC <span></span></button></th><th><button data-sort="units">Units <span></span></button></th><th><button data-sort="valuation">Valuation <span></span></button></th><th><button data-sort="permit">Permit <span></span></button></th>
+<section class="panel"><div style="display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap;margin-bottom:8px"><div><strong>Construction opportunities</strong><div class="muted" id="updated"></div></div><div class="report-actions"><div class="muted" id="count" role="status"></div><button type="button" id="exportCsv" disabled>Download matching permits (CSV)</button></div></div><div class="table-wrap"><table><thead><tr>
+<th><button data-sort="score">Score <span></span></button></th><th><button data-sort="issued">Issued <span></span></button></th><th><button data-sort="type">Type <span></span></button></th><th><button data-sort="jurisdiction">Jurisdiction <span></span></button></th><th><button data-sort="project">Project / Address <span></span></button></th><th><button data-sort="contractor">Reported contractor <span></span></button></th><th><button data-sort="units">Units <span></span></button></th><th><button data-sort="valuation">Valuation <span></span></button></th><th><button data-sort="permit">Permit <span></span></button></th>
 </tr></thead><tbody id="rows"></tbody></table></div></section>
 <section class="panel"><strong>Source health details</strong><div id="sources" style="margin-top:8px"></div></section>
 </main><script>
@@ -37,11 +37,40 @@ const num=v=>v===null||v===undefined||v===''?null:Number(v);
 const cutoff=d=>{if(!d)return null;const x=new Date();x.setDate(x.getDate()-d);return x.toISOString().slice(0,10)};
 function sv(p,k){if(k==='score')return num(p.score);if(k==='issued')return p.issued_date||null;if(k==='type')return `${p.classification||''} ${p.permit_type||''}`.toLowerCase();if(k==='jurisdiction')return(p.jurisdiction||'').toLowerCase();if(k==='project')return `${p.project_name||''} ${p.address||''}`.toLowerCase();if(k==='contractor')return(p.contractor||'').toLowerCase();if(k==='units')return num(p.units);if(k==='valuation')return num(p.valuation);return(p.permit_number||'').toLowerCase()}
 function cmp(a,b){let x=sv(a,sort.key),y=sv(b,sort.key);if(x==null&&y==null)return 0;if(x==null)return 1;if(y==null)return-1;let r=(typeof x==='number'&&typeof y==='number')?x-y:String(x).localeCompare(String(y),undefined,{numeric:true,sensitivity:'base'});return sort.dir==='asc'?r:-r}
+const ROW_LIMIT=1500;
+const exportButton=document.getElementById('exportCsv');
+let matchingPermits=[];
+const csvFields=[
+ ['Score','score'],['Issued date','issued_date'],['Classification','classification'],
+ ['Permit type','permit_type'],['Jurisdiction','jurisdiction'],['Project','project_name'],
+ ['Address','address'],['Source-reported contractor','contractor'],['Units','units'],
+ ['Valuation (USD)','valuation'],['Permit number','permit_number'],['Source URL','source_url']
+];
+function csvCell(value){
+ let text=String(value??'');
+ // Quote every field, and force potentially executable spreadsheet text to stay text.
+ if(typeof value!=='number'&&(/^[\s\u0000-\u001f\u007f-\u009f\u200b-\u200f\u202a-\u202e\u2060\ufeff]*[=+@-]/u.test(text)||/^[\t\r\n]/.test(text)))text="'"+text;
+ return '"'+text.replace(/"/g,'""')+'"';
+}
+function permitsCsv(list){
+ return '\ufeff'+[csvFields.map(([label])=>csvCell(label)).join(','),...list.map(p=>csvFields.map(([,key])=>csvCell(p[key])).join(','))].join('\r\n')+'\r\n';
+}
+exportButton.addEventListener('click',()=>{
+ if(!matchingPermits.length)return;
+ const url=URL.createObjectURL(new Blob([permitsCsv(matchingPermits)],{type:'text/csv;charset=utf-8'}));
+ const link=document.createElement('a');
+ link.href=url;link.download='washington-matching-permits.csv';
+ document.body.appendChild(link);link.click();link.remove();
+ setTimeout(()=>URL.revokeObjectURL(url),1000);
+});
 function render(){
  const q=search.value.trim().toLowerCase(),cls=classification.value,jur=jurisdiction.value,c=Number(days.value),minS=Number(minScore.value),maxS=maxScore.value===''?null:Number(maxScore.value),from=issuedFrom.value,to=issuedTo.value,minU=minUnits.value===''?null:Number(minUnits.value),minV=minValuation.value===''?null:Number(minValuation.value),maxV=maxValuation.value===''?null:Number(maxValuation.value),dc=cutoff(c);
  const arr=permits.filter(p=>{const hay=[p.address,p.contractor,p.project_name,p.permit_number,p.permit_type,p.classification,p.jurisdiction,p.building_use].join(' ').toLowerCase(),i=p.issued_date||'',s=Number(p.score||0),u=num(p.units),v=num(p.valuation);return(!q||hay.includes(q))&&(!cls||p.classification===cls)&&(!jur||p.jurisdiction===jur)&&(!dc||i>=dc)&&(!from||i>=from)&&(!to||i<=to)&&s>=minS&&(maxS==null||s<=maxS)&&(minU==null||(u!=null&&u>=minU))&&(minV==null||(v!=null&&v>=minV))&&(maxV==null||(v!=null&&v<=maxV))}).sort(cmp);
- count.textContent=`${arr.length.toLocaleString()} matching permits`;
- rows.innerHTML=arr.slice(0,1500).map(p=>`<tr><td class="nowrap"><strong>${p.score}</strong></td><td class="nowrap">${esc(p.issued_date)}</td><td><span class="badge">${esc((p.classification||'').replace('_',' '))}</span><br><span class="muted">${esc(p.permit_type)}</span></td><td>${esc(p.jurisdiction)}</td><td>${p.project_name?`<strong>${esc(p.project_name)}</strong><br>`:''}${esc(p.address||'—')}</td><td>${esc(p.contractor||'—')}</td><td class="nowrap">${p.units??'—'}</td><td class="nowrap">${money(p.valuation)}</td><td><a href="${esc(p.source_url)}" target="_blank" rel="noopener">${esc(p.permit_number)}</a></td></tr>`).join('');
+ matchingPermits=arr;
+ exportButton.disabled=!arr.length;
+ const shown=Math.min(arr.length,ROW_LIMIT);
+ count.textContent=`${arr.length.toLocaleString()} matching · ${shown.toLocaleString()} shown`+(shown<arr.length?' (CSV includes all matches)':'');
+ rows.innerHTML=arr.slice(0,ROW_LIMIT).map(p=>`<tr><td class="nowrap"><strong>${p.score}</strong></td><td class="nowrap">${esc(p.issued_date)}</td><td><span class="badge">${esc((p.classification||'').replace('_',' '))}</span><br><span class="muted">${esc(p.permit_type)}</span></td><td>${esc(p.jurisdiction)}</td><td>${p.project_name?`<strong>${esc(p.project_name)}</strong><br>`:''}${esc(p.address||'—')}</td><td>${esc(p.contractor||'—')}</td><td class="nowrap">${p.units??'—'}</td><td class="nowrap">${money(p.valuation)}</td><td><a href="${esc(p.source_url)}" target="_blank" rel="noopener">${esc(p.permit_number)}</a></td></tr>`).join('');
  document.querySelectorAll('th button').forEach(b=>b.querySelector('span').textContent=b.dataset.sort===sort.key?(sort.dir==='asc'?'▲':'▼'):'');
 }
 async function boot(){
