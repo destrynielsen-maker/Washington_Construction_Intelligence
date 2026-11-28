@@ -1,0 +1,69 @@
+name: Kennewick production collector check (no deployment)
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'src/washington_permits/**'
+      - 'tests/test_kennewick.py'
+      - '.github/workflows/kennewick-production-check.yml'
+permissions:
+  contents: read
+jobs:
+  source:
+    if: github.head_ref == 'independent/kennewick-production'
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: command -v pdftotext || (sudo apt-get update -qq && sudo apt-get install -y poppler-utils)
+      - name: Existing tests
+        env:
+          PYTHONPATH: src
+        run: python -m unittest discover -s tests -v
+      - name: Collect official rolling PDF and replay without publication
+        env:
+          PYTHONPATH: src
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from tempfile import TemporaryDirectory
+          from unittest.mock import patch
+          import shutil,json
+          from washington_permits import pipeline
+          from washington_permits.collectors.kennewick import KennewickCollector
+          from washington_permits.storage import load_permits
+          from washington_permits.models import Permit
+          from washington_permits.classify import classify_permit
+          c=KennewickCollector()
+          observed=c.collect()
+          assert observed.observed_count>0 and observed.observed_dates
+          assert all(classify_permit(p).qualifies for p in observed.permits)
+          assert len({p.key for p in observed.permits})==len(observed.permits)
+          with TemporaryDirectory() as tmp:
+              root=Path(tmp)
+              shutil.copytree('data',root/'data')
+              shutil.copytree('public',root/'public')
+              old=load_permits(root/'data/permits.json')
+              def pub():
+                  x=json.loads((root/'public/data/permits.json').read_text())
+                  return {Permit.from_dict(r).key for r in (x if isinstance(x,list) else x['permits'])}
+              prior=pub()
+              with patch.object(pipeline,'COLLECTORS',[c]),patch.object(c,'collect',return_value=observed):
+                  pipeline.run(root)
+                  after=load_permits(root/'data/permits.json')
+                  newpub=pub()
+                  pipeline.run(root)
+                  again=load_permits(root/'data/permits.json')
+              new={p.key for p in observed.permits}-set(old)
+              assert set(after)==set(old)|new
+              assert all(old[k].to_dict()==after[k].to_dict() for k in old)
+              assert newpub==prior|new
+              assert {k:p.to_dict() for k,p in after.items()}=={k:p.to_dict() for k,p in again.items()}
+              print(json.dumps({'observed':observed.observed_count,'qualifying':len(observed.permits),'latest':max(observed.observed_dates),'history_before':len(old),'history_after':len(after),'published_before':len(prior),'published_after':len(newpub),'new':len(new),'note':observed.note,'production_writes':0}))
+          PY
