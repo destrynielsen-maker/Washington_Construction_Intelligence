@@ -131,3 +131,32 @@ class IssuedReportTests(unittest.TestCase):
         with self.assertRaisesRegex(RuntimeError, 'HTTP 403'):
             collect_reports(YakimaCountyCollector(), session, date(2026, 11, 27))
         session.get.assert_called_once()
+
+    def test_moses_archive_redirect_keeps_the_exact_document_identity(self):
+        archive_url = 'https://moseslakewa.gov/Archive.aspx?ADID=1585'
+        canonical = '/ArchiveCenter/ViewFile/Item/1585'
+        session = MagicMock()
+        redirect, pdf = MagicMock(), MagicMock()
+        redirect.__enter__.return_value = redirect
+        pdf.__enter__.return_value = pdf
+        redirect.status_code = 302
+        redirect.headers = {'Location': canonical}
+        pdf.status_code = 200
+        pdf.iter_content.return_value = [b'%PDF-test']
+        session.get.side_effect = [redirect, pdf]
+        self.assertEqual(_download(session, archive_url, 1024), b'%PDF-test')
+        self.assertEqual(session.get.call_args.args[0], 'https://moseslakewa.gov' + canonical)
+
+        for location in (
+                '/ArchiveCenter/ViewFile/Item/1584',
+                canonical + '?download=1',
+                'https://other.invalid' + canonical,
+                'http://moseslakewa.gov' + canonical,
+        ):
+            with self.subTest(location=location):
+                redirect.headers = {'Location': location}
+                session.get.reset_mock(side_effect=True)
+                session.get.return_value = redirect
+                with self.assertRaisesRegex(RuntimeError, 'HTTP 302'):
+                    _download(session, archive_url, 1024)
+                session.get.assert_called_once()

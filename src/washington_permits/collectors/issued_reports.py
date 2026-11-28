@@ -63,16 +63,28 @@ def latest_reports(links: list[ReportLink], count: int) -> list[ReportLink]:
     return reports
 
 
+def _is_canonical_report_redirect(origin, target) -> bool:
+    if target.scheme != 'https' or target.netloc != origin.netloc or target.fragment:
+        return False
+
+    if re.fullmatch(r'/DocumentCenter/View/\d+', origin.path, re.I):
+        return target.query in ('', 'bidId=') and bool(
+            re.fullmatch(re.escape(origin.path) + r'/[A-Za-z0-9-]+', target.path, re.I))
+
+    if origin.path.casefold() == '/archive.aspx':
+        archive_id = re.fullmatch(r'ADID=(\d+)', origin.query, re.I)
+        return bool(archive_id and not target.query
+                    and target.path.casefold() == f'/archivecenter/viewfile/item/{archive_id[1]}')
+
+    return False
+
+
 def _download(session, url: str, limit: int) -> bytes:
     with session.get(url, timeout=(5, 25), stream=True, allow_redirects=False) as response:
         if response.status_code in (301, 302, 307, 308):
             origin = urlsplit(url)
             canonical_url = urljoin(url, response.headers.get('Location', ''))
-            target = urlsplit(canonical_url)
-            if (re.fullmatch(r'/DocumentCenter/View/\d+', origin.path, re.I)
-                    and target.scheme == 'https' and target.netloc == origin.netloc and not target.fragment
-                    and target.query in ('', 'bidId=')
-                    and re.fullmatch(re.escape(origin.path) + r'/[A-Za-z0-9-]+', target.path, re.I)):
+            if _is_canonical_report_redirect(origin, urlsplit(canonical_url)):
                 return _download(session, canonical_url, limit)
         if response.status_code != 200:
             raise RuntimeError(f'official report request returned HTTP {response.status_code}')
