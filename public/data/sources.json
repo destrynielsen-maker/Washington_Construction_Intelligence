@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T06:22:11+00:00",
+  "generated_at": "2026-11-28T06:49:54+00:00",
   "sources": [
     {
       "source": "Seattle",
@@ -15,8 +15,8 @@
       "freshness_threshold_days": 10,
       "previous_records_seen": 2124,
       "record_count_change_pct": 0.0,
-      "last_attempt_at": "2026-11-28T06:22:11+00:00",
-      "last_success_at": "2026-11-28T06:22:11+00:00",
+      "last_attempt_at": "2026-11-28T06:49:54+00:00",
+      "last_success_at": "2026-11-28T06:49:54+00:00",
       "cached_data_available": true,
       "source_url": "https://data.seattle.gov/Permitting/Issued-Building-Permits/8tqq-u7ib",
       "note": "Official City of Seattle SDCI Issued Building Permits open-data feed"
@@ -35,8 +35,8 @@
       "freshness_threshold_days": 14,
       "previous_records_seen": 55,
       "record_count_change_pct": 0.0,
-      "last_attempt_at": "2026-11-28T06:22:11+00:00",
-      "last_success_at": "2026-11-28T06:22:11+00:00",
+      "last_attempt_at": "2026-11-28T06:49:54+00:00",
+      "last_success_at": "2026-11-28T06:49:54+00:00",
       "cached_data_available": true,
       "source_url": "https://www.go2kennewick.com/Archive/37",
       "note": "Official rolling report 2026-11-16 to 2026-11-22; inspected 55 report rows; rolling source link changes weekly; exact allowlisted work classes only; reported contractor not independently verified."
@@ -55,8 +55,8 @@
       "freshness_threshold_days": 14,
       "previous_records_seen": 11,
       "record_count_change_pct": null,
-      "last_attempt_at": "2026-11-28T06:22:11+00:00",
-      "last_success_at": "2026-11-28T06:22:11+00:00",
+      "last_attempt_at": "2026-11-28T06:49:54+00:00",
+      "last_success_at": "2026-11-28T06:49:54+00:00",
       "cached_data_available": true,
       "source_url": "https://www.yakimacounty.us/1882/Permits-Issued---Building-and-Manufactur",
       "note": "4 published reports through 2026-11-20. Dated permit IDs: 11. Eligible leads: 1. County-issued primary buildings with explicit new work only. Final occupancy and applications are excluded."
@@ -73,10 +73,10 @@
       "oldest_permit_date": "2026-09-01",
       "days_since_newest_permit": 29,
       "freshness_threshold_days": 45,
-      "previous_records_seen": 0,
-      "record_count_change_pct": null,
-      "last_attempt_at": "2026-11-28T06:22:11+00:00",
-      "last_success_at": "2026-11-28T06:22:11+00:00",
+      "previous_records_seen": 85,
+      "record_count_change_pct": 0.0,
+      "last_attempt_at": "2026-11-28T06:49:54+00:00",
+      "last_success_at": "2026-11-28T06:49:54+00:00",
       "cached_data_available": true,
       "source_url": "https://moseslakewa.gov/Archive.aspx?AMID=74",
       "note": "2 published reports through 2026-10-31. Dated permit IDs: 85. Eligible leads: 1. City-issued single-family dwellings with exact text-layer type and explicit new work only. Scan-based partial coverage. 8 unreadable or inconsistent entries skipped."
@@ -95,8 +95,8 @@
       "freshness_threshold_days": 14,
       "previous_records_seen": 13,
       "record_count_change_pct": null,
-      "last_attempt_at": "2026-11-28T06:22:11+00:00",
-      "last_success_at": "2026-11-28T06:22:11+00:00",
+      "last_attempt_at": "2026-11-28T06:49:54+00:00",
+      "last_success_at": "2026-11-28T06:49:54+00:00",
       "cached_data_available": true,
       "source_url": "https://www.grantcountywa.gov/863/Permit-Reports",
       "note": "2 published reports through 2026-11-20. Dated permit IDs: 13. Eligible leads: 3. County building issuances with explicitly recognized primary building work. City-issued permits and Fire Marshal reports remain separate."
