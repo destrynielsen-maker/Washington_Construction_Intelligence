@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-28T00:53:44+00:00",
+  "generated_at": "2026-11-28T05:43:24+00:00",
   "builders": [
+    {
+      "contractor": "Ranchland Homes",
+      "permits_90d": 3,
+      "single_family": 3,
+      "multifamily": 0,
+      "commercial": 0,
+      "combined_valuation": 603271.4199999999,
+      "jurisdictions": [
+        "Kennewick"
+      ],
+      "top_score": 20
+    },
     {
       "contractor": "Galaxy Partners",
       "permits_90d": 2,
@@ -14,6 +26,18 @@
       "top_score": 50
     },
     {
+      "contractor": "Hayden homes",
+      "permits_90d": 2,
+      "single_family": 2,
+      "multifamily": 0,
+      "commercial": 0,
+      "combined_valuation": 673912.76,
+      "jurisdictions": [
+        "Kennewick"
+      ],
+      "top_score": 20
+    },
+    {
       "contractor": "D Hill Construction",
       "permits_90d": 1,
       "single_family": 0,
@@ -24,6 +48,18 @@
         "Seattle"
       ],
       "top_score": 50
+    },
+    {
+      "contractor": "PRO MADE HOMES LLC",
+      "permits_90d": 1,
+      "single_family": 1,
+      "multifamily": 0,
+      "commercial": 0,
+      "combined_valuation": 302371.58,
+      "jurisdictions": [
+        "Kennewick"
+      ],
+      "top_score": 20
     }
   ]
 }
