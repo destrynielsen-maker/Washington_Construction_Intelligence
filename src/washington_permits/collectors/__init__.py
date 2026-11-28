@@ -1,3 +1,4 @@
 from .seattle import SeattleCollector
+from .kennewick import KennewickCollector
 
-COLLECTORS = [SeattleCollector()]
+COLLECTORS = [SeattleCollector(), KennewickCollector()]

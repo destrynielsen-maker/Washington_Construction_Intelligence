@@ -33,18 +33,19 @@ def _dates(items: list[Permit]) -> list[str]:
     return values
 
 def _success(result, qualified: int, prev: dict | None, generated: str, today: date, threshold: int) -> dict:
-    dates=_dates(result.permits); newest=max(dates) if dates else None; oldest=min(dates) if dates else None
+    dates=(result.observed_dates if getattr(result,"observed_dates",None) is not None else _dates(result.permits)); newest=max(dates) if dates else None; oldest=min(dates) if dates else None
     age=(today-date.fromisoformat(newest)).days if newest else None
     freshness="fresh" if age is not None and age<=threshold else ("stale" if age is not None else "unknown")
+    seen=result.observed_count if getattr(result,"observed_count",None) is not None else len(result.permits)
     prev_count=(prev or {}).get("records_seen"); change=None; volume="normal"
     if prev_count and prev_count>=20:
-        change=((len(result.permits)-prev_count)/prev_count)*100
-        drop=max(0,(prev_count-len(result.permits))/prev_count)
+        change=((seen-prev_count)/prev_count)*100
+        drop=max(0,(prev_count-seen)/prev_count)
         if drop>=.80: volume="degraded"
         elif drop>=.50: volume="warning"
-    status="no_data" if not result.permits else ("stale" if freshness=="stale" else ("degraded" if volume=="degraded" else ("warning" if volume=="warning" else "healthy")))
+    status="no_data" if not seen else ("stale" if freshness=="stale" else ("degraded" if volume=="degraded" else ("warning" if volume=="warning" else "healthy")))
     return {"source":result.source,"status":status,"technical_status":"ok","freshness_status":freshness,"volume_status":volume,
-            "records_seen":len(result.permits),"qualifying_records":qualified,"newest_permit_date":newest,"oldest_permit_date":oldest,
+            "records_seen":seen,"qualifying_records":qualified,"newest_permit_date":newest,"oldest_permit_date":oldest,
             "days_since_newest_permit":age,"freshness_threshold_days":threshold,"previous_records_seen":prev_count,
             "record_count_change_pct":None if change is None else round(change,1),"last_attempt_at":generated,"last_success_at":generated,
             "cached_data_available":bool(result.permits),"source_url":result.source_url,"note":result.note}
@@ -77,6 +78,8 @@ def run(root: Path) -> dict:
             for p in result.permits:
                 classify_permit(p); qualified+=int(p.qualifies)
                 old=existing.get(p.key)
+                if old and p.jurisdiction == collector.name == 'Kennewick':
+                    continue  # preserve original accepted source-period evidence
                 p.first_seen_at=old.first_seen_at if old and old.first_seen_at else generated
                 p.last_seen_at=generated; existing[p.key]=p
             statuses.append(_success(result,qualified,prev,generated,now.date(),getattr(collector,"freshness_days",30)))

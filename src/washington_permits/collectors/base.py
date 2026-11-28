@@ -12,6 +12,8 @@ class CollectionResult:
     permits: list[Permit]
     source_url: str
     note: str = ""
+    observed_count: int | None = None
+    observed_dates: list[str] | None = None
 
 class Collector(Protocol):
     name: str
