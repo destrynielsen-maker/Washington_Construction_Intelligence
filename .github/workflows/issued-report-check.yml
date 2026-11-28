@@ -1,0 +1,31 @@
+name: Washington issued report checks
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'src/washington_permits/collectors/**'
+      - 'tests/test_issued_reports.py'
+      - 'requirements.txt'
+      - '.github/workflows/issued-report-check.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  tests:
+    name: Offline collector tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v
+        env:
+          PYTHONPATH: src

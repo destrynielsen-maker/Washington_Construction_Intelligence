@@ -6,11 +6,16 @@ Washington building-permit prospecting focused on new:
 - multifamily / townhome / duplex / apartment construction
 - commercial / institutional / industrial construction
 
-## Production source
+## Configured sources
 
 **Seattle SDCI — Issued Building Permits**
 
 The City of Seattle public open-data feed exposes issued permit records with project description, housing units, estimated project cost, contractor, address, status, and a direct SDCI record link.
+
+- **Kennewick** uses the city’s rolling weekly permit activity report for supported new dwelling classes.
+- **Yakima County** uses the county’s four latest weekly issued-building reports for explicitly named new primary construction. The county’s archive also contains applications and occupancy events, which the collector excludes from issuance.
+- **Moses Lake** uses the two latest city-issued monthly reports for single-family dwellings with legible issue dates, permit identities, and explicit new work. The image-based archive provides partial coverage.
+- **Grant County** uses the two latest county building issuance reports for recognized primary building work. County coverage is separate from city-issued permits in Moses Lake and other incorporated places.
 
 ## Outputs
 
