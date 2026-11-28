@@ -4,6 +4,7 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 from .classify import classify_permit
 from .collectors import COLLECTORS
+from .collectors.kennewick import KennewickCollector
 from .dashboard import write_public_data
 from .feeds import write_all_feeds
 from .models import Permit
@@ -33,18 +34,19 @@ def _dates(items: list[Permit]) -> list[str]:
     return values
 
 def _success(result, qualified: int, prev: dict | None, generated: str, today: date, threshold: int) -> dict:
-    dates=_dates(result.permits); newest=max(dates) if dates else None; oldest=min(dates) if dates else None
+    dates=(result.observed_dates if getattr(result,"observed_dates",None) is not None else _dates(result.permits)); newest=max(dates) if dates else None; oldest=min(dates) if dates else None
     age=(today-date.fromisoformat(newest)).days if newest else None
     freshness="fresh" if age is not None and age<=threshold else ("stale" if age is not None else "unknown")
+    seen=result.observed_count if getattr(result,"observed_count",None) is not None else len(result.permits)
     prev_count=(prev or {}).get("records_seen"); change=None; volume="normal"
     if prev_count and prev_count>=20:
-        change=((len(result.permits)-prev_count)/prev_count)*100
-        drop=max(0,(prev_count-len(result.permits))/prev_count)
+        change=((seen-prev_count)/prev_count)*100
+        drop=max(0,(prev_count-seen)/prev_count)
         if drop>=.80: volume="degraded"
         elif drop>=.50: volume="warning"
-    status="no_data" if not result.permits else ("stale" if freshness=="stale" else ("degraded" if volume=="degraded" else ("warning" if volume=="warning" else "healthy")))
+    status="no_data" if not seen else ("stale" if freshness=="stale" else ("degraded" if volume=="degraded" else ("warning" if volume=="warning" else "healthy")))
     return {"source":result.source,"status":status,"technical_status":"ok","freshness_status":freshness,"volume_status":volume,
-            "records_seen":len(result.permits),"qualifying_records":qualified,"newest_permit_date":newest,"oldest_permit_date":oldest,
+            "records_seen":seen,"qualifying_records":qualified,"newest_permit_date":newest,"oldest_permit_date":oldest,
             "days_since_newest_permit":age,"freshness_threshold_days":threshold,"previous_records_seen":prev_count,
             "record_count_change_pct":None if change is None else round(change,1),"last_attempt_at":generated,"last_success_at":generated,
             "cached_data_available":bool(result.permits),"source_url":result.source_url,"note":result.note}
@@ -70,7 +72,8 @@ def run(root: Path) -> dict:
     now=datetime.now(timezone.utc).replace(microsecond=0); generated=now.isoformat()
     store=root/"data"/"permits.json"; public=root/"public"
     existing=load_permits(store); previous=_previous(public/"data"/"sources.json"); statuses=[]; total=0
-    for collector in COLLECTORS:
+    collectors = [*COLLECTORS, KennewickCollector()] if os.environ.get("WA_ENABLE_KENNEWICK") == "1" else COLLECTORS
+    for collector in collectors:
         prev=previous.get(collector.name)
         try:
             result=collector.collect(); total+=len(result.permits); qualified=0
